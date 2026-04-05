@@ -1,0 +1,502 @@
+[
+  {
+    "id": "eng-001",
+    "subject": "english",
+    "question": "Which word rhymes with 'cat'?",
+    "options": ["Dog", "Bat", "Cup", "Sun"],
+    "correctIndex": 1,
+    "explanation": "Bat rhymes with cat! They both end with the 'at' sound. Cat, bat, hat, mat!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-002",
+    "subject": "english",
+    "question": "Which letter does the word 'ball' start with?",
+    "options": ["A", "B", "C", "D"],
+    "correctIndex": 1,
+    "explanation": "Ball starts with the letter B! B makes the 'buh' sound.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-003",
+    "subject": "english",
+    "question": "What is the opposite of 'hot'?",
+    "options": ["Warm", "Cold", "Big", "Fast"],
+    "correctIndex": 1,
+    "explanation": "Cold is the opposite of hot! They are as different as can be.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-004",
+    "subject": "english",
+    "question": "Which of these is a vowel?",
+    "options": ["B", "C", "E", "D"],
+    "correctIndex": 2,
+    "explanation": "E is a vowel! The vowels are A, E, I, O, U. Try to remember them!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-005",
+    "subject": "english",
+    "question": "Which word rhymes with 'sun'?",
+    "options": ["Moon", "Run", "Sit", "Hop"],
+    "correctIndex": 1,
+    "explanation": "Run rhymes with sun! They both end with the 'un' sound. Fun!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-006",
+    "subject": "english",
+    "question": "What is the opposite of 'big'?",
+    "options": ["Tall", "Wide", "Small", "Heavy"],
+    "correctIndex": 2,
+    "explanation": "Small is the opposite of big! An ant is small, but an elephant is big!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-007",
+    "subject": "english",
+    "question": "Which sentence is correct?",
+    "options": ["The dog are big.", "The dog is big.", "The dog am big.", "The dog be big."],
+    "correctIndex": 1,
+    "explanation": "We say 'The dog is big' because we use 'is' for one thing. Great grammar!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-008",
+    "subject": "english",
+    "question": "What sound does the letter 'S' make?",
+    "options": ["Buh", "Sss", "Mmm", "Tuh"],
+    "correctIndex": 1,
+    "explanation": "S makes the 'sss' sound, like a snake! Sssssnake!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-009",
+    "subject": "english",
+    "question": "Which word rhymes with 'cake'?",
+    "options": ["Cook", "Lake", "Cup", "Milk"],
+    "correctIndex": 1,
+    "explanation": "Lake rhymes with cake! They both have the 'ake' sound!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-010",
+    "subject": "english",
+    "question": "What is the opposite of 'happy'?",
+    "options": ["Glad", "Sad", "Angry", "Tired"],
+    "correctIndex": 1,
+    "explanation": "Sad is the opposite of happy! When you are not happy, you feel sad.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-011",
+    "subject": "english",
+    "question": "How many vowels are in the English alphabet?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "explanation": "There are 5 vowels: A, E, I, O, U! Every word needs at least one vowel.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-012",
+    "subject": "english",
+    "question": "Which word starts with the same sound as 'fish'?",
+    "options": ["Cat", "Fun", "Dog", "Ball"],
+    "correctIndex": 1,
+    "explanation": "Fun starts with the same 'F' sound as fish! Fff-fish, fff-fun!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-013",
+    "subject": "english",
+    "question": "Which sentence is correct?",
+    "options": ["The cats is playing.", "The cats are playing.", "The cats am playing.", "The cats be playing."],
+    "correctIndex": 1,
+    "explanation": "We say 'The cats are playing' because 'are' is used for more than one. Smart!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-014",
+    "subject": "english",
+    "question": "What is the opposite of 'up'?",
+    "options": ["Left", "Right", "Down", "Side"],
+    "correctIndex": 2,
+    "explanation": "Down is the opposite of up! A bird flies up, and rain comes down!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-015",
+    "subject": "english",
+    "question": "Which word rhymes with 'star'?",
+    "options": ["Stop", "Car", "Step", "Sit"],
+    "correctIndex": 1,
+    "explanation": "Car rhymes with star! They both end with the 'ar' sound!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-016",
+    "subject": "english",
+    "question": "What letter does 'moon' start with?",
+    "options": ["N", "M", "L", "O"],
+    "correctIndex": 1,
+    "explanation": "Moon starts with M! M makes the 'mmm' sound.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-017",
+    "subject": "english",
+    "question": "What is the opposite of 'fast'?",
+    "options": ["Quick", "Slow", "High", "Near"],
+    "correctIndex": 1,
+    "explanation": "Slow is the opposite of fast! A turtle is slow, but a cheetah is fast!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-018",
+    "subject": "english",
+    "question": "Which word has the 'ch' sound?",
+    "options": ["Ship", "Chair", "Think", "Show"],
+    "correctIndex": 1,
+    "explanation": "Chair has the 'ch' sound! Ch-ch-chair! Like chop, cheese, and cherry!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-019",
+    "subject": "english",
+    "question": "Which of these is NOT a vowel?",
+    "options": ["A", "E", "G", "I"],
+    "correctIndex": 2,
+    "explanation": "G is not a vowel! G is a consonant. The vowels are A, E, I, O, U.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-020",
+    "subject": "english",
+    "question": "Which word rhymes with 'dog'?",
+    "options": ["Cat", "Fog", "Hen", "Pig"],
+    "correctIndex": 1,
+    "explanation": "Fog rhymes with dog! They both end with the 'og' sound!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-021",
+    "subject": "english",
+    "question": "What is the opposite of 'day'?",
+    "options": ["Morning", "Night", "Evening", "Noon"],
+    "correctIndex": 1,
+    "explanation": "Night is the opposite of day! The sun shines in the day, and the moon comes out at night.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-022",
+    "subject": "english",
+    "question": "What is the first letter of the alphabet?",
+    "options": ["B", "A", "Z", "C"],
+    "correctIndex": 1,
+    "explanation": "A is the very first letter of the alphabet! A, B, C, D...",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-023",
+    "subject": "english",
+    "question": "Which word has the 'sh' sound?",
+    "options": ["Cat", "Ship", "Fan", "Top"],
+    "correctIndex": 1,
+    "explanation": "Ship has the 'sh' sound! Shhh... like when you ask someone to be quiet!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-024",
+    "subject": "english",
+    "question": "What is the opposite of 'open'?",
+    "options": ["Wide", "Close", "Break", "Push"],
+    "correctIndex": 1,
+    "explanation": "Close is the opposite of open! You open a door and then close it.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-025",
+    "subject": "english",
+    "question": "Which word rhymes with 'king'?",
+    "options": ["Kite", "Ring", "Kind", "Keep"],
+    "correctIndex": 1,
+    "explanation": "Ring rhymes with king! They both end with the 'ing' sound! Sing, ring, king!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-026",
+    "subject": "english",
+    "question": "Fill in the blank: 'I ___ a boy/girl.'",
+    "options": ["is", "am", "are", "be"],
+    "correctIndex": 1,
+    "explanation": "We say 'I am.' We always use 'am' with 'I.' Good grammar!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-027",
+    "subject": "english",
+    "question": "What is the last letter of the alphabet?",
+    "options": ["X", "Y", "Z", "W"],
+    "correctIndex": 2,
+    "explanation": "Z is the very last letter! The alphabet goes from A all the way to Z!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-028",
+    "subject": "english",
+    "question": "Which word means the same as 'little'?",
+    "options": ["Big", "Small", "Tall", "Wide"],
+    "correctIndex": 1,
+    "explanation": "Small means the same as little! They are both words for something not big.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-029",
+    "subject": "english",
+    "question": "What is the opposite of 'new'?",
+    "options": ["Young", "Fresh", "Old", "Clean"],
+    "correctIndex": 2,
+    "explanation": "Old is the opposite of new! Your new shoes will become old after you wear them a lot.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-030",
+    "subject": "english",
+    "question": "Which word starts with a vowel?",
+    "options": ["Ball", "Cat", "Apple", "Dog"],
+    "correctIndex": 2,
+    "explanation": "Apple starts with 'A,' which is a vowel! A, E, I, O, U are vowels.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-031",
+    "subject": "english",
+    "question": "Which word rhymes with 'bed'?",
+    "options": ["Bad", "Red", "Beg", "Big"],
+    "correctIndex": 1,
+    "explanation": "Red rhymes with bed! They both end with the 'ed' sound!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-032",
+    "subject": "english",
+    "question": "What is the opposite of 'tall'?",
+    "options": ["Big", "Short", "Wide", "Long"],
+    "correctIndex": 1,
+    "explanation": "Short is the opposite of tall! A giraffe is tall, and a mouse is short!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-033",
+    "subject": "english",
+    "question": "Which word has 3 letters?",
+    "options": ["Apple", "Cat", "Ball", "Tree"],
+    "correctIndex": 1,
+    "explanation": "Cat has 3 letters: C-A-T! You can count them on your fingers.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-034",
+    "subject": "english",
+    "question": "Fill in the blank: 'They ___ my friends.'",
+    "options": ["is", "am", "are", "was"],
+    "correctIndex": 2,
+    "explanation": "We say 'They are my friends.' We use 'are' with 'they' because it means more than one person!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-035",
+    "subject": "english",
+    "question": "Which word rhymes with 'tree'?",
+    "options": ["Trip", "Free", "Trap", "True"],
+    "correctIndex": 1,
+    "explanation": "Free rhymes with tree! They both end with the 'ee' sound!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-036",
+    "subject": "english",
+    "question": "What is the opposite of 'light'?",
+    "options": ["Bright", "Dark", "Shiny", "Clear"],
+    "correctIndex": 1,
+    "explanation": "Dark is the opposite of light! When you turn off the light, it gets dark.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-037",
+    "subject": "english",
+    "question": "What sound does the letter 'R' make?",
+    "options": ["Rrr", "Sss", "Mmm", "Lll"],
+    "correctIndex": 0,
+    "explanation": "R makes the 'rrr' sound! Like a race car: Rrrroom!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-038",
+    "subject": "english",
+    "question": "Which is a sight word?",
+    "options": ["Xylophone", "The", "Dinosaur", "Beautiful"],
+    "correctIndex": 1,
+    "explanation": "'The' is a sight word! Sight words are words you see so often that you learn to read them quickly.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-039",
+    "subject": "english",
+    "question": "What is the opposite of 'in'?",
+    "options": ["Under", "Over", "Out", "Up"],
+    "correctIndex": 2,
+    "explanation": "Out is the opposite of in! The cat goes in the box, then comes out!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-040",
+    "subject": "english",
+    "question": "Which word rhymes with 'hop'?",
+    "options": ["Hip", "Stop", "Hat", "Hug"],
+    "correctIndex": 1,
+    "explanation": "Stop rhymes with hop! They both end with the 'op' sound!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-041",
+    "subject": "english",
+    "question": "Fill in the blank: 'She ___ a teacher.'",
+    "options": ["am", "is", "are", "be"],
+    "correctIndex": 1,
+    "explanation": "We say 'She is a teacher.' We use 'is' with 'she' and 'he.' Great job!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-042",
+    "subject": "english",
+    "question": "Which word starts with the 'th' sound?",
+    "options": ["Train", "Think", "Sing", "Plant"],
+    "correctIndex": 1,
+    "explanation": "Think starts with the 'th' sound! Th-th-think! Like three, this, and that!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-043",
+    "subject": "english",
+    "question": "What is the opposite of 'wet'?",
+    "options": ["Damp", "Dry", "Cold", "Warm"],
+    "correctIndex": 1,
+    "explanation": "Dry is the opposite of wet! When you come out of the pool, you are wet. A towel makes you dry!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-044",
+    "subject": "english",
+    "question": "How many letters are in the word 'dog'?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "Dog has 3 letters: D-O-G! You can spell it!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-045",
+    "subject": "english",
+    "question": "Which word rhymes with 'book'?",
+    "options": ["Bag", "Cook", "Boat", "Ball"],
+    "correctIndex": 1,
+    "explanation": "Cook rhymes with book! They both end with the 'ook' sound!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-046",
+    "subject": "english",
+    "question": "What is the opposite of 'yes'?",
+    "options": ["Maybe", "No", "Sure", "OK"],
+    "correctIndex": 1,
+    "explanation": "No is the opposite of yes! They are the two simplest answers.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-047",
+    "subject": "english",
+    "question": "Which letter makes the 'kuh' sound?",
+    "options": ["G", "K", "T", "P"],
+    "correctIndex": 1,
+    "explanation": "K makes the 'kuh' sound! Like in kite, king, and kitten!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-048",
+    "subject": "english",
+    "question": "Fill in the blank: 'We ___ going to the park.'",
+    "options": ["is", "am", "are", "was"],
+    "correctIndex": 2,
+    "explanation": "We say 'We are going.' We use 'are' with 'we.' You are learning grammar!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "eng-049",
+    "subject": "english",
+    "question": "What is the opposite of 'hard'?",
+    "options": ["Tough", "Strong", "Soft", "Heavy"],
+    "correctIndex": 2,
+    "explanation": "Soft is the opposite of hard! A rock is hard, but a pillow is soft!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "eng-050",
+    "subject": "english",
+    "question": "Which word rhymes with 'play'?",
+    "options": ["Plug", "Day", "Plum", "Plan"],
+    "correctIndex": 1,
+    "explanation": "Day rhymes with play! They both end with the 'ay' sound! Hooray!",
+    "difficulty": 1,
+    "source": "bank"
+  }
+]

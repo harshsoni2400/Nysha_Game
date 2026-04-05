@@ -1,0 +1,502 @@
+[
+  {
+    "id": "math-001",
+    "subject": "math",
+    "question": "What is 2 + 3?",
+    "options": ["4", "5", "6", "7"],
+    "correctIndex": 1,
+    "explanation": "Great job! When you put 2 and 3 together, you get 5. Try counting on your fingers!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-002",
+    "subject": "math",
+    "question": "What is 1 + 1?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "explanation": "Awesome! 1 plus 1 equals 2. One finger plus one more finger makes two fingers!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-003",
+    "subject": "math",
+    "question": "What is 4 + 5?",
+    "options": ["7", "8", "9", "10"],
+    "correctIndex": 2,
+    "explanation": "Nice work! 4 plus 5 equals 9. You can count: 5, 6, 7, 8, 9!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-004",
+    "subject": "math",
+    "question": "What is 3 + 3?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "explanation": "That's right! 3 plus 3 equals 6. Two groups of 3 make 6!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-005",
+    "subject": "math",
+    "question": "What is 7 + 2?",
+    "options": ["8", "9", "10", "11"],
+    "correctIndex": 1,
+    "explanation": "Well done! 7 plus 2 equals 9. Start at 7 and count two more: 8, 9!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-006",
+    "subject": "math",
+    "question": "What is 5 - 2?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "You got it! If you have 5 apples and eat 2, you have 3 left!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-007",
+    "subject": "math",
+    "question": "What is 10 - 4?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "explanation": "Fantastic! 10 minus 4 equals 6. If you count back 4 from 10, you land on 6!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-008",
+    "subject": "math",
+    "question": "How many sides does a triangle have?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "A triangle has 3 sides. The word 'tri' means three!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-009",
+    "subject": "math",
+    "question": "How many sides does a square have?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 1,
+    "explanation": "A square has 4 equal sides. All four sides are the same length!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-010",
+    "subject": "math",
+    "question": "Which number is bigger: 8 or 5?",
+    "options": ["5", "8", "They are the same", "Neither"],
+    "correctIndex": 1,
+    "explanation": "8 is bigger than 5! If you count, 8 comes after 5 on the number line.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-011",
+    "subject": "math",
+    "question": "What is 6 + 4?",
+    "options": ["9", "10", "11", "12"],
+    "correctIndex": 1,
+    "explanation": "Super! 6 plus 4 equals 10. You can use your fingers to check!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-012",
+    "subject": "math",
+    "question": "What is 8 - 3?",
+    "options": ["4", "5", "6", "7"],
+    "correctIndex": 1,
+    "explanation": "Great thinking! 8 minus 3 equals 5. Count back 3 from 8: 7, 6, 5!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-013",
+    "subject": "math",
+    "question": "What number comes after 9?",
+    "options": ["8", "10", "11", "7"],
+    "correctIndex": 1,
+    "explanation": "That's right! After 9 comes 10. You are learning to count so well!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-014",
+    "subject": "math",
+    "question": "What number comes before 7?",
+    "options": ["5", "6", "8", "9"],
+    "correctIndex": 1,
+    "explanation": "Correct! 6 comes right before 7. Great counting skills!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-015",
+    "subject": "math",
+    "question": "What is 9 + 1?",
+    "options": ["8", "9", "10", "11"],
+    "correctIndex": 2,
+    "explanation": "Wonderful! 9 plus 1 equals 10. Adding 1 just means the next number!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-016",
+    "subject": "math",
+    "question": "Which shape is round like a ball?",
+    "options": ["Square", "Triangle", "Circle", "Rectangle"],
+    "correctIndex": 2,
+    "explanation": "A circle is round like a ball! It has no corners at all.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-017",
+    "subject": "math",
+    "question": "What is 7 + 7?",
+    "options": ["12", "13", "14", "15"],
+    "correctIndex": 2,
+    "explanation": "Amazing! 7 plus 7 equals 14. That is called a double!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-018",
+    "subject": "math",
+    "question": "What is 10 + 5?",
+    "options": ["14", "15", "16", "17"],
+    "correctIndex": 1,
+    "explanation": "Well done! 10 plus 5 equals 15. Adding to 10 is easy!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-019",
+    "subject": "math",
+    "question": "Which number is smallest: 3, 7, 1, 5?",
+    "options": ["3", "7", "1", "5"],
+    "correctIndex": 2,
+    "explanation": "1 is the smallest number here! It comes first when you count.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-020",
+    "subject": "math",
+    "question": "What is 6 - 6?",
+    "options": ["0", "1", "2", "6"],
+    "correctIndex": 0,
+    "explanation": "When you take away the same number, you get 0. Nothing is left!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-021",
+    "subject": "math",
+    "question": "What is 8 + 8?",
+    "options": ["14", "15", "16", "18"],
+    "correctIndex": 2,
+    "explanation": "Super work! 8 plus 8 equals 16. That is another fun double!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-022",
+    "subject": "math",
+    "question": "How many corners does a rectangle have?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "explanation": "A rectangle has 4 corners. Just like a door or a book!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-023",
+    "subject": "math",
+    "question": "What is 12 + 5?",
+    "options": ["15", "16", "17", "18"],
+    "correctIndex": 2,
+    "explanation": "Nicely done! 12 plus 5 equals 17. Start at 12 and count 5 more!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-024",
+    "subject": "math",
+    "question": "What is 9 - 5?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 1,
+    "explanation": "That is correct! 9 minus 5 equals 4. Count back 5 from 9!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-025",
+    "subject": "math",
+    "question": "What is 5 + 5?",
+    "options": ["8", "9", "10", "11"],
+    "correctIndex": 2,
+    "explanation": "5 plus 5 equals 10! That is how many fingers you have on both hands!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-026",
+    "subject": "math",
+    "question": "What comes next: 2, 4, 6, __?",
+    "options": ["7", "8", "9", "10"],
+    "correctIndex": 1,
+    "explanation": "The pattern is counting by 2s! 2, 4, 6, 8 -- you are skip counting!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-027",
+    "subject": "math",
+    "question": "What is 15 + 3?",
+    "options": ["16", "17", "18", "19"],
+    "correctIndex": 2,
+    "explanation": "Great job! 15 plus 3 equals 18. Count on from 15: 16, 17, 18!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-028",
+    "subject": "math",
+    "question": "What is 10 - 7?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "10 minus 7 equals 3. You can count back or use your fingers!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-029",
+    "subject": "math",
+    "question": "How many sides does a hexagon have?",
+    "options": ["4", "5", "6", "7"],
+    "correctIndex": 2,
+    "explanation": "A hexagon has 6 sides! Think of a honeycomb -- those are hexagons!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "math-030",
+    "subject": "math",
+    "question": "What is 11 + 9?",
+    "options": ["18", "19", "20", "21"],
+    "correctIndex": 2,
+    "explanation": "Excellent! 11 plus 9 equals 20. You are getting really good at adding!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "math-031",
+    "subject": "math",
+    "question": "Which number is even: 3, 5, 6, 9?",
+    "options": ["3", "5", "6", "9"],
+    "correctIndex": 2,
+    "explanation": "6 is even! Even numbers can be split into two equal groups: 3 and 3.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-032",
+    "subject": "math",
+    "question": "What is 4 + 4?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 2,
+    "explanation": "4 plus 4 equals 8! Doubles are fun to learn!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-033",
+    "subject": "math",
+    "question": "What comes next: 5, 10, 15, __?",
+    "options": ["18", "19", "20", "25"],
+    "correctIndex": 2,
+    "explanation": "You are counting by 5s! 5, 10, 15, 20. Great pattern finding!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-034",
+    "subject": "math",
+    "question": "What is 3 + 7?",
+    "options": ["8", "9", "10", "11"],
+    "correctIndex": 2,
+    "explanation": "3 plus 7 equals 10! Together they make a perfect 10!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-035",
+    "subject": "math",
+    "question": "What is 9 + 8?",
+    "options": ["15", "16", "17", "18"],
+    "correctIndex": 2,
+    "explanation": "Wonderful! 9 plus 8 equals 17. That is a tricky one, and you did great!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "math-036",
+    "subject": "math",
+    "question": "What is 7 - 0?",
+    "options": ["0", "5", "6", "7"],
+    "correctIndex": 3,
+    "explanation": "When you subtract 0, the number stays the same! 7 minus 0 is still 7.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-037",
+    "subject": "math",
+    "question": "How many fingers do you have on one hand?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "explanation": "You have 5 fingers on one hand! Count them: 1, 2, 3, 4, 5!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-038",
+    "subject": "math",
+    "question": "What is 14 + 6?",
+    "options": ["18", "19", "20", "21"],
+    "correctIndex": 2,
+    "explanation": "14 plus 6 equals 20! You are becoming a math star!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "math-039",
+    "subject": "math",
+    "question": "What is 10 - 10?",
+    "options": ["0", "1", "5", "10"],
+    "correctIndex": 0,
+    "explanation": "10 minus 10 equals 0. If you have 10 cookies and eat all 10, you have none left!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-040",
+    "subject": "math",
+    "question": "Which is the correct order: 3, __, 5?",
+    "options": ["2", "4", "6", "7"],
+    "correctIndex": 1,
+    "explanation": "4 goes between 3 and 5! Great number ordering!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-041",
+    "subject": "math",
+    "question": "What is 13 + 7?",
+    "options": ["18", "19", "20", "21"],
+    "correctIndex": 2,
+    "explanation": "13 plus 7 equals 20. You are adding big numbers like a pro!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "math-042",
+    "subject": "math",
+    "question": "How many sides does a pentagon have?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "explanation": "A pentagon has 5 sides. 'Penta' means five!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "math-043",
+    "subject": "math",
+    "question": "What is 6 + 6?",
+    "options": ["10", "11", "12", "13"],
+    "correctIndex": 2,
+    "explanation": "6 plus 6 equals 12. Another awesome double!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-044",
+    "subject": "math",
+    "question": "What is 8 - 5?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "explanation": "8 minus 5 equals 3. Count back from 8: 7, 6, 5, 4, 3!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-045",
+    "subject": "math",
+    "question": "What number is one more than 19?",
+    "options": ["18", "19", "20", "21"],
+    "correctIndex": 2,
+    "explanation": "One more than 19 is 20! That is a big number!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-046",
+    "subject": "math",
+    "question": "What is 16 + 4?",
+    "options": ["18", "19", "20", "21"],
+    "correctIndex": 2,
+    "explanation": "16 plus 4 equals 20. You are so good at this!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "math-047",
+    "subject": "math",
+    "question": "What is 2 + 2 + 2?",
+    "options": ["4", "5", "6", "8"],
+    "correctIndex": 2,
+    "explanation": "2 plus 2 is 4, and 4 plus 2 is 6! You added three numbers!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "math-048",
+    "subject": "math",
+    "question": "Which is greater: 12 or 9?",
+    "options": ["9", "12", "They are the same", "Neither"],
+    "correctIndex": 1,
+    "explanation": "12 is greater than 9! 12 comes after 9 when you count.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "math-049",
+    "subject": "math",
+    "question": "What comes next: 10, 20, 30, __?",
+    "options": ["35", "40", "45", "50"],
+    "correctIndex": 1,
+    "explanation": "You are counting by 10s! 10, 20, 30, 40. Each time you add 10 more!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "math-050",
+    "subject": "math",
+    "question": "If you have 3 apples and get 4 more, how many do you have?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "explanation": "3 apples plus 4 more apples equals 7 apples! Great problem solving!",
+    "difficulty": 1,
+    "source": "bank"
+  }
+]

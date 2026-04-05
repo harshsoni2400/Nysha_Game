@@ -1,0 +1,502 @@
+[
+  {
+    "id": "gk-001",
+    "subject": "gk",
+    "question": "How many days are in a week?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "explanation": "There are 7 days in a week! Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-002",
+    "subject": "gk",
+    "question": "What color is a banana?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "correctIndex": 2,
+    "explanation": "A ripe banana is yellow! Bananas are a yummy and healthy fruit!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-003",
+    "subject": "gk",
+    "question": "Which fruit is red and has seeds on the outside?",
+    "options": ["Apple", "Strawberry", "Banana", "Orange"],
+    "correctIndex": 1,
+    "explanation": "A strawberry is red with tiny seeds on the outside! It is the only fruit with seeds on the outside.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-004",
+    "subject": "gk",
+    "question": "What shape is a wheel?",
+    "options": ["Square", "Triangle", "Circle", "Rectangle"],
+    "correctIndex": 2,
+    "explanation": "A wheel is shaped like a circle! It is round so it can roll smoothly.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-005",
+    "subject": "gk",
+    "question": "Which day comes after Monday?",
+    "options": ["Sunday", "Tuesday", "Wednesday", "Friday"],
+    "correctIndex": 1,
+    "explanation": "Tuesday comes after Monday! The days go: Monday, Tuesday, Wednesday...",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-006",
+    "subject": "gk",
+    "question": "What color do you get when you mix red and yellow?",
+    "options": ["Green", "Orange", "Purple", "Blue"],
+    "correctIndex": 1,
+    "explanation": "Red and yellow make orange! Mixing colors is like magic!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-007",
+    "subject": "gk",
+    "question": "Which vegetable is orange and long?",
+    "options": ["Potato", "Tomato", "Carrot", "Onion"],
+    "correctIndex": 2,
+    "explanation": "A carrot is orange and long! Rabbits love to eat carrots, and so should you -- they are great for your eyes!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-008",
+    "subject": "gk",
+    "question": "What does a doctor do?",
+    "options": ["Teaches children", "Helps sick people", "Puts out fires", "Drives a bus"],
+    "correctIndex": 1,
+    "explanation": "A doctor helps sick people get better! Doctors take care of our health.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-009",
+    "subject": "gk",
+    "question": "How many months are in a year?",
+    "options": ["10", "11", "12", "13"],
+    "correctIndex": 2,
+    "explanation": "There are 12 months in a year! January, February, March... all the way to December!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-010",
+    "subject": "gk",
+    "question": "What color is the sky on a sunny day?",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "correctIndex": 2,
+    "explanation": "The sky is blue on a sunny day! Look up and enjoy the beautiful blue sky!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-011",
+    "subject": "gk",
+    "question": "What shape is a pizza slice?",
+    "options": ["Circle", "Triangle", "Square", "Rectangle"],
+    "correctIndex": 1,
+    "explanation": "A pizza slice is shaped like a triangle! The whole pizza is a circle, but each slice is a triangle.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-012",
+    "subject": "gk",
+    "question": "Which is a fruit?",
+    "options": ["Carrot", "Potato", "Mango", "Onion"],
+    "correctIndex": 2,
+    "explanation": "Mango is a fruit! It is sweet, juicy, and delicious!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-013",
+    "subject": "gk",
+    "question": "What does a firefighter do?",
+    "options": ["Teaches students", "Puts out fires", "Flies planes", "Cooks food"],
+    "correctIndex": 1,
+    "explanation": "Firefighters put out fires and help keep people safe! They are very brave!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-014",
+    "subject": "gk",
+    "question": "What color do you get when you mix blue and yellow?",
+    "options": ["Red", "Orange", "Green", "Purple"],
+    "correctIndex": 2,
+    "explanation": "Blue and yellow make green! Like the color of grass and leaves!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-015",
+    "subject": "gk",
+    "question": "Which day is the first day of the week?",
+    "options": ["Monday", "Sunday", "Saturday", "Friday"],
+    "correctIndex": 1,
+    "explanation": "Sunday is the first day of the week on a calendar! Some people also say Monday.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-016",
+    "subject": "gk",
+    "question": "Which vegetable is green and looks like a small tree?",
+    "options": ["Potato", "Broccoli", "Onion", "Carrot"],
+    "correctIndex": 1,
+    "explanation": "Broccoli looks like a small tree! It is green and very good for you!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-017",
+    "subject": "gk",
+    "question": "What shape is a book?",
+    "options": ["Circle", "Triangle", "Rectangle", "Oval"],
+    "correctIndex": 2,
+    "explanation": "A book is shaped like a rectangle! It has 4 sides with 2 longer sides and 2 shorter sides.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-018",
+    "subject": "gk",
+    "question": "Which month comes first in the year?",
+    "options": ["March", "January", "February", "April"],
+    "correctIndex": 1,
+    "explanation": "January is the first month of the year! It is when the new year begins!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-019",
+    "subject": "gk",
+    "question": "What does a teacher do?",
+    "options": ["Builds houses", "Teaches students", "Drives trucks", "Fixes cars"],
+    "correctIndex": 1,
+    "explanation": "A teacher teaches students and helps them learn new things! Teachers are wonderful!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-020",
+    "subject": "gk",
+    "question": "What color is grass?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "correctIndex": 3,
+    "explanation": "Grass is green! It covers the ground in parks and gardens.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-021",
+    "subject": "gk",
+    "question": "Which fruit is round and orange?",
+    "options": ["Apple", "Banana", "Orange", "Grape"],
+    "correctIndex": 2,
+    "explanation": "An orange is round and orange! The fruit is named after its color!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-022",
+    "subject": "gk",
+    "question": "What do we use an umbrella for?",
+    "options": ["To fly", "To stay dry in rain", "To eat", "To sleep"],
+    "correctIndex": 1,
+    "explanation": "We use an umbrella to stay dry when it rains! It keeps the raindrops off our head.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-023",
+    "subject": "gk",
+    "question": "Which shape has no corners?",
+    "options": ["Square", "Triangle", "Circle", "Rectangle"],
+    "correctIndex": 2,
+    "explanation": "A circle has no corners! It is perfectly round with no sharp edges.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-024",
+    "subject": "gk",
+    "question": "What do you call a person who flies an airplane?",
+    "options": ["Driver", "Captain", "Pilot", "Chef"],
+    "correctIndex": 2,
+    "explanation": "A person who flies an airplane is called a pilot! Pilots fly us to many places!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-025",
+    "subject": "gk",
+    "question": "What color do you get when you mix red and blue?",
+    "options": ["Green", "Orange", "Yellow", "Purple"],
+    "correctIndex": 3,
+    "explanation": "Red and blue make purple! Purple is a royal color!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-026",
+    "subject": "gk",
+    "question": "Which vegetable makes you cry when you cut it?",
+    "options": ["Carrot", "Tomato", "Onion", "Potato"],
+    "correctIndex": 2,
+    "explanation": "Onions can make you cry when you cut them! They release something that makes your eyes water.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-027",
+    "subject": "gk",
+    "question": "Which is the last month of the year?",
+    "options": ["November", "December", "October", "January"],
+    "correctIndex": 1,
+    "explanation": "December is the last month of the year! It is month number 12.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-028",
+    "subject": "gk",
+    "question": "What do we use a clock for?",
+    "options": ["To cook food", "To tell time", "To write", "To play music"],
+    "correctIndex": 1,
+    "explanation": "We use a clock to tell time! It tells us what hour and minute it is.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-029",
+    "subject": "gk",
+    "question": "What shape is a dice?",
+    "options": ["Circle", "Sphere", "Cube", "Triangle"],
+    "correctIndex": 2,
+    "explanation": "A dice is shaped like a cube! A cube has 6 square faces. Each face has dots on it!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-030",
+    "subject": "gk",
+    "question": "Which day comes before Sunday?",
+    "options": ["Friday", "Saturday", "Monday", "Thursday"],
+    "correctIndex": 1,
+    "explanation": "Saturday comes before Sunday! Saturday is the second to last day of the week.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-031",
+    "subject": "gk",
+    "question": "What color is a fire truck?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "correctIndex": 2,
+    "explanation": "Fire trucks are red! The bright red color helps people see them coming from far away.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-032",
+    "subject": "gk",
+    "question": "Which fruit is yellow and curved?",
+    "options": ["Apple", "Banana", "Grape", "Strawberry"],
+    "correctIndex": 1,
+    "explanation": "A banana is yellow and curved! It is a fun shape, like a smile!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-033",
+    "subject": "gk",
+    "question": "What does a police officer do?",
+    "options": ["Bakes bread", "Keeps people safe", "Paints pictures", "Grows food"],
+    "correctIndex": 1,
+    "explanation": "Police officers keep people safe! They help protect our neighborhoods.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-034",
+    "subject": "gk",
+    "question": "How many colors are in a rainbow?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "explanation": "A rainbow has 7 colors: red, orange, yellow, green, blue, indigo, and violet!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-035",
+    "subject": "gk",
+    "question": "What shape is a coin?",
+    "options": ["Square", "Circle", "Triangle", "Star"],
+    "correctIndex": 1,
+    "explanation": "A coin is shaped like a circle! It is round and flat.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-036",
+    "subject": "gk",
+    "question": "Which vegetable is red and used in ketchup?",
+    "options": ["Carrot", "Potato", "Tomato", "Pea"],
+    "correctIndex": 2,
+    "explanation": "Tomatoes are red and used to make ketchup! Some people think tomatoes are vegetables, but they are actually fruits!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-037",
+    "subject": "gk",
+    "question": "What do you call a person who cooks food in a restaurant?",
+    "options": ["Teacher", "Doctor", "Chef", "Pilot"],
+    "correctIndex": 2,
+    "explanation": "A chef cooks food in a restaurant! Chefs make delicious meals for people to enjoy.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-038",
+    "subject": "gk",
+    "question": "Which shape has 3 sides?",
+    "options": ["Circle", "Square", "Triangle", "Rectangle"],
+    "correctIndex": 2,
+    "explanation": "A triangle has 3 sides! You can find triangle shapes in rooftops and sandwiches!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-039",
+    "subject": "gk",
+    "question": "What is the color of snow?",
+    "options": ["Blue", "Yellow", "White", "Gray"],
+    "correctIndex": 2,
+    "explanation": "Snow is white! It covers the ground like a beautiful white blanket in winter.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-040",
+    "subject": "gk",
+    "question": "Which month has Valentine's Day?",
+    "options": ["January", "February", "March", "April"],
+    "correctIndex": 1,
+    "explanation": "Valentine's Day is in February! It is on February 14th, a day to share love and kindness!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-041",
+    "subject": "gk",
+    "question": "What is a baby's bed called?",
+    "options": ["Chair", "Table", "Crib", "Desk"],
+    "correctIndex": 2,
+    "explanation": "A baby's bed is called a crib! It has high sides to keep the baby safe.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-042",
+    "subject": "gk",
+    "question": "What shape is a stop sign?",
+    "options": ["Circle", "Square", "Octagon", "Triangle"],
+    "correctIndex": 2,
+    "explanation": "A stop sign is an octagon! An octagon has 8 sides. Look for stop signs when you go outside!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-043",
+    "subject": "gk",
+    "question": "Which fruit grows on a vine and can be purple or green?",
+    "options": ["Apple", "Banana", "Grape", "Mango"],
+    "correctIndex": 2,
+    "explanation": "Grapes grow on vines and can be purple or green! They come in bunches.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-044",
+    "subject": "gk",
+    "question": "What do you call a person who delivers letters?",
+    "options": ["Firefighter", "Mail carrier", "Chef", "Teacher"],
+    "correctIndex": 1,
+    "explanation": "A mail carrier delivers letters and packages to your home! They come rain or shine.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-045",
+    "subject": "gk",
+    "question": "What color are most school buses?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "correctIndex": 2,
+    "explanation": "School buses are yellow! The bright yellow color makes them easy to see on the road.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-046",
+    "subject": "gk",
+    "question": "Which shape is like an egg?",
+    "options": ["Circle", "Oval", "Square", "Triangle"],
+    "correctIndex": 1,
+    "explanation": "An oval is shaped like an egg! It is like a stretched-out circle.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-047",
+    "subject": "gk",
+    "question": "How many days are in a weekend?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "explanation": "There are 2 days in a weekend: Saturday and Sunday! That is when you get to rest and play!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-048",
+    "subject": "gk",
+    "question": "What is the green vegetable that Popeye loves?",
+    "options": ["Broccoli", "Spinach", "Peas", "Lettuce"],
+    "correctIndex": 1,
+    "explanation": "Popeye loves spinach! Spinach is a green leafy vegetable that gives you energy and strength!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-049",
+    "subject": "gk",
+    "question": "What do you call a person who takes care of your teeth?",
+    "options": ["Doctor", "Dentist", "Nurse", "Chef"],
+    "correctIndex": 1,
+    "explanation": "A dentist takes care of your teeth! It is important to visit the dentist to keep your teeth healthy!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-050",
+    "subject": "gk",
+    "question": "What shape is a door?",
+    "options": ["Circle", "Triangle", "Rectangle", "Oval"],
+    "correctIndex": 2,
+    "explanation": "A door is shaped like a rectangle! It has 4 sides, with 2 long sides and 2 shorter sides.",
+    "difficulty": 1,
+    "source": "bank"
+  }
+]

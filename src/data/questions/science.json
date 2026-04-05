@@ -1,0 +1,502 @@
+[
+  {
+    "id": "sci-001",
+    "subject": "science",
+    "question": "What do plants need to grow?",
+    "options": ["Candy", "Water and sunlight", "Toys", "Darkness"],
+    "correctIndex": 1,
+    "explanation": "Plants need water and sunlight to grow! They drink water through their roots and soak up sunshine through their leaves.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-002",
+    "subject": "science",
+    "question": "What is a baby dog called?",
+    "options": ["Kitten", "Cub", "Puppy", "Calf"],
+    "correctIndex": 2,
+    "explanation": "A baby dog is called a puppy! Puppies are so cute and playful!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-003",
+    "subject": "science",
+    "question": "Which body part do we use to see?",
+    "options": ["Ears", "Nose", "Eyes", "Mouth"],
+    "correctIndex": 2,
+    "explanation": "We use our eyes to see! Eyes help us look at all the beautiful things around us.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-004",
+    "subject": "science",
+    "question": "What falls from the clouds when it rains?",
+    "options": ["Snow", "Water", "Sand", "Leaves"],
+    "correctIndex": 1,
+    "explanation": "Water falls from the clouds as rain! Clouds hold tiny drops of water that fall down when they get heavy.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-005",
+    "subject": "science",
+    "question": "How many legs does a spider have?",
+    "options": ["4", "6", "8", "10"],
+    "correctIndex": 2,
+    "explanation": "A spider has 8 legs! That is a lot of legs! Spiders are not insects -- they are arachnids.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-006",
+    "subject": "science",
+    "question": "What is the biggest star we can see during the day?",
+    "options": ["Moon", "Sun", "Mars", "Venus"],
+    "correctIndex": 1,
+    "explanation": "The Sun is a star! It is the closest star to Earth and gives us light and warmth.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-007",
+    "subject": "science",
+    "question": "Which sense do we use our nose for?",
+    "options": ["Hearing", "Tasting", "Smelling", "Touching"],
+    "correctIndex": 2,
+    "explanation": "We use our nose for smelling! Your nose can smell flowers, food, and so many things!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-008",
+    "subject": "science",
+    "question": "What is a baby cat called?",
+    "options": ["Puppy", "Kitten", "Cub", "Foal"],
+    "correctIndex": 1,
+    "explanation": "A baby cat is called a kitten! Kittens love to play with yarn!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-009",
+    "subject": "science",
+    "question": "In which season do leaves fall from trees?",
+    "options": ["Spring", "Summer", "Autumn", "Winter"],
+    "correctIndex": 2,
+    "explanation": "Leaves fall in autumn (also called fall)! They turn beautiful red, orange, and yellow colors.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-010",
+    "subject": "science",
+    "question": "Which animal lives in water?",
+    "options": ["Cat", "Dog", "Fish", "Bird"],
+    "correctIndex": 2,
+    "explanation": "Fish live in water! They breathe through special parts called gills.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-011",
+    "subject": "science",
+    "question": "What part of a plant grows under the ground?",
+    "options": ["Flower", "Leaf", "Root", "Stem"],
+    "correctIndex": 2,
+    "explanation": "Roots grow under the ground! They hold the plant in place and drink up water from the soil.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-012",
+    "subject": "science",
+    "question": "What do we breathe in?",
+    "options": ["Water", "Air", "Food", "Light"],
+    "correctIndex": 1,
+    "explanation": "We breathe in air! Air has oxygen, which our body needs to stay alive.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-013",
+    "subject": "science",
+    "question": "Which body part do we use to hear?",
+    "options": ["Eyes", "Ears", "Nose", "Hands"],
+    "correctIndex": 1,
+    "explanation": "We use our ears to hear! Our ears catch sounds from all around us.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-014",
+    "subject": "science",
+    "question": "What is a baby cow called?",
+    "options": ["Lamb", "Calf", "Foal", "Kid"],
+    "correctIndex": 1,
+    "explanation": "A baby cow is called a calf! Calves drink milk from their mothers.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-015",
+    "subject": "science",
+    "question": "What does ice turn into when it melts?",
+    "options": ["Air", "Steam", "Water", "Dust"],
+    "correctIndex": 2,
+    "explanation": "Ice turns into water when it melts! Heat makes the ice change from solid to liquid.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-016",
+    "subject": "science",
+    "question": "How many legs does an insect have?",
+    "options": ["4", "6", "8", "10"],
+    "correctIndex": 1,
+    "explanation": "Insects have 6 legs! Ants, bees, and butterflies are all insects with 6 legs.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-017",
+    "subject": "science",
+    "question": "Which season comes after winter?",
+    "options": ["Summer", "Autumn", "Spring", "Winter"],
+    "correctIndex": 2,
+    "explanation": "Spring comes after winter! In spring, flowers bloom and baby animals are born!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-018",
+    "subject": "science",
+    "question": "What do cows give us?",
+    "options": ["Eggs", "Milk", "Honey", "Wool"],
+    "correctIndex": 1,
+    "explanation": "Cows give us milk! You might drink milk or eat cheese made from milk.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-019",
+    "subject": "science",
+    "question": "Which body part pumps blood through your body?",
+    "options": ["Brain", "Lungs", "Heart", "Stomach"],
+    "correctIndex": 2,
+    "explanation": "Your heart pumps blood! It beats all day and all night to keep you alive. You can feel it in your chest!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-020",
+    "subject": "science",
+    "question": "What does a caterpillar turn into?",
+    "options": ["A worm", "A butterfly", "A bee", "A spider"],
+    "correctIndex": 1,
+    "explanation": "A caterpillar turns into a butterfly! It wraps itself in a cocoon and comes out with beautiful wings!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-021",
+    "subject": "science",
+    "question": "The Earth goes around the ___.",
+    "options": ["Moon", "Sun", "Stars", "Mars"],
+    "correctIndex": 1,
+    "explanation": "The Earth goes around the Sun! It takes one whole year to go all the way around.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-022",
+    "subject": "science",
+    "question": "Which animal gives us eggs?",
+    "options": ["Dog", "Cat", "Hen", "Cow"],
+    "correctIndex": 2,
+    "explanation": "Hens give us eggs! A hen is a female chicken that lays eggs.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-023",
+    "subject": "science",
+    "question": "What do we use our tongue for?",
+    "options": ["Seeing", "Hearing", "Tasting", "Smelling"],
+    "correctIndex": 2,
+    "explanation": "We use our tongue for tasting! Your tongue can taste sweet, sour, salty, and bitter things!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-024",
+    "subject": "science",
+    "question": "What is a baby sheep called?",
+    "options": ["Calf", "Puppy", "Lamb", "Kid"],
+    "correctIndex": 2,
+    "explanation": "A baby sheep is called a lamb! Lambs have soft, fluffy wool.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-025",
+    "subject": "science",
+    "question": "What keeps us warm when it is cold outside?",
+    "options": ["Ice cream", "Warm clothes", "Cold water", "Wind"],
+    "correctIndex": 1,
+    "explanation": "Warm clothes keep us warm! Things like jackets, scarves, and gloves trap our body heat.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-026",
+    "subject": "science",
+    "question": "Which animal can fly?",
+    "options": ["Dog", "Fish", "Bird", "Cat"],
+    "correctIndex": 2,
+    "explanation": "Birds can fly! They have wings that help them soar through the sky.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-027",
+    "subject": "science",
+    "question": "What do we see in the sky at night?",
+    "options": ["Sun", "Rainbow", "Moon and stars", "Clouds only"],
+    "correctIndex": 2,
+    "explanation": "We see the moon and stars at night! They twinkle and shine in the dark sky.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-028",
+    "subject": "science",
+    "question": "Which part of the plant makes food?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "correctIndex": 2,
+    "explanation": "Leaves make food for the plant! They use sunlight, water, and air to make food. How amazing!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-029",
+    "subject": "science",
+    "question": "What is a baby frog called?",
+    "options": ["Puppy", "Kitten", "Tadpole", "Cub"],
+    "correctIndex": 2,
+    "explanation": "A baby frog is called a tadpole! Tadpoles live in water and slowly grow legs to become frogs!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-030",
+    "subject": "science",
+    "question": "How many senses do humans have?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "explanation": "We have 5 senses: sight, hearing, smell, taste, and touch! They help us understand the world.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-031",
+    "subject": "science",
+    "question": "What is the color of most leaves?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "correctIndex": 2,
+    "explanation": "Most leaves are green! They get their green color from something called chlorophyll.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-032",
+    "subject": "science",
+    "question": "Which animal has a trunk?",
+    "options": ["Lion", "Elephant", "Giraffe", "Monkey"],
+    "correctIndex": 1,
+    "explanation": "Elephants have trunks! They use their trunks to drink water, grab food, and even say hello!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-033",
+    "subject": "science",
+    "question": "What season is the hottest?",
+    "options": ["Spring", "Summer", "Autumn", "Winter"],
+    "correctIndex": 1,
+    "explanation": "Summer is the hottest season! It is when we go swimming and eat ice cream!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-034",
+    "subject": "science",
+    "question": "What do bees make?",
+    "options": ["Milk", "Honey", "Eggs", "Silk"],
+    "correctIndex": 1,
+    "explanation": "Bees make honey! They collect nectar from flowers and turn it into sweet, yummy honey.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-035",
+    "subject": "science",
+    "question": "Which body part helps us think?",
+    "options": ["Heart", "Brain", "Stomach", "Lungs"],
+    "correctIndex": 1,
+    "explanation": "Our brain helps us think! It is inside our head and controls everything we do.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-036",
+    "subject": "science",
+    "question": "What is a baby horse called?",
+    "options": ["Calf", "Foal", "Lamb", "Cub"],
+    "correctIndex": 1,
+    "explanation": "A baby horse is called a foal! Foals can stand up and walk very soon after they are born.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-037",
+    "subject": "science",
+    "question": "What do fish use to breathe?",
+    "options": ["Lungs", "Nose", "Gills", "Mouth"],
+    "correctIndex": 2,
+    "explanation": "Fish breathe through gills! Gills take oxygen from the water. That is why fish can live underwater!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-038",
+    "subject": "science",
+    "question": "What do we call frozen water?",
+    "options": ["Steam", "Ice", "Juice", "Fog"],
+    "correctIndex": 1,
+    "explanation": "Frozen water is called ice! When water gets very cold, it freezes and becomes hard ice.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-039",
+    "subject": "science",
+    "question": "Which season do we see snow?",
+    "options": ["Spring", "Summer", "Autumn", "Winter"],
+    "correctIndex": 3,
+    "explanation": "We see snow in winter! Snow falls when it is very cold outside.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-040",
+    "subject": "science",
+    "question": "What is the sense of touch used for?",
+    "options": ["Seeing colors", "Hearing sounds", "Feeling things", "Tasting food"],
+    "correctIndex": 2,
+    "explanation": "Touch helps us feel things! We can feel if something is soft, rough, hot, or cold.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-041",
+    "subject": "science",
+    "question": "What animal is known as man's best friend?",
+    "options": ["Cat", "Dog", "Fish", "Bird"],
+    "correctIndex": 1,
+    "explanation": "Dogs are called man's best friend! They are loyal and loving pets.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-042",
+    "subject": "science",
+    "question": "What do seeds grow into?",
+    "options": ["Rocks", "Plants", "Animals", "Water"],
+    "correctIndex": 1,
+    "explanation": "Seeds grow into plants! A tiny seed can grow into a big, strong plant with enough water and sunshine.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-043",
+    "subject": "science",
+    "question": "What gives us light during the day?",
+    "options": ["Moon", "Stars", "Sun", "Lamp"],
+    "correctIndex": 2,
+    "explanation": "The Sun gives us light during the day! It is a big, bright star that keeps our planet warm.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-044",
+    "subject": "science",
+    "question": "Which animal has stripes?",
+    "options": ["Elephant", "Zebra", "Dog", "Cat"],
+    "correctIndex": 1,
+    "explanation": "Zebras have black and white stripes! Every zebra has a unique pattern of stripes.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-045",
+    "subject": "science",
+    "question": "Where does a fish live?",
+    "options": ["In a tree", "In a cave", "In water", "In the sky"],
+    "correctIndex": 2,
+    "explanation": "Fish live in water! They can live in rivers, lakes, and oceans.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-046",
+    "subject": "science",
+    "question": "What is a baby duck called?",
+    "options": ["Chick", "Duckling", "Puppy", "Cub"],
+    "correctIndex": 1,
+    "explanation": "A baby duck is called a duckling! Ducklings follow their mother in a line. So cute!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-047",
+    "subject": "science",
+    "question": "What is the hard part inside your body that helps you stand?",
+    "options": ["Muscles", "Skin", "Bones", "Blood"],
+    "correctIndex": 2,
+    "explanation": "Bones help you stand and move! Your body has over 200 bones that make up your skeleton!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-048",
+    "subject": "science",
+    "question": "What appears in the sky after rain and sunshine?",
+    "options": ["Lightning", "Rainbow", "Star", "Moon"],
+    "correctIndex": 1,
+    "explanation": "A rainbow appears after rain when the sun shines! It has 7 beautiful colors!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-049",
+    "subject": "science",
+    "question": "Which animal gives us wool?",
+    "options": ["Cow", "Hen", "Sheep", "Dog"],
+    "correctIndex": 2,
+    "explanation": "Sheep give us wool! Their fluffy coat is sheared and made into warm clothes.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-050",
+    "subject": "science",
+    "question": "What do lungs help us do?",
+    "options": ["Eat", "Breathe", "See", "Think"],
+    "correctIndex": 1,
+    "explanation": "Lungs help us breathe! We have two lungs that fill with air every time we breathe in.",
+    "difficulty": 2,
+    "source": "bank"
+  }
+]

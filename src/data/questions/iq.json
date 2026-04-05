@@ -1,0 +1,502 @@
+[
+  {
+    "id": "iq-001",
+    "subject": "iq",
+    "question": "What comes next: 2, 4, 6, __?",
+    "options": ["7", "8", "9", "10"],
+    "correctIndex": 1,
+    "explanation": "The pattern is adding 2 each time! 2, 4, 6, 8. You are skip counting by 2s!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-002",
+    "subject": "iq",
+    "question": "Which one does NOT belong: apple, banana, carrot, grape?",
+    "options": ["Apple", "Banana", "Carrot", "Grape"],
+    "correctIndex": 2,
+    "explanation": "Carrot does not belong! Apple, banana, and grape are fruits, but carrot is a vegetable. Great thinking!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-003",
+    "subject": "iq",
+    "question": "Hot is to cold as big is to ___?",
+    "options": ["Large", "Tall", "Small", "Wide"],
+    "correctIndex": 2,
+    "explanation": "Hot and cold are opposites, so big and small are opposites too! You found the pattern!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-004",
+    "subject": "iq",
+    "question": "What comes next: 1, 3, 5, __?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 1,
+    "explanation": "The pattern is adding 2 each time! 1, 3, 5, 7. These are odd numbers!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-005",
+    "subject": "iq",
+    "question": "If all cats have tails, does Tom the cat have a tail?",
+    "options": ["Yes", "No", "Maybe", "Only sometimes"],
+    "correctIndex": 0,
+    "explanation": "Yes! If ALL cats have tails, and Tom is a cat, then Tom must have a tail too. Smart reasoning!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-006",
+    "subject": "iq",
+    "question": "Which one does NOT belong: dog, cat, fish, table?",
+    "options": ["Dog", "Cat", "Fish", "Table"],
+    "correctIndex": 3,
+    "explanation": "Table does not belong! Dog, cat, and fish are all animals, but a table is furniture.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-007",
+    "subject": "iq",
+    "question": "What comes next: 10, 20, 30, __?",
+    "options": ["35", "40", "45", "50"],
+    "correctIndex": 1,
+    "explanation": "The pattern is adding 10 each time! 10, 20, 30, 40. You are counting by 10s!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-008",
+    "subject": "iq",
+    "question": "Bird is to sky as fish is to ___?",
+    "options": ["Land", "Water", "Tree", "Air"],
+    "correctIndex": 1,
+    "explanation": "Birds fly in the sky, and fish swim in water! You matched the pattern perfectly!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-009",
+    "subject": "iq",
+    "question": "Which one does NOT belong: red, blue, green, pizza?",
+    "options": ["Red", "Blue", "Green", "Pizza"],
+    "correctIndex": 3,
+    "explanation": "Pizza does not belong! Red, blue, and green are all colors, but pizza is food.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-010",
+    "subject": "iq",
+    "question": "If today is Monday, what day is tomorrow?",
+    "options": ["Sunday", "Tuesday", "Wednesday", "Saturday"],
+    "correctIndex": 1,
+    "explanation": "Tomorrow is Tuesday! The day after Monday is always Tuesday. You know your days!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-011",
+    "subject": "iq",
+    "question": "What comes next: A, B, C, __?",
+    "options": ["E", "D", "F", "G"],
+    "correctIndex": 1,
+    "explanation": "D comes next! The alphabet goes A, B, C, D. You know your ABCs!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-012",
+    "subject": "iq",
+    "question": "Hand is to glove as foot is to ___?",
+    "options": ["Hat", "Sock", "Belt", "Scarf"],
+    "correctIndex": 1,
+    "explanation": "A glove goes on your hand, and a sock goes on your foot! Great analogy solving!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-013",
+    "subject": "iq",
+    "question": "Which one does NOT belong: shirt, pants, hat, pencil?",
+    "options": ["Shirt", "Pants", "Hat", "Pencil"],
+    "correctIndex": 3,
+    "explanation": "Pencil does not belong! Shirt, pants, and hat are things you wear, but a pencil is for writing.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-014",
+    "subject": "iq",
+    "question": "What comes next: 5, 10, 15, __?",
+    "options": ["18", "19", "20", "25"],
+    "correctIndex": 2,
+    "explanation": "The pattern is adding 5 each time! 5, 10, 15, 20. Counting by 5s!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-015",
+    "subject": "iq",
+    "question": "Sara is taller than Mia. Mia is taller than Zoe. Who is the shortest?",
+    "options": ["Sara", "Mia", "Zoe", "They are all the same"],
+    "correctIndex": 2,
+    "explanation": "Zoe is the shortest! Sara is tallest, then Mia, then Zoe. You solved a tricky logic puzzle!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-016",
+    "subject": "iq",
+    "question": "Day is to night as sun is to ___?",
+    "options": ["Star", "Moon", "Cloud", "Sky"],
+    "correctIndex": 1,
+    "explanation": "The sun is out during the day, and the moon is out at night! Perfect match!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-017",
+    "subject": "iq",
+    "question": "Which one does NOT belong: circle, square, triangle, banana?",
+    "options": ["Circle", "Square", "Triangle", "Banana"],
+    "correctIndex": 3,
+    "explanation": "Banana does not belong! Circle, square, and triangle are all shapes, but banana is a fruit.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-018",
+    "subject": "iq",
+    "question": "What comes next: 1, 2, 3, 4, __?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 0,
+    "explanation": "5 comes next! You are counting 1, 2, 3, 4, 5. Easy peasy!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-019",
+    "subject": "iq",
+    "question": "If all birds have wings, and a robin is a bird, does a robin have wings?",
+    "options": ["Yes", "No", "Maybe", "Only some robins"],
+    "correctIndex": 0,
+    "explanation": "Yes! Since all birds have wings and a robin is a bird, a robin definitely has wings!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-020",
+    "subject": "iq",
+    "question": "Eye is to see as ear is to ___?",
+    "options": ["Smell", "Taste", "Hear", "Touch"],
+    "correctIndex": 2,
+    "explanation": "We use our eyes to see and our ears to hear! You connected them perfectly!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-021",
+    "subject": "iq",
+    "question": "What comes next in the pattern: red, blue, red, blue, __?",
+    "options": ["Green", "Red", "Yellow", "Blue"],
+    "correctIndex": 1,
+    "explanation": "Red comes next! The pattern repeats: red, blue, red, blue, red. You spotted the pattern!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-022",
+    "subject": "iq",
+    "question": "Which one does NOT belong: car, bus, train, apple?",
+    "options": ["Car", "Bus", "Train", "Apple"],
+    "correctIndex": 3,
+    "explanation": "Apple does not belong! Car, bus, and train are all vehicles, but apple is a fruit.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-023",
+    "subject": "iq",
+    "question": "Teacher is to school as doctor is to ___?",
+    "options": ["Park", "Hospital", "Store", "Home"],
+    "correctIndex": 1,
+    "explanation": "A teacher works at a school, and a doctor works at a hospital! Nice connection!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-024",
+    "subject": "iq",
+    "question": "What comes next: 3, 6, 9, __?",
+    "options": ["10", "11", "12", "13"],
+    "correctIndex": 2,
+    "explanation": "The pattern is adding 3 each time! 3, 6, 9, 12. You are counting by 3s!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-025",
+    "subject": "iq",
+    "question": "If you turn a 6 upside down, what number do you get?",
+    "options": ["6", "8", "9", "0"],
+    "correctIndex": 2,
+    "explanation": "When you flip a 6 upside down, it looks like a 9! What a fun trick!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-026",
+    "subject": "iq",
+    "question": "Which one does NOT belong: piano, guitar, drum, book?",
+    "options": ["Piano", "Guitar", "Drum", "Book"],
+    "correctIndex": 3,
+    "explanation": "Book does not belong! Piano, guitar, and drum are all musical instruments, but a book is for reading.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-027",
+    "subject": "iq",
+    "question": "Up is to down as left is to ___?",
+    "options": ["Up", "Down", "Right", "Left"],
+    "correctIndex": 2,
+    "explanation": "Up and down are opposites, so left and right are opposites too! Great thinking!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-028",
+    "subject": "iq",
+    "question": "What comes next in the pattern: star, heart, star, heart, __?",
+    "options": ["Circle", "Star", "Square", "Heart"],
+    "correctIndex": 1,
+    "explanation": "Star comes next! The pattern repeats: star, heart, star, heart, star!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-029",
+    "subject": "iq",
+    "question": "Tom has 3 apples. He has more than Sam. Sam has more than Lily. Who has the fewest?",
+    "options": ["Tom", "Sam", "Lily", "They all have the same"],
+    "correctIndex": 2,
+    "explanation": "Lily has the fewest apples! Tom has the most, Sam has some, and Lily has the least. Smart reasoning!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-030",
+    "subject": "iq",
+    "question": "Pen is to write as scissors are to ___?",
+    "options": ["Draw", "Cut", "Glue", "Color"],
+    "correctIndex": 1,
+    "explanation": "We use a pen to write and scissors to cut! Each tool has its special job.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-031",
+    "subject": "iq",
+    "question": "What comes next: 8, 7, 6, 5, __?",
+    "options": ["3", "4", "6", "7"],
+    "correctIndex": 1,
+    "explanation": "4 comes next! The numbers are going down by 1 each time: 8, 7, 6, 5, 4!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-032",
+    "subject": "iq",
+    "question": "Which one does NOT belong: elephant, whale, ant, giraffe?",
+    "options": ["Elephant", "Whale", "Ant", "Giraffe"],
+    "correctIndex": 2,
+    "explanation": "Ant does not belong! Elephant, whale, and giraffe are all very big animals, but an ant is tiny!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-033",
+    "subject": "iq",
+    "question": "If a box is bigger than a cup, and a cup is bigger than a coin, which is the biggest?",
+    "options": ["Box", "Cup", "Coin", "They are the same"],
+    "correctIndex": 0,
+    "explanation": "The box is the biggest! Box is bigger than cup, and cup is bigger than coin. You figured it out!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-034",
+    "subject": "iq",
+    "question": "What comes next: circle, square, circle, square, circle, __?",
+    "options": ["Circle", "Triangle", "Square", "Star"],
+    "correctIndex": 2,
+    "explanation": "Square comes next! The pattern goes: circle, square, circle, square, circle, square!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-035",
+    "subject": "iq",
+    "question": "Winter is to cold as summer is to ___?",
+    "options": ["Rainy", "Hot", "Cool", "Windy"],
+    "correctIndex": 1,
+    "explanation": "Winter is cold and summer is hot! They are opposite seasons with opposite weather!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-036",
+    "subject": "iq",
+    "question": "Which one does NOT belong: rose, daisy, tulip, chair?",
+    "options": ["Rose", "Daisy", "Tulip", "Chair"],
+    "correctIndex": 3,
+    "explanation": "Chair does not belong! Rose, daisy, and tulip are all flowers, but a chair is furniture.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-037",
+    "subject": "iq",
+    "question": "What comes next: 4, 8, 12, __?",
+    "options": ["14", "15", "16", "18"],
+    "correctIndex": 2,
+    "explanation": "The pattern is adding 4 each time! 4, 8, 12, 16. You are counting by 4s!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "iq-038",
+    "subject": "iq",
+    "question": "A puppy grows into a dog. A kitten grows into a ___?",
+    "options": ["Dog", "Cat", "Bird", "Fish"],
+    "correctIndex": 1,
+    "explanation": "A kitten grows into a cat! Just like a puppy grows into a dog!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-039",
+    "subject": "iq",
+    "question": "If there are 3 red balls and 2 blue balls, how many balls are there in total?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "explanation": "3 red balls plus 2 blue balls equals 5 balls in total! You combined them perfectly!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-040",
+    "subject": "iq",
+    "question": "Which one does NOT belong: Monday, Tuesday, March, Friday?",
+    "options": ["Monday", "Tuesday", "March", "Friday"],
+    "correctIndex": 2,
+    "explanation": "March does not belong! Monday, Tuesday, and Friday are days of the week, but March is a month.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-041",
+    "subject": "iq",
+    "question": "What comes next: 1, 1, 2, 2, 3, 3, __?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 1,
+    "explanation": "4 comes next! Each number repeats twice: 1, 1, 2, 2, 3, 3, 4. You cracked the code!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-042",
+    "subject": "iq",
+    "question": "Rain is to wet as fire is to ___?",
+    "options": ["Cold", "Hot", "Wet", "Green"],
+    "correctIndex": 1,
+    "explanation": "Rain makes things wet, and fire makes things hot! You figured out the connection!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-043",
+    "subject": "iq",
+    "question": "Which shape has the most sides: triangle, square, or hexagon?",
+    "options": ["Triangle", "Square", "Hexagon", "They all have the same"],
+    "correctIndex": 2,
+    "explanation": "A hexagon has 6 sides, a square has 4, and a triangle has 3. So the hexagon has the most!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "iq-044",
+    "subject": "iq",
+    "question": "If today is Wednesday, what day was yesterday?",
+    "options": ["Monday", "Tuesday", "Thursday", "Friday"],
+    "correctIndex": 1,
+    "explanation": "Yesterday was Tuesday! The day before Wednesday is always Tuesday.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-045",
+    "subject": "iq",
+    "question": "Which one does NOT belong: football, cricket, chess, basketball?",
+    "options": ["Football", "Cricket", "Chess", "Basketball"],
+    "correctIndex": 2,
+    "explanation": "Chess does not belong! Football, cricket, and basketball are active sports, but chess is a board game you play sitting down.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-046",
+    "subject": "iq",
+    "question": "What comes next: 20, 18, 16, 14, __?",
+    "options": ["10", "11", "12", "13"],
+    "correctIndex": 2,
+    "explanation": "The numbers are going down by 2 each time! 20, 18, 16, 14, 12. You are counting backwards by 2s!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "iq-047",
+    "subject": "iq",
+    "question": "Book is to read as song is to ___?",
+    "options": ["Write", "Dance", "Sing", "Draw"],
+    "correctIndex": 2,
+    "explanation": "You read a book and you sing a song! Each one has a special action that goes with it.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-048",
+    "subject": "iq",
+    "question": "If you arrange these from smallest to biggest: cat, ant, elephant -- which comes first?",
+    "options": ["Cat", "Ant", "Elephant", "They are the same size"],
+    "correctIndex": 1,
+    "explanation": "Ant comes first because it is the smallest! Then cat, then elephant. Great ordering!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "iq-049",
+    "subject": "iq",
+    "question": "What comes next in the pattern: 1, 2, 1, 2, 1, __?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "explanation": "2 comes next! The pattern keeps switching between 1 and 2: 1, 2, 1, 2, 1, 2!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "iq-050",
+    "subject": "iq",
+    "question": "Which one does NOT belong: happy, sad, angry, chair?",
+    "options": ["Happy", "Sad", "Angry", "Chair"],
+    "correctIndex": 3,
+    "explanation": "Chair does not belong! Happy, sad, and angry are all feelings, but a chair is an object. Brilliant!",
+    "difficulty": 1,
+    "source": "bank"
+  }
+]
