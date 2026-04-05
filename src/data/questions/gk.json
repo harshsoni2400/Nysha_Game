@@ -2,501 +2,3001 @@
   {
     "id": "gk-001",
     "subject": "gk",
-    "question": "How many days are in a week?",
-    "options": ["5", "6", "7", "8"],
-    "correctIndex": 2,
-    "explanation": "There are 7 days in a week! Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.",
+    "question": "What color do you get when you mix red and yellow?",
+    "options": [
+      "Green",
+      "Orange",
+      "Purple",
+      "Blue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Red and yellow make orange! Like the color of an orange fruit!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-002",
     "subject": "gk",
-    "question": "What color is a banana?",
-    "options": ["Red", "Blue", "Yellow", "Green"],
+    "question": "What color do you get when you mix blue and yellow?",
+    "options": [
+      "Orange",
+      "Purple",
+      "Green",
+      "Pink"
+    ],
     "correctIndex": 2,
-    "explanation": "A ripe banana is yellow! Bananas are a yummy and healthy fruit!",
+    "explanation": "Blue and yellow make green! Think of the color of grass and leaves!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-003",
     "subject": "gk",
-    "question": "Which fruit is red and has seeds on the outside?",
-    "options": ["Apple", "Strawberry", "Banana", "Orange"],
-    "correctIndex": 1,
-    "explanation": "A strawberry is red with tiny seeds on the outside! It is the only fruit with seeds on the outside.",
-    "difficulty": 2,
+    "question": "What color do you get when you mix red and blue?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Orange",
+      "Purple"
+    ],
+    "correctIndex": 3,
+    "explanation": "Red and blue make purple! Like a beautiful purple flower!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-004",
     "subject": "gk",
-    "question": "What shape is a wheel?",
-    "options": ["Square", "Triangle", "Circle", "Rectangle"],
-    "correctIndex": 2,
-    "explanation": "A wheel is shaped like a circle! It is round so it can roll smoothly.",
+    "question": "What color is the sky on a sunny day?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "correctIndex": 1,
+    "explanation": "The sky is blue on a sunny day! Look up and you'll see it!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-005",
     "subject": "gk",
-    "question": "Which day comes after Monday?",
-    "options": ["Sunday", "Tuesday", "Wednesday", "Friday"],
-    "correctIndex": 1,
-    "explanation": "Tuesday comes after Monday! The days go: Monday, Tuesday, Wednesday...",
+    "question": "What color are most bananas?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Purple"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bananas are yellow! They start green and turn yellow when they're ripe and ready to eat!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-006",
     "subject": "gk",
-    "question": "What color do you get when you mix red and yellow?",
-    "options": ["Green", "Orange", "Purple", "Blue"],
-    "correctIndex": 1,
-    "explanation": "Red and yellow make orange! Mixing colors is like magic!",
+    "question": "What color do you get when you mix red and white?",
+    "options": [
+      "Pink",
+      "Orange",
+      "Gray",
+      "Purple"
+    ],
+    "correctIndex": 0,
+    "explanation": "Red and white make pink! Like a flamingo or cotton candy!",
     "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-007",
     "subject": "gk",
-    "question": "Which vegetable is orange and long?",
-    "options": ["Potato", "Tomato", "Carrot", "Onion"],
-    "correctIndex": 2,
-    "explanation": "A carrot is orange and long! Rabbits love to eat carrots, and so should you -- they are great for your eyes!",
+    "question": "What color is a stop sign?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "correctIndex": 3,
+    "explanation": "Stop signs are red! Red means stop so drivers can see it clearly!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-008",
     "subject": "gk",
-    "question": "What does a doctor do?",
-    "options": ["Teaches children", "Helps sick people", "Puts out fires", "Drives a bus"],
-    "correctIndex": 1,
-    "explanation": "A doctor helps sick people get better! Doctors take care of our health.",
-    "difficulty": 1,
+    "question": "What are the three primary colors?",
+    "options": [
+      "Red, Yellow, Blue",
+      "Red, Green, Purple",
+      "Orange, Green, Purple",
+      "Pink, Yellow, Blue"
+    ],
+    "correctIndex": 0,
+    "explanation": "Red, yellow, and blue are the three primary colors! You can mix them to make all other colors!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-009",
     "subject": "gk",
-    "question": "How many months are in a year?",
-    "options": ["10", "11", "12", "13"],
-    "correctIndex": 2,
-    "explanation": "There are 12 months in a year! January, February, March... all the way to December!",
-    "difficulty": 1,
+    "question": "What color do you get when you mix black and white?",
+    "options": [
+      "Blue",
+      "Gray",
+      "Brown",
+      "Pink"
+    ],
+    "correctIndex": 1,
+    "explanation": "Black and white make gray! Like the color of an elephant!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-010",
     "subject": "gk",
-    "question": "What color is the sky on a sunny day?",
-    "options": ["Red", "Green", "Blue", "Yellow"],
+    "question": "Which color means 'go' on a traffic light?",
+    "options": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
     "correctIndex": 2,
-    "explanation": "The sky is blue on a sunny day! Look up and enjoy the beautiful blue sky!",
-    "difficulty": 1,
+    "explanation": "Green means go! When the light turns green, cars can drive forward!",
+    "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-011",
     "subject": "gk",
-    "question": "What shape is a pizza slice?",
-    "options": ["Circle", "Triangle", "Square", "Rectangle"],
-    "correctIndex": 1,
-    "explanation": "A pizza slice is shaped like a triangle! The whole pizza is a circle, but each slice is a triangle.",
+    "question": "What day comes after Monday?",
+    "options": [
+      "Wednesday",
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tuesday comes after Monday! The days go Monday, Tuesday, Wednesday...",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-012",
     "subject": "gk",
-    "question": "Which is a fruit?",
-    "options": ["Carrot", "Potato", "Mango", "Onion"],
-    "correctIndex": 2,
-    "explanation": "Mango is a fruit! It is sweet, juicy, and delicious!",
+    "question": "What day comes after Friday?",
+    "options": [
+      "Thursday",
+      "Saturday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saturday comes after Friday! That's the start of the weekend!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-013",
     "subject": "gk",
-    "question": "What does a firefighter do?",
-    "options": ["Teaches students", "Puts out fires", "Flies planes", "Cooks food"],
-    "correctIndex": 1,
-    "explanation": "Firefighters put out fires and help keep people safe! They are very brave!",
+    "question": "How many days are in a week?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "There are 7 days in a week! Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-014",
     "subject": "gk",
-    "question": "What color do you get when you mix blue and yellow?",
-    "options": ["Red", "Orange", "Green", "Purple"],
-    "correctIndex": 2,
-    "explanation": "Blue and yellow make green! Like the color of grass and leaves!",
-    "difficulty": 2,
+    "question": "What is the first day of the week?",
+    "options": [
+      "Monday",
+      "Sunday",
+      "Saturday",
+      "Friday"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sunday is the first day of the week on most calendars! Some people say Monday, but calendars usually start with Sunday!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-015",
     "subject": "gk",
-    "question": "Which day is the first day of the week?",
-    "options": ["Monday", "Sunday", "Saturday", "Friday"],
-    "correctIndex": 1,
-    "explanation": "Sunday is the first day of the week on a calendar! Some people also say Monday.",
+    "question": "What day comes after Wednesday?",
+    "options": [
+      "Tuesday",
+      "Friday",
+      "Thursday",
+      "Monday"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thursday comes after Wednesday! It's almost the weekend!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-016",
     "subject": "gk",
-    "question": "Which vegetable is green and looks like a small tree?",
-    "options": ["Potato", "Broccoli", "Onion", "Carrot"],
-    "correctIndex": 1,
-    "explanation": "Broccoli looks like a small tree! It is green and very good for you!",
-    "difficulty": 1,
+    "question": "What day comes before Sunday?",
+    "options": [
+      "Monday",
+      "Friday",
+      "Saturday",
+      "Thursday"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saturday comes before Sunday! Saturday and Sunday together make the weekend!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-017",
     "subject": "gk",
-    "question": "What shape is a book?",
-    "options": ["Circle", "Triangle", "Rectangle", "Oval"],
+    "question": "Which days are the weekend?",
+    "options": [
+      "Monday and Tuesday",
+      "Friday and Saturday",
+      "Saturday and Sunday",
+      "Thursday and Friday"
+    ],
     "correctIndex": 2,
-    "explanation": "A book is shaped like a rectangle! It has 4 sides with 2 longer sides and 2 shorter sides.",
-    "difficulty": 1,
+    "explanation": "Saturday and Sunday are the weekend! That's when most kids don't have school!",
+    "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-018",
     "subject": "gk",
-    "question": "Which month comes first in the year?",
-    "options": ["March", "January", "February", "April"],
-    "correctIndex": 1,
-    "explanation": "January is the first month of the year! It is when the new year begins!",
+    "question": "What day comes after Saturday?",
+    "options": [
+      "Friday",
+      "Monday",
+      "Sunday",
+      "Tuesday"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sunday comes after Saturday! Then the week starts all over again!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-019",
     "subject": "gk",
-    "question": "What does a teacher do?",
-    "options": ["Builds houses", "Teaches students", "Drives trucks", "Fixes cars"],
+    "question": "What day comes after Thursday?",
+    "options": [
+      "Wednesday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
     "correctIndex": 1,
-    "explanation": "A teacher teaches students and helps them learn new things! Teachers are wonderful!",
+    "explanation": "Friday comes after Thursday! TGIF - Thank Goodness It's Friday!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-020",
     "subject": "gk",
-    "question": "What color is grass?",
-    "options": ["Red", "Blue", "Yellow", "Green"],
-    "correctIndex": 3,
-    "explanation": "Grass is green! It covers the ground in parks and gardens.",
+    "question": "What day comes after Tuesday?",
+    "options": [
+      "Monday",
+      "Thursday",
+      "Wednesday",
+      "Friday"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wednesday comes after Tuesday! It's the middle of the week!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-021",
     "subject": "gk",
-    "question": "Which fruit is round and orange?",
-    "options": ["Apple", "Banana", "Orange", "Grape"],
-    "correctIndex": 2,
-    "explanation": "An orange is round and orange! The fruit is named after its color!",
+    "question": "Which month comes after March?",
+    "options": [
+      "February",
+      "April",
+      "May",
+      "June"
+    ],
+    "correctIndex": 1,
+    "explanation": "April comes after March! April often brings spring rain and flowers!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-022",
     "subject": "gk",
-    "question": "What do we use an umbrella for?",
-    "options": ["To fly", "To stay dry in rain", "To eat", "To sleep"],
-    "correctIndex": 1,
-    "explanation": "We use an umbrella to stay dry when it rains! It keeps the raindrops off our head.",
+    "question": "Which month comes after July?",
+    "options": [
+      "June",
+      "September",
+      "August",
+      "October"
+    ],
+    "correctIndex": 2,
+    "explanation": "August comes after July! Both are warm summer months!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-023",
     "subject": "gk",
-    "question": "Which shape has no corners?",
-    "options": ["Square", "Triangle", "Circle", "Rectangle"],
+    "question": "How many months are in a year?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
     "correctIndex": 2,
-    "explanation": "A circle has no corners! It is perfectly round with no sharp edges.",
+    "explanation": "There are 12 months in a year! January through December!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-024",
     "subject": "gk",
-    "question": "What do you call a person who flies an airplane?",
-    "options": ["Driver", "Captain", "Pilot", "Chef"],
+    "question": "What is the first month of the year?",
+    "options": [
+      "March",
+      "December",
+      "January",
+      "February"
+    ],
     "correctIndex": 2,
-    "explanation": "A person who flies an airplane is called a pilot! Pilots fly us to many places!",
+    "explanation": "January is the first month of the year! It starts right after New Year's Day!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-025",
     "subject": "gk",
-    "question": "What color do you get when you mix red and blue?",
-    "options": ["Green", "Orange", "Yellow", "Purple"],
-    "correctIndex": 3,
-    "explanation": "Red and blue make purple! Purple is a royal color!",
-    "difficulty": 2,
+    "question": "What is the last month of the year?",
+    "options": [
+      "November",
+      "December",
+      "October",
+      "January"
+    ],
+    "correctIndex": 1,
+    "explanation": "December is the last month of the year! It's when we celebrate the holidays and welcome a new year!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-026",
     "subject": "gk",
-    "question": "Which vegetable makes you cry when you cut it?",
-    "options": ["Carrot", "Tomato", "Onion", "Potato"],
-    "correctIndex": 2,
-    "explanation": "Onions can make you cry when you cut them! They release something that makes your eyes water.",
-    "difficulty": 2,
+    "question": "Which month comes after January?",
+    "options": [
+      "March",
+      "February",
+      "April",
+      "December"
+    ],
+    "correctIndex": 1,
+    "explanation": "February comes after January! February is the shortest month of the year!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-027",
     "subject": "gk",
-    "question": "Which is the last month of the year?",
-    "options": ["November", "December", "October", "January"],
-    "correctIndex": 1,
-    "explanation": "December is the last month of the year! It is month number 12.",
-    "difficulty": 1,
+    "question": "In which month is Halloween?",
+    "options": [
+      "September",
+      "November",
+      "October",
+      "December"
+    ],
+    "correctIndex": 2,
+    "explanation": "Halloween is in October! October 31st is when we dress up in costumes and go trick-or-treating!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-028",
     "subject": "gk",
-    "question": "What do we use a clock for?",
-    "options": ["To cook food", "To tell time", "To write", "To play music"],
-    "correctIndex": 1,
-    "explanation": "We use a clock to tell time! It tells us what hour and minute it is.",
-    "difficulty": 1,
+    "question": "Which month comes after November?",
+    "options": [
+      "October",
+      "January",
+      "December",
+      "September"
+    ],
+    "correctIndex": 2,
+    "explanation": "December comes after November! December is the month of winter holidays!",
+    "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-029",
     "subject": "gk",
-    "question": "What shape is a dice?",
-    "options": ["Circle", "Sphere", "Cube", "Triangle"],
+    "question": "Which month comes after May?",
+    "options": [
+      "April",
+      "July",
+      "June",
+      "August"
+    ],
     "correctIndex": 2,
-    "explanation": "A dice is shaped like a cube! A cube has 6 square faces. Each face has dots on it!",
+    "explanation": "June comes after May! June is when summer begins!",
     "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-030",
     "subject": "gk",
-    "question": "Which day comes before Sunday?",
-    "options": ["Friday", "Saturday", "Monday", "Thursday"],
+    "question": "Which month has Valentine's Day?",
+    "options": [
+      "January",
+      "February",
+      "March",
+      "April"
+    ],
     "correctIndex": 1,
-    "explanation": "Saturday comes before Sunday! Saturday is the second to last day of the week.",
-    "difficulty": 1,
+    "explanation": "Valentine's Day is in February! February 14th is a day to share love and kindness!",
+    "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-031",
     "subject": "gk",
-    "question": "What color is a fire truck?",
-    "options": ["Blue", "Green", "Red", "Yellow"],
+    "question": "Which of these is a fruit?",
+    "options": [
+      "Carrot",
+      "Potato",
+      "Apple",
+      "Broccoli"
+    ],
     "correctIndex": 2,
-    "explanation": "Fire trucks are red! The bright red color helps people see them coming from far away.",
+    "explanation": "An apple is a fruit! Fruits usually have seeds inside and taste sweet!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-032",
     "subject": "gk",
-    "question": "Which fruit is yellow and curved?",
-    "options": ["Apple", "Banana", "Grape", "Strawberry"],
-    "correctIndex": 1,
-    "explanation": "A banana is yellow and curved! It is a fun shape, like a smile!",
+    "question": "Which of these is a vegetable?",
+    "options": [
+      "Banana",
+      "Grapes",
+      "Carrot",
+      "Mango"
+    ],
+    "correctIndex": 2,
+    "explanation": "A carrot is a vegetable! It's orange and grows under the ground. Rabbits love them!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-033",
     "subject": "gk",
-    "question": "What does a police officer do?",
-    "options": ["Bakes bread", "Keeps people safe", "Paints pictures", "Grows food"],
-    "correctIndex": 1,
-    "explanation": "Police officers keep people safe! They help protect our neighborhoods.",
+    "question": "What color is a ripe strawberry?",
+    "options": [
+      "Yellow",
+      "Green",
+      "Blue",
+      "Red"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ripe strawberries are red! They are sweet and delicious!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-034",
     "subject": "gk",
-    "question": "How many colors are in a rainbow?",
-    "options": ["5", "6", "7", "8"],
+    "question": "Which fruit is yellow and curved?",
+    "options": [
+      "Apple",
+      "Orange",
+      "Banana",
+      "Grape"
+    ],
     "correctIndex": 2,
-    "explanation": "A rainbow has 7 colors: red, orange, yellow, green, blue, indigo, and violet!",
+    "explanation": "A banana is yellow and curved! Monkeys love bananas!",
     "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-035",
     "subject": "gk",
-    "question": "What shape is a coin?",
-    "options": ["Square", "Circle", "Triangle", "Star"],
-    "correctIndex": 1,
-    "explanation": "A coin is shaped like a circle! It is round and flat.",
-    "difficulty": 1,
+    "question": "Which vegetable is green and looks like a small tree?",
+    "options": [
+      "Tomato",
+      "Carrot",
+      "Broccoli",
+      "Corn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Broccoli looks like tiny green trees! It's very healthy for you!",
+    "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-036",
     "subject": "gk",
-    "question": "Which vegetable is red and used in ketchup?",
-    "options": ["Carrot", "Potato", "Tomato", "Pea"],
-    "correctIndex": 2,
-    "explanation": "Tomatoes are red and used to make ketchup! Some people think tomatoes are vegetables, but they are actually fruits!",
-    "difficulty": 2,
+    "question": "Where do oranges grow?",
+    "options": [
+      "Under the ground",
+      "On trees",
+      "In the ocean",
+      "On bushes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oranges grow on trees! Orange trees can be found in warm places like Florida and California!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-037",
     "subject": "gk",
-    "question": "What do you call a person who cooks food in a restaurant?",
-    "options": ["Teacher", "Doctor", "Chef", "Pilot"],
+    "question": "Which of these grows under the ground?",
+    "options": [
+      "Apple",
+      "Grapes",
+      "Potato",
+      "Cherry"
+    ],
     "correctIndex": 2,
-    "explanation": "A chef cooks food in a restaurant! Chefs make delicious meals for people to enjoy.",
-    "difficulty": 1,
+    "explanation": "Potatoes grow under the ground! Farmers have to dig them up to harvest them!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-038",
     "subject": "gk",
-    "question": "Which shape has 3 sides?",
-    "options": ["Circle", "Square", "Triangle", "Rectangle"],
-    "correctIndex": 2,
-    "explanation": "A triangle has 3 sides! You can find triangle shapes in rooftops and sandwiches!",
-    "difficulty": 1,
+    "question": "What fruit do we get raisins from?",
+    "options": [
+      "Apples",
+      "Grapes",
+      "Bananas",
+      "Oranges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raisins are dried grapes! When you dry out grapes in the sun, they shrink and become raisins!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-039",
     "subject": "gk",
-    "question": "What is the color of snow?",
-    "options": ["Blue", "Yellow", "White", "Gray"],
+    "question": "Which vegetable is used to make ketchup?",
+    "options": [
+      "Carrot",
+      "Cucumber",
+      "Tomato",
+      "Onion"
+    ],
     "correctIndex": 2,
-    "explanation": "Snow is white! It covers the ground like a beautiful white blanket in winter.",
-    "difficulty": 1,
+    "explanation": "Ketchup is made from tomatoes! That's why it's red!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-040",
     "subject": "gk",
-    "question": "Which month has Valentine's Day?",
-    "options": ["January", "February", "March", "April"],
+    "question": "What is the largest fruit that grows on a vine?",
+    "options": [
+      "Grape",
+      "Watermelon",
+      "Strawberry",
+      "Kiwi"
+    ],
     "correctIndex": 1,
-    "explanation": "Valentine's Day is in February! It is on February 14th, a day to share love and kindness!",
-    "difficulty": 2,
+    "explanation": "Watermelons grow on vines and can get really big! They're full of water, which is why they're called watermelons!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-041",
     "subject": "gk",
-    "question": "What is a baby's bed called?",
-    "options": ["Chair", "Table", "Crib", "Desk"],
+    "question": "Who helps sick people get better?",
+    "options": [
+      "Teacher",
+      "Chef",
+      "Doctor",
+      "Pilot"
+    ],
     "correctIndex": 2,
-    "explanation": "A baby's bed is called a crib! It has high sides to keep the baby safe.",
+    "explanation": "Doctors help sick people get better! They go to school for many years to learn how to take care of us!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-042",
     "subject": "gk",
-    "question": "What shape is a stop sign?",
-    "options": ["Circle", "Square", "Octagon", "Triangle"],
-    "correctIndex": 2,
-    "explanation": "A stop sign is an octagon! An octagon has 8 sides. Look for stop signs when you go outside!",
-    "difficulty": 3,
+    "question": "Who teaches children at school?",
+    "options": [
+      "Doctor",
+      "Firefighter",
+      "Farmer",
+      "Teacher"
+    ],
+    "correctIndex": 3,
+    "explanation": "Teachers teach children at school! They help us learn to read, write, and do math!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-043",
     "subject": "gk",
-    "question": "Which fruit grows on a vine and can be purple or green?",
-    "options": ["Apple", "Banana", "Grape", "Mango"],
-    "correctIndex": 2,
-    "explanation": "Grapes grow on vines and can be purple or green! They come in bunches.",
+    "question": "Who flies an airplane?",
+    "options": [
+      "Driver",
+      "Pilot",
+      "Captain",
+      "Engineer"
+    ],
+    "correctIndex": 1,
+    "explanation": "A pilot flies an airplane! Pilots train for a long time to learn how to fly planes safely!",
     "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-044",
     "subject": "gk",
-    "question": "What do you call a person who delivers letters?",
-    "options": ["Firefighter", "Mail carrier", "Chef", "Teacher"],
+    "question": "Who cooks food in a restaurant?",
+    "options": [
+      "Waiter",
+      "Chef",
+      "Teacher",
+      "Doctor"
+    ],
     "correctIndex": 1,
-    "explanation": "A mail carrier delivers letters and packages to your home! They come rain or shine.",
-    "difficulty": 1,
+    "explanation": "A chef cooks food in a restaurant! Chefs learn to make all kinds of delicious meals!",
+    "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-045",
     "subject": "gk",
-    "question": "What color are most school buses?",
-    "options": ["Red", "Blue", "Yellow", "Green"],
+    "question": "Who delivers letters and packages to your house?",
+    "options": [
+      "Firefighter",
+      "Police officer",
+      "Mail carrier",
+      "Dentist"
+    ],
     "correctIndex": 2,
-    "explanation": "School buses are yellow! The bright yellow color makes them easy to see on the road.",
-    "difficulty": 1,
+    "explanation": "A mail carrier delivers letters and packages! They walk or drive to every house in the neighborhood!",
+    "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-046",
     "subject": "gk",
-    "question": "Which shape is like an egg?",
-    "options": ["Circle", "Oval", "Square", "Triangle"],
+    "question": "What does a veterinarian do?",
+    "options": [
+      "Fixes cars",
+      "Takes care of animals",
+      "Builds houses",
+      "Teaches math"
+    ],
     "correctIndex": 1,
-    "explanation": "An oval is shaped like an egg! It is like a stretched-out circle.",
+    "explanation": "A veterinarian, or vet, takes care of animals! They're like doctors for pets and other animals!",
     "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-047",
     "subject": "gk",
-    "question": "How many days are in a weekend?",
-    "options": ["1", "2", "3", "4"],
-    "correctIndex": 1,
-    "explanation": "There are 2 days in a weekend: Saturday and Sunday! That is when you get to rest and play!",
-    "difficulty": 1,
+    "question": "Who takes care of your teeth?",
+    "options": [
+      "Doctor",
+      "Nurse",
+      "Dentist",
+      "Teacher"
+    ],
+    "correctIndex": 2,
+    "explanation": "A dentist takes care of your teeth! They make sure your teeth are healthy and clean!",
+    "difficulty": 2,
     "source": "bank"
   },
   {
     "id": "gk-048",
     "subject": "gk",
-    "question": "What is the green vegetable that Popeye loves?",
-    "options": ["Broccoli", "Spinach", "Peas", "Lettuce"],
+    "question": "Who grows food on a farm?",
+    "options": [
+      "Pilot",
+      "Farmer",
+      "Chef",
+      "Waiter"
+    ],
     "correctIndex": 1,
-    "explanation": "Popeye loves spinach! Spinach is a green leafy vegetable that gives you energy and strength!",
-    "difficulty": 2,
+    "explanation": "A farmer grows food on a farm! Farmers grow fruits, vegetables, and raise animals!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "gk-049",
     "subject": "gk",
-    "question": "What do you call a person who takes care of your teeth?",
-    "options": ["Doctor", "Dentist", "Nurse", "Chef"],
-    "correctIndex": 1,
-    "explanation": "A dentist takes care of your teeth! It is important to visit the dentist to keep your teeth healthy!",
-    "difficulty": 1,
+    "question": "What does an astronaut do?",
+    "options": [
+      "Drives a train",
+      "Builds houses",
+      "Travels to space",
+      "Catches fish"
+    ],
+    "correctIndex": 2,
+    "explanation": "An astronaut travels to space! They explore the moon, stars, and planets!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "gk-050",
     "subject": "gk",
-    "question": "What shape is a door?",
-    "options": ["Circle", "Triangle", "Rectangle", "Oval"],
+    "question": "Who designs and builds buildings?",
+    "options": [
+      "Architect",
+      "Baker",
+      "Singer",
+      "Farmer"
+    ],
+    "correctIndex": 0,
+    "explanation": "An architect designs buildings! They draw plans to make sure buildings are safe and beautiful!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-051",
+    "subject": "gk",
+    "question": "Which vehicle flies in the sky?",
+    "options": [
+      "Car",
+      "Boat",
+      "Airplane",
+      "Bicycle"
+    ],
     "correctIndex": 2,
-    "explanation": "A door is shaped like a rectangle! It has 4 sides, with 2 long sides and 2 shorter sides.",
+    "explanation": "An airplane flies in the sky! Airplanes have wings and engines that help them fly high above the clouds!",
     "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-052",
+    "subject": "gk",
+    "question": "Which vehicle travels on water?",
+    "options": [
+      "Train",
+      "Boat",
+      "Car",
+      "Bus"
+    ],
+    "correctIndex": 1,
+    "explanation": "A boat travels on water! Boats can float because of their shape!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-053",
+    "subject": "gk",
+    "question": "Which vehicle runs on train tracks?",
+    "options": [
+      "Bus",
+      "Car",
+      "Bicycle",
+      "Train"
+    ],
+    "correctIndex": 3,
+    "explanation": "A train runs on train tracks! Trains can carry lots of people and things from place to place!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-054",
+    "subject": "gk",
+    "question": "How many wheels does a bicycle have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "A bicycle has 2 wheels! 'Bi' means two, so bicycle means two wheels!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-055",
+    "subject": "gk",
+    "question": "Which vehicle has a siren and helps put out fires?",
+    "options": [
+      "Police car",
+      "Ambulance",
+      "Fire truck",
+      "Taxi"
+    ],
+    "correctIndex": 2,
+    "explanation": "A fire truck has a siren and carries water hoses to put out fires! It's usually big and red!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-056",
+    "subject": "gk",
+    "question": "What do you call a vehicle that takes sick people to the hospital?",
+    "options": [
+      "Fire truck",
+      "Ambulance",
+      "School bus",
+      "Taxi"
+    ],
+    "correctIndex": 1,
+    "explanation": "An ambulance takes sick or hurt people to the hospital! It has a loud siren so cars move out of the way!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-057",
+    "subject": "gk",
+    "question": "What color is a school bus?",
+    "options": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+    ],
+    "correctIndex": 2,
+    "explanation": "School buses are yellow! They're yellow so they're easy to see and everyone stays safe!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-058",
+    "subject": "gk",
+    "question": "Which vehicle goes under water?",
+    "options": [
+      "Sailboat",
+      "Submarine",
+      "Canoe",
+      "Ferry"
+    ],
+    "correctIndex": 1,
+    "explanation": "A submarine goes under water! It can dive deep into the ocean and explore!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-059",
+    "subject": "gk",
+    "question": "What is a helicopter's special ability compared to an airplane?",
+    "options": [
+      "It goes faster",
+      "It can hover in one spot",
+      "It carries more people",
+      "It is quieter"
+    ],
+    "correctIndex": 1,
+    "explanation": "A helicopter can hover, or stay still, in the air! Its spinning blades on top let it go up, down, and even sideways!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-060",
+    "subject": "gk",
+    "question": "How many wheels does a tricycle have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "explanation": "A tricycle has 3 wheels! 'Tri' means three, so tricycle means three wheels!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-061",
+    "subject": "gk",
+    "question": "Which instrument has strings you pluck or strum?",
+    "options": [
+      "Drum",
+      "Flute",
+      "Guitar",
+      "Trumpet"
+    ],
+    "correctIndex": 2,
+    "explanation": "A guitar has strings! You strum or pluck them to make beautiful music!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-062",
+    "subject": "gk",
+    "question": "Which instrument do you hit with sticks?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Flute",
+      "Drum"
+    ],
+    "correctIndex": 3,
+    "explanation": "You hit a drum with sticks! Drums make the beat in music!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-063",
+    "subject": "gk",
+    "question": "Which instrument has black and white keys?",
+    "options": [
+      "Guitar",
+      "Piano",
+      "Trumpet",
+      "Drum"
+    ],
+    "correctIndex": 1,
+    "explanation": "A piano has black and white keys! You press the keys to play different notes!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-064",
+    "subject": "gk",
+    "question": "Which instrument do you blow into to make music?",
+    "options": [
+      "Guitar",
+      "Piano",
+      "Flute",
+      "Violin"
+    ],
+    "correctIndex": 2,
+    "explanation": "You blow into a flute to make music! The air vibrates inside the flute and creates a pretty sound!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-065",
+    "subject": "gk",
+    "question": "Which instrument is played with a bow?",
+    "options": [
+      "Drum",
+      "Guitar",
+      "Trumpet",
+      "Violin"
+    ],
+    "correctIndex": 3,
+    "explanation": "A violin is played with a bow! You move the bow across the strings to make music!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-066",
+    "subject": "gk",
+    "question": "What instrument does a marching band often play that is big, round, and brass?",
+    "options": [
+      "Flute",
+      "Tuba",
+      "Violin",
+      "Harmonica"
+    ],
+    "correctIndex": 1,
+    "explanation": "A tuba is a big, round brass instrument! It makes a very deep, low sound!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-067",
+    "subject": "gk",
+    "question": "Which instrument do you shake to make music?",
+    "options": [
+      "Piano",
+      "Maracas",
+      "Guitar",
+      "Drum"
+    ],
+    "correctIndex": 1,
+    "explanation": "You shake maracas to make music! They have small beads inside that rattle when you shake them!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-068",
+    "subject": "gk",
+    "question": "What instrument is shaped like a triangle?",
+    "options": [
+      "Drum",
+      "Triangle",
+      "Harp",
+      "Flute"
+    ],
+    "correctIndex": 1,
+    "explanation": "A triangle is an instrument shaped like a triangle! You tap it with a metal stick and it makes a ringing sound!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-069",
+    "subject": "gk",
+    "question": "Which instrument is very large and has many strings, shaped like a big letter D?",
+    "options": [
+      "Guitar",
+      "Ukulele",
+      "Harp",
+      "Banjo"
+    ],
+    "correctIndex": 2,
+    "explanation": "A harp is a very large instrument with many strings! Angels are often pictured playing harps!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-070",
+    "subject": "gk",
+    "question": "What small instrument do you hold in your hands and blow into while moving it side to side?",
+    "options": [
+      "Trumpet",
+      "Flute",
+      "Harmonica",
+      "Tuba"
+    ],
+    "correctIndex": 2,
+    "explanation": "A harmonica is a small instrument you blow into! It fits in your pocket and makes fun music!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-071",
+    "subject": "gk",
+    "question": "In which sport do you kick a ball into a goal?",
+    "options": [
+      "Basketball",
+      "Tennis",
+      "Soccer",
+      "Swimming"
+    ],
+    "correctIndex": 2,
+    "explanation": "In soccer, you kick a ball into a goal! Soccer is the most popular sport in the world!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-072",
+    "subject": "gk",
+    "question": "In which sport do you throw a ball through a hoop?",
+    "options": [
+      "Soccer",
+      "Basketball",
+      "Baseball",
+      "Golf"
+    ],
+    "correctIndex": 1,
+    "explanation": "In basketball, you throw a ball through a hoop! The hoop is high up on a backboard!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-073",
+    "subject": "gk",
+    "question": "In which sport do you hit a ball with a bat?",
+    "options": [
+      "Soccer",
+      "Swimming",
+      "Tennis",
+      "Baseball"
+    ],
+    "correctIndex": 3,
+    "explanation": "In baseball, you hit a ball with a bat! Then you run around the bases!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-074",
+    "subject": "gk",
+    "question": "In which sport do you swim in a pool?",
+    "options": [
+      "Basketball",
+      "Swimming",
+      "Golf",
+      "Soccer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Swimming is the sport where you race in a pool! Swimmers do different strokes like freestyle and backstroke!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-075",
+    "subject": "gk",
+    "question": "What sport uses a racket to hit a ball over a net?",
+    "options": [
+      "Baseball",
+      "Golf",
+      "Tennis",
+      "Soccer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tennis uses a racket to hit a ball over a net! It can be played by two or four people!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-076",
+    "subject": "gk",
+    "question": "In which sport do you skate on ice?",
+    "options": [
+      "Tennis",
+      "Ice hockey",
+      "Baseball",
+      "Basketball"
+    ],
+    "correctIndex": 1,
+    "explanation": "In ice hockey, players skate on ice and use sticks to hit a puck into the goal!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-077",
+    "subject": "gk",
+    "question": "What sport do you play in the Olympic Games by running as fast as you can?",
+    "options": [
+      "Sprinting",
+      "Golf",
+      "Bowling",
+      "Fishing"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sprinting is running as fast as you can! The fastest sprinters in the world race at the Olympics!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-078",
+    "subject": "gk",
+    "question": "How many players are on a soccer team on the field?",
+    "options": [
+      "5",
+      "9",
+      "11",
+      "15"
+    ],
+    "correctIndex": 2,
+    "explanation": "There are 11 players on each soccer team on the field! That includes the goalkeeper!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-079",
+    "subject": "gk",
+    "question": "In which sport do you ride a horse?",
+    "options": [
+      "Track and field",
+      "Equestrian",
+      "Wrestling",
+      "Volleyball"
+    ],
+    "correctIndex": 1,
+    "explanation": "Equestrian is the sport where you ride a horse! Riders and horses work together as a team!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-080",
+    "subject": "gk",
+    "question": "What sport uses a round orange ball and is played on a court?",
+    "options": [
+      "Tennis",
+      "Soccer",
+      "Basketball",
+      "Cricket"
+    ],
+    "correctIndex": 2,
+    "explanation": "Basketball uses a round orange ball and is played on a court! Players dribble, pass, and shoot!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-081",
+    "subject": "gk",
+    "question": "What country is the Eiffel Tower in?",
+    "options": [
+      "Italy",
+      "England",
+      "France",
+      "Spain"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Eiffel Tower is in France, in the city of Paris! It was built in 1889 and is made of iron!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-082",
+    "subject": "gk",
+    "question": "What country is shaped like a boot?",
+    "options": [
+      "Spain",
+      "Italy",
+      "Greece",
+      "France"
+    ],
+    "correctIndex": 1,
+    "explanation": "Italy is shaped like a boot! If you look at it on a map, it looks like a big boot kicking a ball!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-083",
+    "subject": "gk",
+    "question": "What country are kangaroos from?",
+    "options": [
+      "India",
+      "Brazil",
+      "Australia",
+      "Canada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kangaroos are from Australia! Australia is a big island continent with many unique animals!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-084",
+    "subject": "gk",
+    "question": "What country is famous for making pizza and pasta?",
+    "options": [
+      "France",
+      "Mexico",
+      "Italy",
+      "Japan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Italy is famous for pizza and pasta! Italian food is loved all over the world!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-085",
+    "subject": "gk",
+    "question": "What country has a flag with red and white stripes and 50 stars?",
+    "options": [
+      "Canada",
+      "United Kingdom",
+      "United States",
+      "France"
+    ],
+    "correctIndex": 2,
+    "explanation": "The United States has a flag with red and white stripes and 50 stars! Each star stands for a state!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-086",
+    "subject": "gk",
+    "question": "What country is the Great Wall in?",
+    "options": [
+      "Japan",
+      "India",
+      "China",
+      "Russia"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Great Wall is in China! It's so long that it can be seen from space!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-087",
+    "subject": "gk",
+    "question": "What country do polar bears live in the wild?",
+    "options": [
+      "India",
+      "Brazil",
+      "Canada",
+      "Australia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Polar bears live in cold places like Canada! They also live in other Arctic countries like Russia and Norway!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-088",
+    "subject": "gk",
+    "question": "What country is the Taj Mahal in?",
+    "options": [
+      "China",
+      "Japan",
+      "India",
+      "Egypt"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Taj Mahal is in India! It's a beautiful white marble building built as a symbol of love!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-089",
+    "subject": "gk",
+    "question": "How many continents are there?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "There are 7 continents! They are Asia, Africa, North America, South America, Antarctica, Europe, and Australia!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-090",
+    "subject": "gk",
+    "question": "Which continent is the biggest?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asia is the biggest continent! It has the most people and the most land!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-091",
+    "subject": "gk",
+    "question": "Which continent is the coldest?",
+    "options": [
+      "Asia",
+      "Europe",
+      "Antarctica",
+      "Africa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Antarctica is the coldest continent! It's covered in ice and snow, and penguins live there!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-092",
+    "subject": "gk",
+    "question": "Which continent do elephants, lions, and giraffes live on?",
+    "options": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "South America"
+    ],
+    "correctIndex": 2,
+    "explanation": "Elephants, lions, and giraffes live in Africa! Africa is known for its amazing wildlife!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-093",
+    "subject": "gk",
+    "question": "Which continent is also a country?",
+    "options": [
+      "Europe",
+      "Africa",
+      "Australia",
+      "Asia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Australia is both a continent and a country! It's the only place in the world that is both!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-094",
+    "subject": "gk",
+    "question": "On which holiday do people dress up in costumes and go trick-or-treating?",
+    "options": [
+      "Christmas",
+      "Easter",
+      "Halloween",
+      "Thanksgiving"
+    ],
+    "correctIndex": 2,
+    "explanation": "On Halloween, people dress up in costumes and go trick-or-treating for candy! It's on October 31st!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-095",
+    "subject": "gk",
+    "question": "On which holiday does Santa Claus bring presents?",
+    "options": [
+      "Easter",
+      "Halloween",
+      "Thanksgiving",
+      "Christmas"
+    ],
+    "correctIndex": 3,
+    "explanation": "Santa Claus brings presents on Christmas! Christmas is celebrated on December 25th!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-096",
+    "subject": "gk",
+    "question": "On which holiday do people hunt for colorful eggs?",
+    "options": [
+      "Easter",
+      "Christmas",
+      "Halloween",
+      "Valentine's Day"
+    ],
+    "correctIndex": 0,
+    "explanation": "People hunt for colorful eggs on Easter! The Easter Bunny hides eggs for children to find!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-097",
+    "subject": "gk",
+    "question": "On which holiday do families eat turkey and give thanks?",
+    "options": [
+      "Christmas",
+      "Easter",
+      "Halloween",
+      "Thanksgiving"
+    ],
+    "correctIndex": 3,
+    "explanation": "Families eat turkey and give thanks on Thanksgiving! It's a time to be grateful for what we have!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-098",
+    "subject": "gk",
+    "question": "What holiday celebrates the start of a new year?",
+    "options": [
+      "Thanksgiving",
+      "Valentine's Day",
+      "New Year's Day",
+      "Easter"
+    ],
+    "correctIndex": 2,
+    "explanation": "New Year's Day celebrates the start of a new year! People count down at midnight on January 1st!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-099",
+    "subject": "gk",
+    "question": "On Valentine's Day, what shape do we see everywhere?",
+    "options": [
+      "Stars",
+      "Circles",
+      "Hearts",
+      "Triangles"
+    ],
+    "correctIndex": 2,
+    "explanation": "We see hearts everywhere on Valentine's Day! Hearts are a symbol of love and kindness!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-100",
+    "subject": "gk",
+    "question": "What holiday celebrates America's birthday on July 4th?",
+    "options": [
+      "Memorial Day",
+      "Veterans Day",
+      "Independence Day",
+      "Labor Day"
+    ],
+    "correctIndex": 2,
+    "explanation": "Independence Day, or the Fourth of July, celebrates America's birthday! There are fireworks and parades!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-101",
+    "subject": "gk",
+    "question": "Where are the Pyramids?",
+    "options": [
+      "India",
+      "China",
+      "Mexico",
+      "Egypt"
+    ],
+    "correctIndex": 3,
+    "explanation": "The most famous pyramids are in Egypt! They were built thousands of years ago as tombs for ancient kings called pharaohs!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-102",
+    "subject": "gk",
+    "question": "What is the famous clock tower in London called?",
+    "options": [
+      "Eiffel Tower",
+      "Big Ben",
+      "Leaning Tower",
+      "Liberty Bell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Big Ben is the famous clock tower in London! It's been keeping time since 1859!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-103",
+    "subject": "gk",
+    "question": "What is the tall green statue in New York called?",
+    "options": [
+      "Statue of Liberty",
+      "Big Ben",
+      "Eiffel Tower",
+      "Sphinx"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Statue of Liberty is in New York! It was a gift from France and welcomes people to America!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-104",
+    "subject": "gk",
+    "question": "Which famous tower in Italy leans to one side?",
+    "options": [
+      "Eiffel Tower",
+      "Big Ben",
+      "Leaning Tower of Pisa",
+      "Tower of London"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Leaning Tower of Pisa in Italy leans to one side! The ground underneath was too soft when they built it!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-105",
+    "subject": "gk",
+    "question": "What famous wall was built to protect ancient China?",
+    "options": [
+      "Berlin Wall",
+      "Great Wall of China",
+      "Wall Street",
+      "Hadrian's Wall"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Great Wall of China was built to protect China! It stretches for thousands of miles!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-106",
+    "subject": "gk",
+    "question": "What famous mountain has the faces of four US presidents carved into it?",
+    "options": [
+      "Mount Everest",
+      "Grand Canyon",
+      "Mount Rushmore",
+      "Rocky Mountains"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mount Rushmore has the faces of four US presidents carved into it! It's in South Dakota!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-107",
+    "subject": "gk",
+    "question": "What is pizza dough made from?",
+    "options": [
+      "Rice",
+      "Flour",
+      "Sugar",
+      "Corn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pizza dough is made from flour! Flour, water, and yeast are mixed together to make the dough!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-108",
+    "subject": "gk",
+    "question": "What do cows give us to drink?",
+    "options": [
+      "Juice",
+      "Water",
+      "Milk",
+      "Tea"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cows give us milk! We use milk to make cheese, butter, and ice cream too!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-109",
+    "subject": "gk",
+    "question": "What is bread made from?",
+    "options": [
+      "Meat",
+      "Wheat",
+      "Corn",
+      "Milk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bread is made from wheat! Wheat is ground into flour, then mixed with water and baked!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-110",
+    "subject": "gk",
+    "question": "Where does honey come from?",
+    "options": [
+      "Trees",
+      "Bees",
+      "Flowers",
+      "Cows"
+    ],
+    "correctIndex": 1,
+    "explanation": "Honey comes from bees! Bees collect nectar from flowers and turn it into sweet honey!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-111",
+    "subject": "gk",
+    "question": "What food do chickens give us?",
+    "options": [
+      "Milk",
+      "Honey",
+      "Eggs",
+      "Butter"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chickens give us eggs! We can fry, scramble, boil, or bake with eggs!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-112",
+    "subject": "gk",
+    "question": "What is cheese made from?",
+    "options": [
+      "Eggs",
+      "Flour",
+      "Milk",
+      "Sugar"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cheese is made from milk! Milk is heated and special ingredients are added to turn it into cheese!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-113",
+    "subject": "gk",
+    "question": "What is ice cream mainly made from?",
+    "options": [
+      "Juice",
+      "Water",
+      "Milk and cream",
+      "Flour"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ice cream is made from milk and cream! Sugar and flavors are added, then it's frozen to make it cold and yummy!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-114",
+    "subject": "gk",
+    "question": "What is popcorn made from?",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Corn",
+      "Oats"
+    ],
+    "correctIndex": 2,
+    "explanation": "Popcorn is made from corn! When corn kernels are heated, they pop open into fluffy white popcorn!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-115",
+    "subject": "gk",
+    "question": "What is chocolate made from?",
+    "options": [
+      "Coffee beans",
+      "Cocoa beans",
+      "Peanuts",
+      "Milk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chocolate is made from cocoa beans! Cocoa beans grow in tropical countries near the equator!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-116",
+    "subject": "gk",
+    "question": "What is peanut butter made from?",
+    "options": [
+      "Almonds",
+      "Cashews",
+      "Peanuts",
+      "Walnuts"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peanut butter is made from peanuts! Peanuts are ground up until they become smooth and creamy!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-117",
+    "subject": "gk",
+    "question": "What do we use to tell time?",
+    "options": [
+      "Thermometer",
+      "Clock",
+      "Ruler",
+      "Scale"
+    ],
+    "correctIndex": 1,
+    "explanation": "We use a clock to tell time! Clocks have numbers and hands that point to the hours and minutes!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-118",
+    "subject": "gk",
+    "question": "What do we use to measure how hot or cold it is?",
+    "options": [
+      "Ruler",
+      "Clock",
+      "Thermometer",
+      "Scale"
+    ],
+    "correctIndex": 2,
+    "explanation": "A thermometer measures temperature! It tells us if it's hot or cold outside!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-119",
+    "subject": "gk",
+    "question": "What do we use to cut paper?",
+    "options": [
+      "Glue",
+      "Scissors",
+      "Tape",
+      "Ruler"
+    ],
+    "correctIndex": 1,
+    "explanation": "We use scissors to cut paper! Always be careful when using scissors!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-120",
+    "subject": "gk",
+    "question": "What do we use to write on a chalkboard?",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Chalk",
+      "Crayon"
+    ],
+    "correctIndex": 2,
+    "explanation": "We use chalk to write on a chalkboard! Chalk is soft and white, and it wipes off easily!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-121",
+    "subject": "gk",
+    "question": "What keeps rain off your head?",
+    "options": [
+      "Scarf",
+      "Umbrella",
+      "Gloves",
+      "Sunglasses"
+    ],
+    "correctIndex": 1,
+    "explanation": "An umbrella keeps rain off your head! You open it up and hold it above you when it rains!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-122",
+    "subject": "gk",
+    "question": "What do we use to see things that are far away?",
+    "options": [
+      "Microscope",
+      "Binoculars",
+      "Magnifying glass",
+      "Mirror"
+    ],
+    "correctIndex": 1,
+    "explanation": "Binoculars help us see things that are far away! They make faraway things look closer!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-123",
+    "subject": "gk",
+    "question": "What do we use to measure how long something is?",
+    "options": [
+      "Clock",
+      "Thermometer",
+      "Ruler",
+      "Scale"
+    ],
+    "correctIndex": 2,
+    "explanation": "We use a ruler to measure length! Rulers show inches and centimeters!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-124",
+    "subject": "gk",
+    "question": "What do we use a key for?",
+    "options": [
+      "Cutting food",
+      "Opening a lock",
+      "Writing",
+      "Drawing"
+    ],
+    "correctIndex": 1,
+    "explanation": "We use a key to open a lock! Keys have special shapes that fit into their matching lock!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-125",
+    "subject": "gk",
+    "question": "What do we use to stick things together?",
+    "options": [
+      "Scissors",
+      "Glue",
+      "Pencil",
+      "Eraser"
+    ],
+    "correctIndex": 1,
+    "explanation": "We use glue to stick things together! Glue is sticky and helps hold paper, wood, and other things in place!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-126",
+    "subject": "gk",
+    "question": "What do we use to see ourselves?",
+    "options": [
+      "Window",
+      "Mirror",
+      "Camera",
+      "Television"
+    ],
+    "correctIndex": 1,
+    "explanation": "We use a mirror to see ourselves! Mirrors reflect light and show us what we look like!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-127",
+    "subject": "gk",
+    "question": "What do we wear on our feet?",
+    "options": [
+      "Gloves",
+      "Hat",
+      "Shoes",
+      "Scarf"
+    ],
+    "correctIndex": 2,
+    "explanation": "We wear shoes on our feet! Shoes protect our feet and help us walk and run!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-128",
+    "subject": "gk",
+    "question": "What do we wear on our hands when it's cold?",
+    "options": [
+      "Socks",
+      "Shoes",
+      "Hat",
+      "Gloves"
+    ],
+    "correctIndex": 3,
+    "explanation": "We wear gloves on our hands when it's cold! Gloves keep our fingers warm and cozy!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-129",
+    "subject": "gk",
+    "question": "What do we wear on our head?",
+    "options": [
+      "Shoes",
+      "Belt",
+      "Hat",
+      "Scarf"
+    ],
+    "correctIndex": 2,
+    "explanation": "We wear a hat on our head! Hats protect us from the sun and keep us warm in winter!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-130",
+    "subject": "gk",
+    "question": "What do we wear around our neck to keep warm?",
+    "options": [
+      "Belt",
+      "Scarf",
+      "Bracelet",
+      "Glove"
+    ],
+    "correctIndex": 1,
+    "explanation": "We wear a scarf around our neck! Scarves are soft and keep our necks warm in winter!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-131",
+    "subject": "gk",
+    "question": "What special clothes do we wear when we go swimming?",
+    "options": [
+      "Pajamas",
+      "Swimsuit",
+      "Coat",
+      "Uniform"
+    ],
+    "correctIndex": 1,
+    "explanation": "We wear a swimsuit when we go swimming! Swimsuits are made of special material that dries quickly!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-132",
+    "subject": "gk",
+    "question": "What do we wear when it's raining outside?",
+    "options": [
+      "Swimsuit",
+      "Sunglasses",
+      "Raincoat",
+      "Shorts"
+    ],
+    "correctIndex": 2,
+    "explanation": "We wear a raincoat when it's raining! Raincoats are waterproof so we stay dry!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-133",
+    "subject": "gk",
+    "question": "What do we wear on our feet inside socks?",
+    "options": [
+      "Sandals",
+      "Nothing",
+      "Gloves",
+      "Shoes"
+    ],
+    "correctIndex": 3,
+    "explanation": "We put socks on our feet first, then shoes on top! Socks keep our feet comfy inside our shoes!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-134",
+    "subject": "gk",
+    "question": "What do you call your mother's mother?",
+    "options": [
+      "Aunt",
+      "Sister",
+      "Grandmother",
+      "Cousin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Your mother's mother is your grandmother! You can also call her grandma or nana!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-135",
+    "subject": "gk",
+    "question": "What do you call your father's brother?",
+    "options": [
+      "Cousin",
+      "Grandfather",
+      "Brother",
+      "Uncle"
+    ],
+    "correctIndex": 3,
+    "explanation": "Your father's brother is your uncle! Uncles are part of your extended family!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-136",
+    "subject": "gk",
+    "question": "What do you call your aunt's children?",
+    "options": [
+      "Siblings",
+      "Cousins",
+      "Nephews",
+      "Friends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Your aunt's children are your cousins! Cousins are like built-in friends in your family!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-137",
+    "subject": "gk",
+    "question": "What do you call your parents' parents?",
+    "options": [
+      "Aunts and uncles",
+      "Grandparents",
+      "Siblings",
+      "Cousins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Your parents' parents are your grandparents! They are your grandmother and grandfather!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-138",
+    "subject": "gk",
+    "question": "What do you call your mother's sister?",
+    "options": [
+      "Grandmother",
+      "Cousin",
+      "Aunt",
+      "Sister"
+    ],
+    "correctIndex": 2,
+    "explanation": "Your mother's sister is your aunt! Aunts are wonderful family members!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-139",
+    "subject": "gk",
+    "question": "What do you call a boy who has the same parents as you?",
+    "options": [
+      "Cousin",
+      "Uncle",
+      "Friend",
+      "Brother"
+    ],
+    "correctIndex": 3,
+    "explanation": "A boy with the same parents as you is your brother! Brothers and sisters are called siblings!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-140",
+    "subject": "gk",
+    "question": "What do you call a girl who has the same parents as you?",
+    "options": [
+      "Cousin",
+      "Aunt",
+      "Sister",
+      "Friend"
+    ],
+    "correctIndex": 2,
+    "explanation": "A girl with the same parents as you is your sister! Sisters and brothers are called siblings!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-141",
+    "subject": "gk",
+    "question": "What does a firefighter do?",
+    "options": [
+      "Delivers mail",
+      "Puts out fires",
+      "Fixes cars",
+      "Teaches children"
+    ],
+    "correctIndex": 1,
+    "explanation": "A firefighter puts out fires and keeps people safe! They are very brave and help during emergencies!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-142",
+    "subject": "gk",
+    "question": "What does a police officer do?",
+    "options": [
+      "Cooks food",
+      "Keeps people safe",
+      "Fixes teeth",
+      "Flies planes"
+    ],
+    "correctIndex": 1,
+    "explanation": "A police officer keeps people safe! They help catch bad guys and make sure everyone follows the rules!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-143",
+    "subject": "gk",
+    "question": "What does a librarian do?",
+    "options": [
+      "Helps people find books",
+      "Drives a bus",
+      "Cooks food",
+      "Fixes pipes"
+    ],
+    "correctIndex": 0,
+    "explanation": "A librarian helps people find books! They work in a library and know all about the books there!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-144",
+    "subject": "gk",
+    "question": "What does a nurse do?",
+    "options": [
+      "Builds houses",
+      "Takes care of sick people",
+      "Drives a bus",
+      "Teaches math"
+    ],
+    "correctIndex": 1,
+    "explanation": "A nurse takes care of sick people! Nurses work in hospitals and clinics helping patients get better!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-145",
+    "subject": "gk",
+    "question": "What does a crossing guard help you do?",
+    "options": [
+      "Find books",
+      "Cross the street safely",
+      "Buy food",
+      "Fix your bike"
+    ],
+    "correctIndex": 1,
+    "explanation": "A crossing guard helps you cross the street safely! They hold up a stop sign so cars wait for you!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-146",
+    "subject": "gk",
+    "question": "What does a garbage collector do?",
+    "options": [
+      "Delivers mail",
+      "Picks up trash",
+      "Drives a taxi",
+      "Grows food"
+    ],
+    "correctIndex": 1,
+    "explanation": "A garbage collector picks up trash! They help keep our neighborhoods clean and tidy!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-147",
+    "subject": "gk",
+    "question": "What does a baker make?",
+    "options": [
+      "Cars",
+      "Bread and cakes",
+      "Clothes",
+      "Houses"
+    ],
+    "correctIndex": 1,
+    "explanation": "A baker makes bread, cakes, cookies, and other yummy baked goods! Bakeries smell amazing!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-148",
+    "subject": "gk",
+    "question": "What does a plumber fix?",
+    "options": [
+      "Computers",
+      "Pipes and water",
+      "Cars",
+      "Electricity"
+    ],
+    "correctIndex": 1,
+    "explanation": "A plumber fixes pipes and water problems! They make sure our sinks, toilets, and showers work!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-149",
+    "subject": "gk",
+    "question": "The sun rises in the ___",
+    "options": [
+      "West",
+      "North",
+      "South",
+      "East"
+    ],
+    "correctIndex": 3,
+    "explanation": "The sun rises in the east! Every morning, you can see the sun come up in the eastern sky!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-150",
+    "subject": "gk",
+    "question": "The sun sets in the ___",
+    "options": [
+      "East",
+      "North",
+      "West",
+      "South"
+    ],
+    "correctIndex": 2,
+    "explanation": "The sun sets in the west! At the end of the day, the sun goes down in the western sky and makes beautiful sunsets!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-151",
+    "subject": "gk",
+    "question": "How many directions are on a compass?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 2,
+    "explanation": "A compass has 4 main directions! North, South, East, and West!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-152",
+    "subject": "gk",
+    "question": "Which direction is opposite of North?",
+    "options": [
+      "East",
+      "West",
+      "South",
+      "Up"
+    ],
+    "correctIndex": 2,
+    "explanation": "South is opposite of North! On a map, North is at the top and South is at the bottom!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-153",
+    "subject": "gk",
+    "question": "Which direction is opposite of East?",
+    "options": [
+      "North",
+      "South",
+      "West",
+      "Up"
+    ],
+    "correctIndex": 2,
+    "explanation": "West is opposite of East! The sun rises in the East and sets in the West!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-154",
+    "subject": "gk",
+    "question": "On a map, which direction is usually at the top?",
+    "options": [
+      "South",
+      "East",
+      "West",
+      "North"
+    ],
+    "correctIndex": 3,
+    "explanation": "North is usually at the top of a map! That's why we say 'up north' sometimes!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-155",
+    "subject": "gk",
+    "question": "What is a compass used for?",
+    "options": [
+      "Telling time",
+      "Measuring weight",
+      "Finding direction",
+      "Drawing circles"
+    ],
+    "correctIndex": 2,
+    "explanation": "A compass is used for finding direction! The needle always points north so you know which way to go!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-156",
+    "subject": "gk",
+    "question": "If you face North and turn right, which direction are you facing?",
+    "options": [
+      "South",
+      "East",
+      "West",
+      "North"
+    ],
+    "correctIndex": 1,
+    "explanation": "If you face North and turn right, you face East! It goes clockwise: North, East, South, West!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-157",
+    "subject": "gk",
+    "question": "What is on the front of a US penny?",
+    "options": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "An eagle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Abraham Lincoln is on the front of a US penny! He was the 16th president of the United States!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-158",
+    "subject": "gk",
+    "question": "How many cents is a nickel worth?",
+    "options": [
+      "1 cent",
+      "5 cents",
+      "10 cents",
+      "25 cents"
+    ],
+    "correctIndex": 1,
+    "explanation": "A nickel is worth 5 cents! It takes 5 pennies to make one nickel!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-159",
+    "subject": "gk",
+    "question": "How many cents is a dime worth?",
+    "options": [
+      "5 cents",
+      "10 cents",
+      "25 cents",
+      "50 cents"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dime is worth 10 cents! Even though it's the smallest coin, it's worth more than a nickel!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-160",
+    "subject": "gk",
+    "question": "How many cents is a quarter worth?",
+    "options": [
+      "10 cents",
+      "15 cents",
+      "20 cents",
+      "25 cents"
+    ],
+    "correctIndex": 3,
+    "explanation": "A quarter is worth 25 cents! Four quarters make one dollar!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-161",
+    "subject": "gk",
+    "question": "How many pennies make one dollar?",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "200"
+    ],
+    "correctIndex": 2,
+    "explanation": "100 pennies make one dollar! That's a lot of pennies!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-162",
+    "subject": "gk",
+    "question": "Which US coin is the smallest in size?",
+    "options": [
+      "Penny",
+      "Nickel",
+      "Dime",
+      "Quarter"
+    ],
+    "correctIndex": 2,
+    "explanation": "The dime is the smallest US coin! But it's worth more than a penny or a nickel!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-163",
+    "subject": "gk",
+    "question": "Who is on the US one-dollar bill?",
+    "options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Benjamin Franklin",
+      "Thomas Jefferson"
+    ],
+    "correctIndex": 1,
+    "explanation": "George Washington is on the one-dollar bill! He was the first president of the United States!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-164",
+    "subject": "gk",
+    "question": "How many quarters make one dollar?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "explanation": "4 quarters make one dollar! Each quarter is 25 cents, and 25 times 4 equals 100 cents!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-165",
+    "subject": "gk",
+    "question": "How many nickels make one quarter?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correctIndex": 2,
+    "explanation": "5 nickels make one quarter! Each nickel is 5 cents, and 5 times 5 equals 25 cents!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-166",
+    "subject": "gk",
+    "question": "Who invented the light bulb?",
+    "options": [
+      "Albert Einstein",
+      "Thomas Edison",
+      "Benjamin Franklin",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thomas Edison invented the light bulb! Before his invention, people used candles and gas lamps for light!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-167",
+    "subject": "gk",
+    "question": "Who invented the telephone?",
+    "options": [
+      "Thomas Edison",
+      "Wright Brothers",
+      "Alexander Graham Bell",
+      "Benjamin Franklin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alexander Graham Bell invented the telephone! His invention let people talk to each other far away!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-168",
+    "subject": "gk",
+    "question": "Who were the first people to fly an airplane?",
+    "options": [
+      "Thomas Edison",
+      "The Wright Brothers",
+      "Benjamin Franklin",
+      "Alexander Graham Bell"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Wright Brothers were the first to fly an airplane! Orville and Wilbur Wright flew it in 1903!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-169",
+    "subject": "gk",
+    "question": "What did Benjamin Franklin discover using a kite in a storm?",
+    "options": [
+      "Wind power",
+      "Electricity in lightning",
+      "How to fly",
+      "Rainbows"
+    ],
+    "correctIndex": 1,
+    "explanation": "Benjamin Franklin proved that lightning is electricity using a kite in a storm! That was very brave but dangerous!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-170",
+    "subject": "gk",
+    "question": "What invention lets us see things that are very, very tiny?",
+    "options": [
+      "Telescope",
+      "Microscope",
+      "Binoculars",
+      "Camera"
+    ],
+    "correctIndex": 1,
+    "explanation": "A microscope lets us see very tiny things! Scientists use microscopes to look at cells and germs!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-171",
+    "subject": "gk",
+    "question": "What invention lets us see things in outer space?",
+    "options": [
+      "Microscope",
+      "Magnifying glass",
+      "Telescope",
+      "Binoculars"
+    ],
+    "correctIndex": 2,
+    "explanation": "A telescope lets us see things in outer space! We can look at the moon, planets, and stars!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-172",
+    "subject": "gk",
+    "question": "What was invented to help people move heavy things using wheels?",
+    "options": [
+      "Airplane",
+      "Wheelbarrow",
+      "Telescope",
+      "Camera"
+    ],
+    "correctIndex": 1,
+    "explanation": "The wheelbarrow was invented to help move heavy things! It uses a wheel to make carrying loads much easier!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-173",
+    "subject": "gk",
+    "question": "What invention captures pictures?",
+    "options": [
+      "Telephone",
+      "Television",
+      "Camera",
+      "Radio"
+    ],
+    "correctIndex": 2,
+    "explanation": "A camera captures pictures! The first cameras were invented almost 200 years ago!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-174",
+    "subject": "gk",
+    "question": "What invention helps us cook food quickly by spinning it around inside?",
+    "options": [
+      "Oven",
+      "Toaster",
+      "Microwave",
+      "Blender"
+    ],
+    "correctIndex": 2,
+    "explanation": "A microwave heats food quickly using special waves! It's a very handy kitchen invention!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-175",
+    "subject": "gk",
+    "question": "What invention lets you talk to someone far away using the internet and see their face?",
+    "options": [
+      "Radio",
+      "Telephone",
+      "Video call",
+      "Letter"
+    ],
+    "correctIndex": 2,
+    "explanation": "Video calls let you talk to and see someone far away! You can use a phone or computer for video calls!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-176",
+    "subject": "gk",
+    "question": "What color is grass?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "correctIndex": 2,
+    "explanation": "Grass is green! It gets its green color from something called chlorophyll!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-177",
+    "subject": "gk",
+    "question": "How many colors are in a rainbow?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "A rainbow has 7 colors! Red, orange, yellow, green, blue, indigo, and violet!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-178",
+    "subject": "gk",
+    "question": "What color do you get when you mix all primary colors together?",
+    "options": [
+      "White",
+      "Black",
+      "Brown",
+      "Gray"
+    ],
+    "correctIndex": 2,
+    "explanation": "When you mix all primary paint colors together, you get brown! It's like mixing too many paint colors at once!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-179",
+    "subject": "gk",
+    "question": "Which month comes after September?",
+    "options": [
+      "August",
+      "November",
+      "October",
+      "December"
+    ],
+    "correctIndex": 2,
+    "explanation": "October comes after September! October is the month of fall leaves and Halloween!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-180",
+    "subject": "gk",
+    "question": "Which month comes after June?",
+    "options": [
+      "May",
+      "July",
+      "August",
+      "September"
+    ],
+    "correctIndex": 1,
+    "explanation": "July comes after June! July is right in the middle of summer!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-181",
+    "subject": "gk",
+    "question": "Which of these is a fruit that is red and shaped like a heart?",
+    "options": [
+      "Banana",
+      "Strawberry",
+      "Lemon",
+      "Blueberry"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strawberry is red and shaped like a heart! Strawberries are sweet and delicious!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-182",
+    "subject": "gk",
+    "question": "What does a zookeeper do?",
+    "options": [
+      "Teaches school",
+      "Takes care of zoo animals",
+      "Drives a bus",
+      "Cooks food"
+    ],
+    "correctIndex": 1,
+    "explanation": "A zookeeper takes care of zoo animals! They feed them, clean their homes, and make sure they're healthy!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-183",
+    "subject": "gk",
+    "question": "Which country do pandas come from?",
+    "options": [
+      "Japan",
+      "India",
+      "China",
+      "Australia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pandas come from China! They live in bamboo forests and eat lots of bamboo!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-184",
+    "subject": "gk",
+    "question": "Which sport uses a bat, ball, and bases?",
+    "options": [
+      "Soccer",
+      "Tennis",
+      "Basketball",
+      "Baseball"
+    ],
+    "correctIndex": 3,
+    "explanation": "Baseball uses a bat, ball, and bases! Players hit the ball and run to first, second, third base, and home!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-185",
+    "subject": "gk",
+    "question": "What do we call a baby dog?",
+    "options": [
+      "Kitten",
+      "Cub",
+      "Puppy",
+      "Foal"
+    ],
+    "correctIndex": 2,
+    "explanation": "A baby dog is called a puppy! Puppies are playful and love to wag their tails!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-186",
+    "subject": "gk",
+    "question": "What do we call a baby cat?",
+    "options": [
+      "Puppy",
+      "Kitten",
+      "Calf",
+      "Chick"
+    ],
+    "correctIndex": 1,
+    "explanation": "A baby cat is called a kitten! Kittens are tiny and love to play with string!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-187",
+    "subject": "gk",
+    "question": "What do we wear to protect our eyes from the sun?",
+    "options": [
+      "Hat",
+      "Sunglasses",
+      "Scarf",
+      "Helmet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sunglasses protect our eyes from the sun! They have dark lenses that block bright light!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-188",
+    "subject": "gk",
+    "question": "What continent is Brazil in?",
+    "options": [
+      "North America",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "correctIndex": 3,
+    "explanation": "Brazil is in South America! It's the biggest country in South America and is famous for the Amazon rainforest!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-189",
+    "subject": "gk",
+    "question": "Where is the Sphinx located?",
+    "options": [
+      "Greece",
+      "China",
+      "Egypt",
+      "India"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Sphinx is in Egypt, near the Pyramids! It has the body of a lion and the head of a person!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "gk-190",
+    "subject": "gk",
+    "question": "What holiday celebrates mothers?",
+    "options": [
+      "Valentine's Day",
+      "Mother's Day",
+      "Easter",
+      "Thanksgiving"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mother's Day celebrates moms! It's a special day to say thank you and show love to your mom!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-191",
+    "subject": "gk",
+    "question": "What holiday celebrates fathers?",
+    "options": [
+      "Father's Day",
+      "Valentine's Day",
+      "Labor Day",
+      "New Year's Day"
+    ],
+    "correctIndex": 0,
+    "explanation": "Father's Day celebrates dads! It's a special day to show love and appreciation for your dad!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-192",
+    "subject": "gk",
+    "question": "What do we use to weigh things?",
+    "options": [
+      "Ruler",
+      "Clock",
+      "Scale",
+      "Thermometer"
+    ],
+    "correctIndex": 2,
+    "explanation": "We use a scale to weigh things! A scale tells us how heavy something is!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-193",
+    "subject": "gk",
+    "question": "What do we use to sweep the floor?",
+    "options": [
+      "Mop",
+      "Broom",
+      "Sponge",
+      "Towel"
+    ],
+    "correctIndex": 1,
+    "explanation": "We use a broom to sweep the floor! A broom has bristles that push dirt and dust into a pile!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-194",
+    "subject": "gk",
+    "question": "What is the name of the imaginary line around the middle of the Earth?",
+    "options": [
+      "North Pole",
+      "Equator",
+      "South Pole",
+      "Prime Meridian"
+    ],
+    "correctIndex": 1,
+    "explanation": "The equator is an imaginary line around the middle of the Earth! Places near the equator are very warm!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-195",
+    "subject": "gk",
+    "question": "What is sushi originally from?",
+    "options": [
+      "China",
+      "Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sushi is originally from Japan! It's made with rice, seaweed, and often fish!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-196",
+    "subject": "gk",
+    "question": "What famous building in Sydney, Australia looks like giant white sails?",
+    "options": [
+      "Big Ben",
+      "Eiffel Tower",
+      "Sydney Opera House",
+      "Colosseum"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Sydney Opera House looks like giant white sails! It's one of the most famous buildings in the world!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-197",
+    "subject": "gk",
+    "question": "What do we wear on our head to stay safe while riding a bicycle?",
+    "options": [
+      "Hat",
+      "Crown",
+      "Helmet",
+      "Headband"
+    ],
+    "correctIndex": 2,
+    "explanation": "We wear a helmet to stay safe while riding a bicycle! Helmets protect our head if we fall!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "gk-198",
+    "subject": "gk",
+    "question": "What country is known for the ancient Colosseum?",
+    "options": [
+      "Greece",
+      "Italy",
+      "Egypt",
+      "Spain"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Colosseum is in Italy, in the city of Rome! It was built almost 2,000 years ago for shows and events!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-199",
+    "subject": "gk",
+    "question": "If you face South and turn left, which direction are you facing?",
+    "options": [
+      "North",
+      "East",
+      "West",
+      "South"
+    ],
+    "correctIndex": 1,
+    "explanation": "If you face South and turn left, you face East! Think of a clock: South to East is turning left!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "gk-200",
+    "subject": "gk",
+    "question": "What continent has the most countries?",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "correctIndex": 2,
+    "explanation": "Africa has the most countries with 54! It's a huge continent with many different cultures and languages!",
+    "difficulty": 3,
     "source": "bank"
   }
 ]

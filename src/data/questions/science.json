@@ -3,9 +3,14 @@
     "id": "sci-001",
     "subject": "science",
     "question": "What do plants need to grow?",
-    "options": ["Candy", "Water and sunlight", "Toys", "Darkness"],
+    "options": [
+      "Candy",
+      "Sunlight and water",
+      "Books",
+      "Music"
+    ],
     "correctIndex": 1,
-    "explanation": "Plants need water and sunlight to grow! They drink water through their roots and soak up sunshine through their leaves.",
+    "explanation": "Plants need sunlight and water to grow big and strong!",
     "difficulty": 1,
     "source": "bank"
   },
@@ -13,490 +18,2985 @@
     "id": "sci-002",
     "subject": "science",
     "question": "What is a baby dog called?",
-    "options": ["Kitten", "Cub", "Puppy", "Calf"],
+    "options": [
+      "Kitten",
+      "Cub",
+      "Puppy",
+      "Foal"
+    ],
     "correctIndex": 2,
-    "explanation": "A baby dog is called a puppy! Puppies are so cute and playful!",
+    "explanation": "A baby dog is called a puppy. Puppies are so cute and playful!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-003",
     "subject": "science",
-    "question": "Which body part do we use to see?",
-    "options": ["Ears", "Nose", "Eyes", "Mouth"],
-    "correctIndex": 2,
-    "explanation": "We use our eyes to see! Eyes help us look at all the beautiful things around us.",
+    "question": "Where does a bird live?",
+    "options": [
+      "In a nest",
+      "In a cave",
+      "In a shell",
+      "In a pond"
+    ],
+    "correctIndex": 0,
+    "explanation": "Birds build nests using twigs and leaves to live in and raise their babies!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-004",
     "subject": "science",
-    "question": "What falls from the clouds when it rains?",
-    "options": ["Snow", "Water", "Sand", "Leaves"],
+    "question": "Which animal has stripes?",
+    "options": [
+      "Elephant",
+      "Zebra",
+      "Frog",
+      "Rabbit"
+    ],
     "correctIndex": 1,
-    "explanation": "Water falls from the clouds as rain! Clouds hold tiny drops of water that fall down when they get heavy.",
+    "explanation": "Zebras have black and white stripes. No two zebras have the exact same pattern!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-005",
     "subject": "science",
-    "question": "How many legs does a spider have?",
-    "options": ["4", "6", "8", "10"],
-    "correctIndex": 2,
-    "explanation": "A spider has 8 legs! That is a lot of legs! Spiders are not insects -- they are arachnids.",
-    "difficulty": 2,
+    "question": "What do we use to breathe?",
+    "options": [
+      "Stomach",
+      "Lungs",
+      "Hands",
+      "Feet"
+    ],
+    "correctIndex": 1,
+    "explanation": "We use our lungs to breathe in air. They are inside our chest!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-006",
     "subject": "science",
-    "question": "What is the biggest star we can see during the day?",
-    "options": ["Moon", "Sun", "Mars", "Venus"],
-    "correctIndex": 1,
-    "explanation": "The Sun is a star! It is the closest star to Earth and gives us light and warmth.",
+    "question": "Which sense do we use with our eyes?",
+    "options": [
+      "Hearing",
+      "Smell",
+      "Sight",
+      "Touch"
+    ],
+    "correctIndex": 2,
+    "explanation": "We use our eyes for sight, which lets us see the world around us!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-007",
     "subject": "science",
-    "question": "Which sense do we use our nose for?",
-    "options": ["Hearing", "Tasting", "Smelling", "Touching"],
-    "correctIndex": 2,
-    "explanation": "We use our nose for smelling! Your nose can smell flowers, food, and so many things!",
+    "question": "What falls from clouds when it rains?",
+    "options": [
+      "Snow",
+      "Water",
+      "Leaves",
+      "Sand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Raindrops are tiny drops of water that fall from clouds!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-008",
     "subject": "science",
-    "question": "What is a baby cat called?",
-    "options": ["Puppy", "Kitten", "Cub", "Foal"],
-    "correctIndex": 1,
-    "explanation": "A baby cat is called a kitten! Kittens love to play with yarn!",
+    "question": "In which season do leaves fall from trees?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "correctIndex": 2,
+    "explanation": "In autumn (also called fall), leaves change color and fall from the trees!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-009",
     "subject": "science",
-    "question": "In which season do leaves fall from trees?",
-    "options": ["Spring", "Summer", "Autumn", "Winter"],
+    "question": "What part of a plant is underground?",
+    "options": [
+      "Flower",
+      "Leaf",
+      "Root",
+      "Stem"
+    ],
     "correctIndex": 2,
-    "explanation": "Leaves fall in autumn (also called fall)! They turn beautiful red, orange, and yellow colors.",
+    "explanation": "Roots grow underground and help the plant drink water from the soil!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-010",
     "subject": "science",
-    "question": "Which animal lives in water?",
-    "options": ["Cat", "Dog", "Fish", "Bird"],
-    "correctIndex": 2,
-    "explanation": "Fish live in water! They breathe through special parts called gills.",
+    "question": "Which food helps us build strong bones?",
+    "options": [
+      "Candy",
+      "Milk",
+      "Chips",
+      "Soda"
+    ],
+    "correctIndex": 1,
+    "explanation": "Milk has calcium which helps our bones grow strong and healthy!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-011",
     "subject": "science",
-    "question": "What part of a plant grows under the ground?",
-    "options": ["Flower", "Leaf", "Root", "Stem"],
-    "correctIndex": 2,
-    "explanation": "Roots grow under the ground! They hold the plant in place and drink up water from the soil.",
-    "difficulty": 2,
+    "question": "Where does rain come from?",
+    "options": [
+      "The ground",
+      "Clouds",
+      "Trees",
+      "Mountains"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rain forms inside clouds and falls down to the ground when the clouds get heavy!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-012",
     "subject": "science",
-    "question": "What do we breathe in?",
-    "options": ["Water", "Air", "Food", "Light"],
+    "question": "Why is it dark at night?",
+    "options": [
+      "The clouds block the light",
+      "Our side of Earth faces away from the Sun",
+      "The Sun disappears",
+      "The Moon turns off the light"
+    ],
     "correctIndex": 1,
-    "explanation": "We breathe in air! Air has oxygen, which our body needs to stay alive.",
-    "difficulty": 1,
+    "explanation": "At night, our side of Earth is turned away from the Sun, so it gets dark!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "sci-013",
     "subject": "science",
-    "question": "Which body part do we use to hear?",
-    "options": ["Eyes", "Ears", "Nose", "Hands"],
+    "question": "What is the closest star to Earth?",
+    "options": [
+      "The Moon",
+      "The Sun",
+      "Polaris",
+      "Mars"
+    ],
     "correctIndex": 1,
-    "explanation": "We use our ears to hear! Our ears catch sounds from all around us.",
-    "difficulty": 1,
+    "explanation": "The Sun is actually a star, and it is the closest one to Earth!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "sci-014",
     "subject": "science",
-    "question": "What is a baby cow called?",
-    "options": ["Lamb", "Calf", "Foal", "Kid"],
+    "question": "What covers most of Earth's surface?",
+    "options": [
+      "Sand",
+      "Water",
+      "Grass",
+      "Ice"
+    ],
     "correctIndex": 1,
-    "explanation": "A baby cow is called a calf! Calves drink milk from their mothers.",
-    "difficulty": 2,
+    "explanation": "About 70% of Earth is covered by water, mostly oceans!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-015",
     "subject": "science",
-    "question": "What does ice turn into when it melts?",
-    "options": ["Air", "Steam", "Water", "Dust"],
-    "correctIndex": 2,
-    "explanation": "Ice turns into water when it melts! Heat makes the ice change from solid to liquid.",
+    "question": "How many legs does an insect have?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Ten"
+    ],
+    "correctIndex": 1,
+    "explanation": "All insects have exactly six legs. That is one way to tell if something is an insect!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-016",
     "subject": "science",
-    "question": "How many legs does an insect have?",
-    "options": ["4", "6", "8", "10"],
-    "correctIndex": 1,
-    "explanation": "Insects have 6 legs! Ants, bees, and butterflies are all insects with 6 legs.",
-    "difficulty": 2,
+    "question": "What sea animal has eight arms?",
+    "options": [
+      "Shark",
+      "Whale",
+      "Octopus",
+      "Dolphin"
+    ],
+    "correctIndex": 2,
+    "explanation": "An octopus has eight arms and is very smart! 'Octo' means eight.",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-017",
     "subject": "science",
-    "question": "Which season comes after winter?",
-    "options": ["Summer", "Autumn", "Spring", "Winter"],
-    "correctIndex": 2,
-    "explanation": "Spring comes after winter! In spring, flowers bloom and baby animals are born!",
-    "difficulty": 1,
+    "question": "Are dinosaurs still alive today?",
+    "options": [
+      "Yes, they live in the jungle",
+      "No, they went extinct long ago",
+      "Yes, they live under the sea",
+      "Yes, they live on another planet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dinosaurs went extinct millions of years ago, but we can learn about them from fossils!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "sci-018",
     "subject": "science",
-    "question": "What do cows give us?",
-    "options": ["Eggs", "Milk", "Honey", "Wool"],
+    "question": "Is glass transparent or opaque?",
+    "options": [
+      "Opaque",
+      "Transparent",
+      "Soft",
+      "Magnetic"
+    ],
     "correctIndex": 1,
-    "explanation": "Cows give us milk! You might drink milk or eat cheese made from milk.",
+    "explanation": "Glass is transparent, which means you can see through it!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-019",
     "subject": "science",
-    "question": "Which body part pumps blood through your body?",
-    "options": ["Brain", "Lungs", "Heart", "Stomach"],
+    "question": "What does a magnet attract?",
+    "options": [
+      "Wood",
+      "Paper",
+      "Iron",
+      "Plastic"
+    ],
     "correctIndex": 2,
-    "explanation": "Your heart pumps blood! It beats all day and all night to keep you alive. You can feel it in your chest!",
-    "difficulty": 2,
+    "explanation": "Magnets attract metals like iron and steel. They do not attract wood or plastic!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-020",
     "subject": "science",
-    "question": "What does a caterpillar turn into?",
-    "options": ["A worm", "A butterfly", "A bee", "A spider"],
+    "question": "Does a rock float or sink in water?",
+    "options": [
+      "Float",
+      "Sink",
+      "Fly away",
+      "Melt"
+    ],
     "correctIndex": 1,
-    "explanation": "A caterpillar turns into a butterfly! It wraps itself in a cocoon and comes out with beautiful wings!",
-    "difficulty": 2,
+    "explanation": "Rocks are heavy and dense, so they sink to the bottom of the water!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-021",
     "subject": "science",
-    "question": "The Earth goes around the ___.",
-    "options": ["Moon", "Sun", "Stars", "Mars"],
+    "question": "What happens to water when it freezes?",
+    "options": [
+      "It turns into gas",
+      "It turns into ice",
+      "It disappears",
+      "It turns into milk"
+    ],
     "correctIndex": 1,
-    "explanation": "The Earth goes around the Sun! It takes one whole year to go all the way around.",
-    "difficulty": 2,
+    "explanation": "When water gets very cold, it freezes and turns into solid ice!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-022",
     "subject": "science",
-    "question": "Which animal gives us eggs?",
-    "options": ["Dog", "Cat", "Hen", "Cow"],
-    "correctIndex": 2,
-    "explanation": "Hens give us eggs! A hen is a female chicken that lays eggs.",
+    "question": "What is a baby cat called?",
+    "options": [
+      "Puppy",
+      "Kitten",
+      "Calf",
+      "Chick"
+    ],
+    "correctIndex": 1,
+    "explanation": "A baby cat is called a kitten. Kittens love to play with yarn!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-023",
     "subject": "science",
-    "question": "What do we use our tongue for?",
-    "options": ["Seeing", "Hearing", "Tasting", "Smelling"],
-    "correctIndex": 2,
-    "explanation": "We use our tongue for tasting! Your tongue can taste sweet, sour, salty, and bitter things!",
+    "question": "Where does a rabbit live?",
+    "options": [
+      "In a tree",
+      "In a burrow",
+      "In the ocean",
+      "On a cloud"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rabbits dig burrows underground to keep safe and cozy!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-024",
     "subject": "science",
-    "question": "What is a baby sheep called?",
-    "options": ["Calf", "Puppy", "Lamb", "Kid"],
+    "question": "Which animal has a very long neck?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Giraffe",
+      "Fish"
+    ],
     "correctIndex": 2,
-    "explanation": "A baby sheep is called a lamb! Lambs have soft, fluffy wool.",
-    "difficulty": 2,
+    "explanation": "Giraffes have the longest necks of any animal, which helps them eat leaves from tall trees!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-025",
     "subject": "science",
-    "question": "What keeps us warm when it is cold outside?",
-    "options": ["Ice cream", "Warm clothes", "Cold water", "Wind"],
+    "question": "What do we use our ears for?",
+    "options": [
+      "Seeing",
+      "Hearing",
+      "Tasting",
+      "Smelling"
+    ],
     "correctIndex": 1,
-    "explanation": "Warm clothes keep us warm! Things like jackets, scarves, and gloves trap our body heat.",
+    "explanation": "We use our ears to hear sounds like music, voices, and birds singing!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-026",
     "subject": "science",
-    "question": "Which animal can fly?",
-    "options": ["Dog", "Fish", "Bird", "Cat"],
-    "correctIndex": 2,
-    "explanation": "Birds can fly! They have wings that help them soar through the sky.",
+    "question": "What body part pumps blood through your body?",
+    "options": [
+      "Brain",
+      "Heart",
+      "Stomach",
+      "Lungs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Your heart pumps blood all through your body to keep you alive and healthy!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-027",
     "subject": "science",
-    "question": "What do we see in the sky at night?",
-    "options": ["Sun", "Rainbow", "Moon and stars", "Clouds only"],
+    "question": "What do we see in the sky on a sunny day?",
+    "options": [
+      "Stars",
+      "The Moon",
+      "The Sun",
+      "Snow"
+    ],
     "correctIndex": 2,
-    "explanation": "We see the moon and stars at night! They twinkle and shine in the dark sky.",
+    "explanation": "On a sunny day we can see the bright Sun in the sky giving us light and warmth!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-028",
     "subject": "science",
-    "question": "Which part of the plant makes food?",
-    "options": ["Root", "Stem", "Leaf", "Flower"],
-    "correctIndex": 2,
-    "explanation": "Leaves make food for the plant! They use sunlight, water, and air to make food. How amazing!",
-    "difficulty": 3,
+    "question": "In which season does it snow?",
+    "options": [
+      "Summer",
+      "Spring",
+      "Autumn",
+      "Winter"
+    ],
+    "correctIndex": 3,
+    "explanation": "Snow falls in winter when it gets very cold outside!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-029",
     "subject": "science",
-    "question": "What is a baby frog called?",
-    "options": ["Puppy", "Kitten", "Tadpole", "Cub"],
+    "question": "Which part of a plant makes food using sunlight?",
+    "options": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
     "correctIndex": 2,
-    "explanation": "A baby frog is called a tadpole! Tadpoles live in water and slowly grow legs to become frogs!",
-    "difficulty": 2,
+    "explanation": "Leaves use sunlight to make food for the plant. This is called photosynthesis!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-030",
     "subject": "science",
-    "question": "How many senses do humans have?",
-    "options": ["3", "4", "5", "6"],
-    "correctIndex": 2,
-    "explanation": "We have 5 senses: sight, hearing, smell, taste, and touch! They help us understand the world.",
-    "difficulty": 2,
+    "question": "Which fruit is rich in vitamin C?",
+    "options": [
+      "Bread",
+      "Orange",
+      "Rice",
+      "Cheese"
+    ],
+    "correctIndex": 1,
+    "explanation": "Oranges are full of vitamin C, which helps keep us from getting sick!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-031",
     "subject": "science",
-    "question": "What is the color of most leaves?",
-    "options": ["Red", "Blue", "Green", "Yellow"],
-    "correctIndex": 2,
-    "explanation": "Most leaves are green! They get their green color from something called chlorophyll.",
-    "difficulty": 1,
+    "question": "What is the shape of the Earth?",
+    "options": [
+      "Flat like a pancake",
+      "Round like a ball",
+      "Square like a box",
+      "Shaped like a star"
+    ],
+    "correctIndex": 1,
+    "explanation": "Earth is round like a ball. We call this shape a sphere!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "sci-032",
     "subject": "science",
-    "question": "Which animal has a trunk?",
-    "options": ["Lion", "Elephant", "Giraffe", "Monkey"],
-    "correctIndex": 1,
-    "explanation": "Elephants have trunks! They use their trunks to drink water, grab food, and even say hello!",
+    "question": "Which insect makes honey?",
+    "options": [
+      "Butterfly",
+      "Ant",
+      "Bee",
+      "Ladybug"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bees make honey from the nectar they collect from flowers!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-033",
     "subject": "science",
-    "question": "What season is the hottest?",
-    "options": ["Spring", "Summer", "Autumn", "Winter"],
-    "correctIndex": 1,
-    "explanation": "Summer is the hottest season! It is when we go swimming and eat ice cream!",
+    "question": "What is the biggest animal in the ocean?",
+    "options": [
+      "Shark",
+      "Dolphin",
+      "Blue whale",
+      "Turtle"
+    ],
+    "correctIndex": 2,
+    "explanation": "The blue whale is the biggest animal in the ocean and the biggest animal ever!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-034",
     "subject": "science",
-    "question": "What do bees make?",
-    "options": ["Milk", "Honey", "Eggs", "Silk"],
+    "question": "What did dinosaurs eat?",
+    "options": [
+      "Pizza",
+      "Some ate plants and some ate meat",
+      "Candy",
+      "Ice cream"
+    ],
     "correctIndex": 1,
-    "explanation": "Bees make honey! They collect nectar from flowers and turn it into sweet, yummy honey.",
-    "difficulty": 1,
+    "explanation": "Some dinosaurs were herbivores (plant eaters) and some were carnivores (meat eaters)!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "sci-035",
     "subject": "science",
-    "question": "Which body part helps us think?",
-    "options": ["Heart", "Brain", "Stomach", "Lungs"],
+    "question": "Can you see through a brick wall?",
+    "options": [
+      "Yes",
+      "No",
+      "Only at night",
+      "Only in summer"
+    ],
     "correctIndex": 1,
-    "explanation": "Our brain helps us think! It is inside our head and controls everything we do.",
-    "difficulty": 2,
+    "explanation": "Brick walls are opaque, which means you cannot see through them!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-036",
     "subject": "science",
-    "question": "What is a baby horse called?",
-    "options": ["Calf", "Foal", "Lamb", "Cub"],
-    "correctIndex": 1,
-    "explanation": "A baby horse is called a foal! Foals can stand up and walk very soon after they are born.",
-    "difficulty": 2,
+    "question": "Does a wooden block float in water?",
+    "options": [
+      "Yes, it floats",
+      "No, it sinks",
+      "It disappears",
+      "It melts"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wood is lighter than water, so wooden blocks float on top of the water!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-037",
     "subject": "science",
-    "question": "What do fish use to breathe?",
-    "options": ["Lungs", "Nose", "Gills", "Mouth"],
+    "question": "What is a baby chicken called?",
+    "options": [
+      "Puppy",
+      "Lamb",
+      "Chick",
+      "Cub"
+    ],
     "correctIndex": 2,
-    "explanation": "Fish breathe through gills! Gills take oxygen from the water. That is why fish can live underwater!",
-    "difficulty": 3,
+    "explanation": "A baby chicken is called a chick. Chicks are fluffy and yellow!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-038",
     "subject": "science",
-    "question": "What do we call frozen water?",
-    "options": ["Steam", "Ice", "Juice", "Fog"],
-    "correctIndex": 1,
-    "explanation": "Frozen water is called ice! When water gets very cold, it freezes and becomes hard ice.",
+    "question": "Where does a fish live?",
+    "options": [
+      "In a tree",
+      "In the desert",
+      "In water",
+      "On a mountain"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fish live in water. They breathe using special body parts called gills!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-039",
     "subject": "science",
-    "question": "Which season do we see snow?",
-    "options": ["Spring", "Summer", "Autumn", "Winter"],
-    "correctIndex": 3,
-    "explanation": "We see snow in winter! Snow falls when it is very cold outside.",
+    "question": "Which animal has a trunk?",
+    "options": [
+      "Lion",
+      "Elephant",
+      "Horse",
+      "Penguin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Elephants have long trunks that they use to drink, eat, and even spray water!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-040",
     "subject": "science",
-    "question": "What is the sense of touch used for?",
-    "options": ["Seeing colors", "Hearing sounds", "Feeling things", "Tasting food"],
+    "question": "What sense do we use with our nose?",
+    "options": [
+      "Sight",
+      "Touch",
+      "Smell",
+      "Hearing"
+    ],
     "correctIndex": 2,
-    "explanation": "Touch helps us feel things! We can feel if something is soft, rough, hot, or cold.",
+    "explanation": "We use our nose for the sense of smell. It helps us enjoy flowers and food!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-041",
     "subject": "science",
-    "question": "What animal is known as man's best friend?",
-    "options": ["Cat", "Dog", "Fish", "Bird"],
+    "question": "What comes after a caterpillar turns into a cocoon?",
+    "options": [
+      "A worm",
+      "A butterfly",
+      "A spider",
+      "A bee"
+    ],
     "correctIndex": 1,
-    "explanation": "Dogs are called man's best friend! They are loyal and loving pets.",
-    "difficulty": 1,
+    "explanation": "A caterpillar wraps itself in a cocoon and comes out as a beautiful butterfly!",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "sci-042",
     "subject": "science",
-    "question": "What do seeds grow into?",
-    "options": ["Rocks", "Plants", "Animals", "Water"],
+    "question": "In which season do flowers bloom?",
+    "options": [
+      "Winter",
+      "Spring",
+      "Autumn",
+      "None"
+    ],
     "correctIndex": 1,
-    "explanation": "Seeds grow into plants! A tiny seed can grow into a big, strong plant with enough water and sunshine.",
+    "explanation": "Flowers bloom in spring when the weather gets warmer and there is more sunlight!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-043",
     "subject": "science",
-    "question": "What gives us light during the day?",
-    "options": ["Moon", "Stars", "Sun", "Lamp"],
-    "correctIndex": 2,
-    "explanation": "The Sun gives us light during the day! It is a big, bright star that keeps our planet warm.",
+    "question": "What grows from a seed?",
+    "options": [
+      "A rock",
+      "A plant",
+      "A fish",
+      "A cloud"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seeds grow into plants when they get water, soil, and sunlight!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-044",
     "subject": "science",
-    "question": "Which animal has stripes?",
-    "options": ["Elephant", "Zebra", "Dog", "Cat"],
+    "question": "Which vegetable is orange and good for your eyes?",
+    "options": [
+      "Broccoli",
+      "Carrot",
+      "Potato",
+      "Onion"
+    ],
     "correctIndex": 1,
-    "explanation": "Zebras have black and white stripes! Every zebra has a unique pattern of stripes.",
+    "explanation": "Carrots are orange and have vitamin A which helps keep our eyes healthy!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-045",
     "subject": "science",
-    "question": "Where does a fish live?",
-    "options": ["In a tree", "In a cave", "In water", "In the sky"],
-    "correctIndex": 2,
-    "explanation": "Fish live in water! They can live in rivers, lakes, and oceans.",
+    "question": "What do clouds look like when it is about to rain?",
+    "options": [
+      "White and fluffy",
+      "Dark and gray",
+      "Pink and sparkly",
+      "Green and shiny"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rain clouds are dark and gray because they are full of tiny water droplets!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-046",
     "subject": "science",
-    "question": "What is a baby duck called?",
-    "options": ["Chick", "Duckling", "Puppy", "Cub"],
+    "question": "What do we see in the sky at night?",
+    "options": [
+      "The Sun",
+      "Stars and the Moon",
+      "Rainbows",
+      "Butterflies"
+    ],
     "correctIndex": 1,
-    "explanation": "A baby duck is called a duckling! Ducklings follow their mother in a line. So cute!",
+    "explanation": "At night we can see the Moon and twinkling stars in the sky!",
     "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-047",
     "subject": "science",
-    "question": "What is the hard part inside your body that helps you stand?",
-    "options": ["Muscles", "Skin", "Bones", "Blood"],
-    "correctIndex": 2,
-    "explanation": "Bones help you stand and move! Your body has over 200 bones that make up your skeleton!",
-    "difficulty": 2,
+    "question": "How many legs does a spider have?",
+    "options": [
+      "Six",
+      "Eight",
+      "Ten",
+      "Four"
+    ],
+    "correctIndex": 1,
+    "explanation": "Spiders have eight legs. That is why they are not insects, which have six legs!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-048",
     "subject": "science",
-    "question": "What appears in the sky after rain and sunshine?",
-    "options": ["Lightning", "Rainbow", "Star", "Moon"],
+    "question": "What do dolphins breathe?",
+    "options": [
+      "Water",
+      "Air",
+      "Sand",
+      "Bubbles"
+    ],
     "correctIndex": 1,
-    "explanation": "A rainbow appears after rain when the sun shines! It has 7 beautiful colors!",
-    "difficulty": 1,
+    "explanation": "Dolphins breathe air just like us! They come up to the surface to breathe through a blowhole.",
+    "difficulty": 3,
     "source": "bank"
   },
   {
     "id": "sci-049",
     "subject": "science",
-    "question": "Which animal gives us wool?",
-    "options": ["Cow", "Hen", "Sheep", "Dog"],
-    "correctIndex": 2,
-    "explanation": "Sheep give us wool! Their fluffy coat is sheared and made into warm clothes.",
-    "difficulty": 2,
+    "question": "Is a magnet attracted to a plastic toy?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if it is red",
+      "Only at night"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magnets do not attract plastic. They only attract certain metals like iron!",
+    "difficulty": 1,
     "source": "bank"
   },
   {
     "id": "sci-050",
     "subject": "science",
-    "question": "What do lungs help us do?",
-    "options": ["Eat", "Breathe", "See", "Think"],
+    "question": "What happens to ice when it gets warm?",
+    "options": [
+      "It gets bigger",
+      "It melts into water",
+      "It turns into sand",
+      "It floats away"
+    ],
     "correctIndex": 1,
-    "explanation": "Lungs help us breathe! We have two lungs that fill with air every time we breathe in.",
+    "explanation": "When ice warms up, it melts and turns back into liquid water!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-051",
+    "subject": "science",
+    "question": "What is a baby cow called?",
+    "options": [
+      "Lamb",
+      "Calf",
+      "Foal",
+      "Kit"
+    ],
+    "correctIndex": 1,
+    "explanation": "A baby cow is called a calf. Calves drink milk from their mothers!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-052",
+    "subject": "science",
+    "question": "Where does a bear sleep in winter?",
+    "options": [
+      "In a tree",
+      "In a den or cave",
+      "In the ocean",
+      "In a barn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bears hibernate in dens or caves during winter to stay warm and save energy!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-053",
+    "subject": "science",
+    "question": "Which animal can change its color?",
+    "options": [
+      "Dog",
+      "Chameleon",
+      "Cat",
+      "Cow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chameleons can change their skin color to match their surroundings!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-054",
+    "subject": "science",
+    "question": "What sense do we use with our tongue?",
+    "options": [
+      "Smell",
+      "Taste",
+      "Hearing",
+      "Sight"
+    ],
+    "correctIndex": 1,
+    "explanation": "We use our tongue for the sense of taste. It tells us if food is sweet, sour, salty, or bitter!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-055",
+    "subject": "science",
+    "question": "How many bones does an adult human have?",
+    "options": [
+      "About 50",
+      "About 100",
+      "About 206",
+      "About 500"
+    ],
+    "correctIndex": 2,
+    "explanation": "An adult human body has about 206 bones that help us stand, move, and protect our organs!",
     "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-056",
+    "subject": "science",
+    "question": "What is wind?",
+    "options": [
+      "Moving water",
+      "Moving air",
+      "Moving sand",
+      "Moving light"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wind is air that moves from one place to another. You can feel it on your face!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-057",
+    "subject": "science",
+    "question": "Which season is the hottest?",
+    "options": [
+      "Winter",
+      "Spring",
+      "Summer",
+      "Autumn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Summer is the hottest season because our part of Earth is tilted closest to the Sun!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-058",
+    "subject": "science",
+    "question": "What color are most plant leaves?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Purple"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most leaves are green because they contain a special thing called chlorophyll!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-059",
+    "subject": "science",
+    "question": "Which food group do apples belong to?",
+    "options": [
+      "Vegetables",
+      "Fruits",
+      "Grains",
+      "Dairy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Apples are fruits! Fruits grow on trees or bushes and often taste sweet.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-060",
+    "subject": "science",
+    "question": "What do plants drink?",
+    "options": [
+      "Juice",
+      "Milk",
+      "Water",
+      "Soda"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plants drink water through their roots from the soil!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-061",
+    "subject": "science",
+    "question": "Does the Sun move around the Earth or does the Earth move around the Sun?",
+    "options": [
+      "The Sun moves around Earth",
+      "The Earth moves around the Sun",
+      "Neither moves",
+      "They both stay still"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Earth orbits (moves) around the Sun. It takes one whole year to go all the way around!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-062",
+    "subject": "science",
+    "question": "Which insect has beautiful colorful wings?",
+    "options": [
+      "Ant",
+      "Butterfly",
+      "Beetle",
+      "Mosquito"
+    ],
+    "correctIndex": 1,
+    "explanation": "Butterflies have beautiful colorful wings with amazing patterns!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-063",
+    "subject": "science",
+    "question": "What is a group of fish called?",
+    "options": [
+      "A herd",
+      "A flock",
+      "A school",
+      "A pack"
+    ],
+    "correctIndex": 2,
+    "explanation": "A group of fish swimming together is called a school of fish!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-064",
+    "subject": "science",
+    "question": "What were the biggest dinosaurs called?",
+    "options": [
+      "Sauropods",
+      "Insects",
+      "Fish",
+      "Birds"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sauropods were the biggest dinosaurs. They had long necks and ate plants!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-065",
+    "subject": "science",
+    "question": "What material is a window made of?",
+    "options": [
+      "Wood",
+      "Glass",
+      "Metal",
+      "Cloth"
+    ],
+    "correctIndex": 1,
+    "explanation": "Windows are made of glass so that light can come through and we can see outside!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-066",
+    "subject": "science",
+    "question": "Does a feather float or sink in water?",
+    "options": [
+      "Sink",
+      "Float",
+      "Disappear",
+      "Freeze"
+    ],
+    "correctIndex": 1,
+    "explanation": "Feathers are very light, so they float on top of the water!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-067",
+    "subject": "science",
+    "question": "Is the Sun hot or cold?",
+    "options": [
+      "Very cold",
+      "Very hot",
+      "Warm like a bath",
+      "Cool like a breeze"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sun is extremely hot! It gives Earth heat and light from very far away.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-068",
+    "subject": "science",
+    "question": "What is a baby horse called?",
+    "options": [
+      "Puppy",
+      "Kitten",
+      "Foal",
+      "Cub"
+    ],
+    "correctIndex": 2,
+    "explanation": "A baby horse is called a foal. Foals can stand up very soon after being born!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-069",
+    "subject": "science",
+    "question": "Where does a bee live?",
+    "options": [
+      "In a pond",
+      "In a hive",
+      "In a burrow",
+      "In a shell"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bees live together in hives where they make honey and take care of baby bees!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-070",
+    "subject": "science",
+    "question": "Which animal is the fastest on land?",
+    "options": [
+      "Elephant",
+      "Cheetah",
+      "Turtle",
+      "Rabbit"
+    ],
+    "correctIndex": 1,
+    "explanation": "The cheetah is the fastest land animal and can run as fast as a car on a highway!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-071",
+    "subject": "science",
+    "question": "What sense do we use with our skin?",
+    "options": [
+      "Taste",
+      "Smell",
+      "Touch",
+      "Sight"
+    ],
+    "correctIndex": 2,
+    "explanation": "We use our skin for the sense of touch. It tells us if something is hot, cold, soft, or rough!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-072",
+    "subject": "science",
+    "question": "What protects our brain inside our head?",
+    "options": [
+      "Hair",
+      "Skull",
+      "Skin",
+      "Ears"
+    ],
+    "correctIndex": 1,
+    "explanation": "The skull is a hard bone that protects our brain like a helmet!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-073",
+    "subject": "science",
+    "question": "What is a rainbow made of?",
+    "options": [
+      "Paint",
+      "Colored lights from the Sun",
+      "Crayons",
+      "Clouds"
+    ],
+    "correctIndex": 1,
+    "explanation": "A rainbow happens when sunlight shines through raindrops and splits into many colors!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-074",
+    "subject": "science",
+    "question": "Which season comes after winter?",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Spring",
+      "Winter again"
+    ],
+    "correctIndex": 2,
+    "explanation": "Spring comes after winter! The weather gets warmer and flowers start to bloom.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-075",
+    "subject": "science",
+    "question": "What do seeds need to start growing?",
+    "options": [
+      "Darkness and ice",
+      "Water and warmth",
+      "Wind and snow",
+      "Rocks and sand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seeds need water and warmth to sprout and start growing into a plant!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-076",
+    "subject": "science",
+    "question": "Why should we eat vegetables?",
+    "options": [
+      "Because they are crunchy",
+      "Because they have vitamins that keep us healthy",
+      "Because they are green",
+      "Because they are fun"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vegetables are full of vitamins and minerals that help our bodies stay strong and healthy!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-077",
+    "subject": "science",
+    "question": "What happens to puddles on a sunny day?",
+    "options": [
+      "They freeze",
+      "They dry up and disappear",
+      "They get bigger",
+      "They turn into mud"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sun heats up the water in puddles and it evaporates, turning into water vapor in the air!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-078",
+    "subject": "science",
+    "question": "What gives us light during the day?",
+    "options": [
+      "The Moon",
+      "A lamp",
+      "The Sun",
+      "Stars"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Sun gives us light during the day. It is our brightest source of light!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-079",
+    "subject": "science",
+    "question": "Do all insects have wings?",
+    "options": [
+      "Yes, all of them",
+      "No, some insects do not have wings",
+      "Only big insects",
+      "Only red insects"
+    ],
+    "correctIndex": 1,
+    "explanation": "Not all insects have wings! Ants and some beetles are insects but they cannot fly.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-080",
+    "subject": "science",
+    "question": "How do fish breathe underwater?",
+    "options": [
+      "They hold their breath",
+      "They use gills",
+      "They use lungs",
+      "They use their fins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fish have special body parts called gills that take oxygen from the water!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-081",
+    "subject": "science",
+    "question": "What is a fossil?",
+    "options": [
+      "A type of rock",
+      "The preserved remains of an ancient living thing",
+      "A kind of shell",
+      "A special crystal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fossils are remains of plants or animals from long ago that have been preserved in rock!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-082",
+    "subject": "science",
+    "question": "Which material is stretchy?",
+    "options": [
+      "Glass",
+      "Wood",
+      "Rubber",
+      "Rock"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rubber is stretchy! That is why rubber bands can stretch and bounce back.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-083",
+    "subject": "science",
+    "question": "Will a magnet stick to a refrigerator?",
+    "options": [
+      "No, never",
+      "Yes, because refrigerators are made of metal",
+      "Only small magnets",
+      "Only in winter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Refrigerator doors are made of metal, so magnets stick to them!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-084",
+    "subject": "science",
+    "question": "Does a coin float or sink in water?",
+    "options": [
+      "Float",
+      "Sink",
+      "Dissolve",
+      "Bounce"
+    ],
+    "correctIndex": 1,
+    "explanation": "Coins are made of metal and are heavy for their size, so they sink in water!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-085",
+    "subject": "science",
+    "question": "What is a baby sheep called?",
+    "options": [
+      "Kid",
+      "Calf",
+      "Lamb",
+      "Pup"
+    ],
+    "correctIndex": 2,
+    "explanation": "A baby sheep is called a lamb. Lambs have soft, fluffy wool!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-086",
+    "subject": "science",
+    "question": "Where does an ant live?",
+    "options": [
+      "In a hive",
+      "In a colony underground",
+      "In a nest on a tree",
+      "In the ocean"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ants live in colonies underground with tunnels and rooms. They work together as a team!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-087",
+    "subject": "science",
+    "question": "Which animal has the best sense of smell?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Bird",
+      "Fish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dogs have an amazing sense of smell that is much better than ours! That is why they are used to find things.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-088",
+    "subject": "science",
+    "question": "What helps us chew our food?",
+    "options": [
+      "Tongue",
+      "Lips",
+      "Teeth",
+      "Nose"
+    ],
+    "correctIndex": 2,
+    "explanation": "We use our teeth to bite and chew food into small pieces so we can swallow it!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-089",
+    "subject": "science",
+    "question": "What is thunder?",
+    "options": [
+      "Rain falling hard",
+      "The sound made by lightning",
+      "Wind blowing fast",
+      "Clouds bumping into each other"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thunder is the loud boom sound that happens when lightning heats up the air very fast!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-090",
+    "subject": "science",
+    "question": "What do trees lose in autumn?",
+    "options": [
+      "Their bark",
+      "Their roots",
+      "Their leaves",
+      "Their branches"
+    ],
+    "correctIndex": 2,
+    "explanation": "Many trees lose their leaves in autumn. The leaves change to red, orange, and yellow first!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-091",
+    "subject": "science",
+    "question": "What is the hard outer covering of a tree called?",
+    "options": [
+      "Skin",
+      "Bark",
+      "Shell",
+      "Leaf"
+    ],
+    "correctIndex": 1,
+    "explanation": "The hard outer layer of a tree trunk is called bark. It protects the tree!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-092",
+    "subject": "science",
+    "question": "Why do we need to drink water?",
+    "options": [
+      "To make us taller",
+      "To keep our body working properly",
+      "To make our hair grow",
+      "To make us smarter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Our body needs water to stay healthy. Water helps every part of our body work properly!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-093",
+    "subject": "science",
+    "question": "What is water vapor?",
+    "options": [
+      "Frozen water",
+      "Water as a gas in the air",
+      "Dirty water",
+      "Colored water"
+    ],
+    "correctIndex": 1,
+    "explanation": "Water vapor is water that has turned into an invisible gas in the air. Steam is water vapor you can see!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-094",
+    "subject": "science",
+    "question": "What makes the Moon glow at night?",
+    "options": [
+      "It makes its own light",
+      "It reflects light from the Sun",
+      "It is made of fire",
+      "Stars light it up"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Moon does not make its own light. It shines because sunlight bounces off it!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-095",
+    "subject": "science",
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Pacific Ocean is the largest ocean. It covers more area than all the land on Earth combined!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-096",
+    "subject": "science",
+    "question": "How many wings does a butterfly have?",
+    "options": [
+      "Two",
+      "Four",
+      "Six",
+      "Eight"
+    ],
+    "correctIndex": 1,
+    "explanation": "Butterflies have four wings: two on each side! They are usually very colorful.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-097",
+    "subject": "science",
+    "question": "What do starfish live in?",
+    "options": [
+      "Trees",
+      "The ocean",
+      "Rivers only",
+      "The sky"
+    ],
+    "correctIndex": 1,
+    "explanation": "Starfish live in the ocean, usually near the shore. They have five arms!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-098",
+    "subject": "science",
+    "question": "What is the name of the dinosaur with three horns?",
+    "options": [
+      "T-Rex",
+      "Triceratops",
+      "Stegosaurus",
+      "Brachiosaurus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triceratops had three horns on its head. 'Tri' means three and 'cera' means horn!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-099",
+    "subject": "science",
+    "question": "Which is harder, a diamond or a piece of chalk?",
+    "options": [
+      "Chalk",
+      "They are the same",
+      "Diamond",
+      "Neither is hard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Diamond is the hardest natural material on Earth! Chalk is very soft and breaks easily.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-100",
+    "subject": "science",
+    "question": "Does a rubber duck float or sink?",
+    "options": [
+      "Sink",
+      "Float",
+      "It depends on the color",
+      "It dissolves"
+    ],
+    "correctIndex": 1,
+    "explanation": "A rubber duck floats because it is light and filled with air inside!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-101",
+    "subject": "science",
+    "question": "What is boiling water turning into?",
+    "options": [
+      "Ice",
+      "Steam",
+      "Juice",
+      "Oil"
+    ],
+    "correctIndex": 1,
+    "explanation": "When water boils, it turns into steam, which is water as a gas!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-102",
+    "subject": "science",
+    "question": "What is a baby frog called?",
+    "options": [
+      "Tadpole",
+      "Puppy",
+      "Chick",
+      "Cub"
+    ],
+    "correctIndex": 0,
+    "explanation": "A baby frog is called a tadpole. Tadpoles live in water and have tails before they grow legs!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-103",
+    "subject": "science",
+    "question": "Where does a snail carry its home?",
+    "options": [
+      "In a backpack",
+      "On its back as a shell",
+      "In the ground",
+      "In a tree"
+    ],
+    "correctIndex": 1,
+    "explanation": "A snail carries its shell on its back everywhere it goes. The shell is its home!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-104",
+    "subject": "science",
+    "question": "Which bird cannot fly?",
+    "options": [
+      "Robin",
+      "Eagle",
+      "Penguin",
+      "Sparrow"
+    ],
+    "correctIndex": 2,
+    "explanation": "Penguins cannot fly, but they are excellent swimmers! They use their wings like flippers.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-105",
+    "subject": "science",
+    "question": "What organ do we use to think?",
+    "options": [
+      "Heart",
+      "Stomach",
+      "Brain",
+      "Lungs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Our brain helps us think, remember, learn, and control our whole body!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-106",
+    "subject": "science",
+    "question": "What is lightning?",
+    "options": [
+      "A very bright flashlight",
+      "A giant spark of electricity in the sky",
+      "A shooting star",
+      "A bright rainbow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lightning is a huge spark of electricity that happens during thunderstorms!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-107",
+    "subject": "science",
+    "question": "Do all trees lose their leaves in winter?",
+    "options": [
+      "Yes, all trees do",
+      "No, some trees stay green all year",
+      "Only tall trees",
+      "Only small trees"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evergreen trees like pine trees keep their leaves (needles) all year round!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-108",
+    "subject": "science",
+    "question": "What is the colorful part of a flower called?",
+    "options": [
+      "Leaf",
+      "Root",
+      "Petal",
+      "Stem"
+    ],
+    "correctIndex": 2,
+    "explanation": "The colorful parts of a flower are called petals. They attract bees and butterflies!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-109",
+    "subject": "science",
+    "question": "Which nutrient in eggs helps build muscles?",
+    "options": [
+      "Sugar",
+      "Protein",
+      "Salt",
+      "Butter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eggs are packed with protein, which helps our muscles grow strong!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-110",
+    "subject": "science",
+    "question": "What are clouds made of?",
+    "options": [
+      "Cotton",
+      "Tiny water droplets",
+      "Smoke",
+      "Dust"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clouds are made of tiny water droplets or ice crystals floating in the sky!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-111",
+    "subject": "science",
+    "question": "How long does it take the Earth to spin around once?",
+    "options": [
+      "One hour",
+      "One day",
+      "One week",
+      "One month"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Earth spins around once every 24 hours, which gives us day and night!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-112",
+    "subject": "science",
+    "question": "What planet do we live on?",
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Earth",
+      "Venus"
+    ],
+    "correctIndex": 2,
+    "explanation": "We live on planet Earth! It is the only planet we know of that has life.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-113",
+    "subject": "science",
+    "question": "What do caterpillars eat?",
+    "options": [
+      "Meat",
+      "Leaves",
+      "Fish",
+      "Bread"
+    ],
+    "correctIndex": 1,
+    "explanation": "Caterpillars eat lots and lots of leaves to get energy before they turn into butterflies!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-114",
+    "subject": "science",
+    "question": "What is coral made of?",
+    "options": [
+      "Rocks",
+      "Tiny living animals",
+      "Plants",
+      "Sand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Coral is actually made up of tiny living animals called coral polyps that build hard shells!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-115",
+    "subject": "science",
+    "question": "Which dinosaur had very short arms and big teeth?",
+    "options": [
+      "Triceratops",
+      "Stegosaurus",
+      "T-Rex",
+      "Brachiosaurus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tyrannosaurus Rex (T-Rex) had tiny arms but huge sharp teeth for eating meat!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-116",
+    "subject": "science",
+    "question": "Is paper made from trees?",
+    "options": [
+      "No, from rocks",
+      "Yes, from wood pulp",
+      "No, from plastic",
+      "No, from sand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paper is made from wood pulp, which comes from trees. That is why we should recycle paper!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-117",
+    "subject": "science",
+    "question": "Do magnets have two poles?",
+    "options": [
+      "No, they have one",
+      "Yes, north and south",
+      "Yes, east and west",
+      "No, they have three"
+    ],
+    "correctIndex": 1,
+    "explanation": "Every magnet has a north pole and a south pole. Opposite poles attract each other!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-118",
+    "subject": "science",
+    "question": "Does a leaf float or sink in water?",
+    "options": [
+      "Sink",
+      "Float",
+      "Dissolve",
+      "Freeze"
+    ],
+    "correctIndex": 1,
+    "explanation": "Most leaves float on water because they are very light and flat!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-119",
+    "subject": "science",
+    "question": "Which is colder, the North Pole or a desert?",
+    "options": [
+      "A desert",
+      "They are the same",
+      "The North Pole",
+      "Neither is cold"
+    ],
+    "correctIndex": 2,
+    "explanation": "The North Pole is much colder than a desert. It is covered in ice and snow all year!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-120",
+    "subject": "science",
+    "question": "What is a baby duck called?",
+    "options": [
+      "Chick",
+      "Duckling",
+      "Puppy",
+      "Kit"
+    ],
+    "correctIndex": 1,
+    "explanation": "A baby duck is called a duckling. Ducklings follow their mother in a line!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-121",
+    "subject": "science",
+    "question": "Where does a turtle carry its protection?",
+    "options": [
+      "In a bag",
+      "On its back as a shell",
+      "Under a rock",
+      "In the sand"
+    ],
+    "correctIndex": 1,
+    "explanation": "Turtles have a hard shell on their back. They can pull their head and legs inside for safety!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-122",
+    "subject": "science",
+    "question": "Which animal makes a sound called 'mooing'?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Cow",
+      "Chicken"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cows make a 'moo' sound! That is how they communicate with each other.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-123",
+    "subject": "science",
+    "question": "How many senses do humans have?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 2,
+    "explanation": "We have five senses: sight, hearing, smell, taste, and touch!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-124",
+    "subject": "science",
+    "question": "What do muscles help us do?",
+    "options": [
+      "Think",
+      "Move",
+      "See",
+      "Hear"
+    ],
+    "correctIndex": 1,
+    "explanation": "Muscles help us move! They pull on our bones so we can walk, run, jump, and play.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-125",
+    "subject": "science",
+    "question": "What instrument measures temperature?",
+    "options": [
+      "Clock",
+      "Ruler",
+      "Thermometer",
+      "Scale"
+    ],
+    "correctIndex": 2,
+    "explanation": "A thermometer measures how hot or cold something is. We use them to check the weather and if we have a fever!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-126",
+    "subject": "science",
+    "question": "Which season has the longest days?",
+    "options": [
+      "Winter",
+      "Autumn",
+      "Spring",
+      "Summer"
+    ],
+    "correctIndex": 3,
+    "explanation": "Summer has the longest days because our part of Earth gets the most sunlight!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-127",
+    "subject": "science",
+    "question": "What part of a flower holds the seeds?",
+    "options": [
+      "Petal",
+      "Stem",
+      "Fruit",
+      "Leaf"
+    ],
+    "correctIndex": 2,
+    "explanation": "The fruit of a plant holds the seeds inside. Apples, tomatoes, and peppers are all fruits with seeds!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-128",
+    "subject": "science",
+    "question": "Which food gives us quick energy?",
+    "options": [
+      "Banana",
+      "Steak",
+      "Cheese",
+      "Butter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bananas are full of natural sugars and carbohydrates that give us quick energy!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-129",
+    "subject": "science",
+    "question": "What happens to water when it is heated?",
+    "options": [
+      "It freezes",
+      "It turns into steam",
+      "It turns into juice",
+      "It turns into milk"
+    ],
+    "correctIndex": 1,
+    "explanation": "When water gets very hot, it evaporates and turns into steam, which is water as a gas!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-130",
+    "subject": "science",
+    "question": "Does the Moon change shape?",
+    "options": [
+      "No, it always looks the same",
+      "Yes, it appears to change shape over a month",
+      "It only changes in winter",
+      "It changes every day"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Moon looks like it changes shape because we see different amounts of its sunlit side as it orbits Earth!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-131",
+    "subject": "science",
+    "question": "What is the hard layer under soil called?",
+    "options": [
+      "Sand",
+      "Rock",
+      "Clay",
+      "Mud"
+    ],
+    "correctIndex": 1,
+    "explanation": "Deep under the soil, there is a hard layer of rock called bedrock!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-132",
+    "subject": "science",
+    "question": "How many legs does a ladybug have?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Ten"
+    ],
+    "correctIndex": 1,
+    "explanation": "A ladybug is an insect, and all insects have six legs!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-133",
+    "subject": "science",
+    "question": "What do sea turtles eat?",
+    "options": [
+      "Pizza",
+      "Jellyfish and seaweed",
+      "Candy",
+      "Bread"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sea turtles eat jellyfish, seaweed, and other ocean plants and animals!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-134",
+    "subject": "science",
+    "question": "Which dinosaur had plates on its back?",
+    "options": [
+      "T-Rex",
+      "Stegosaurus",
+      "Triceratops",
+      "Velociraptor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stegosaurus had big bony plates along its back and spikes on its tail!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-135",
+    "subject": "science",
+    "question": "Is metal a good conductor of heat?",
+    "options": [
+      "No, metal stays cool",
+      "Yes, metal heats up quickly",
+      "Only gold",
+      "Only silver"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metal conducts heat well, which means it heats up fast. That is why pots and pans are made of metal!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-136",
+    "subject": "science",
+    "question": "What happens when you push the north poles of two magnets together?",
+    "options": [
+      "They stick together",
+      "They push apart",
+      "Nothing happens",
+      "They break"
+    ],
+    "correctIndex": 1,
+    "explanation": "When two of the same poles (both north or both south) come together, they repel and push apart!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-137",
+    "subject": "science",
+    "question": "Does an apple float or sink in water?",
+    "options": [
+      "Sink",
+      "Float",
+      "Dissolve",
+      "Evaporate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Apples float because they have air pockets inside them that make them lighter than water!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-138",
+    "subject": "science",
+    "question": "What is a baby kangaroo called?",
+    "options": [
+      "Pup",
+      "Cub",
+      "Joey",
+      "Kit"
+    ],
+    "correctIndex": 2,
+    "explanation": "A baby kangaroo is called a joey. Joeys ride in their mother's pouch!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-139",
+    "subject": "science",
+    "question": "Where does a spider live?",
+    "options": [
+      "In a web",
+      "In a hive",
+      "In a burrow",
+      "In a pond"
+    ],
+    "correctIndex": 0,
+    "explanation": "Many spiders build webs from silk to live in and catch food!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-140",
+    "subject": "science",
+    "question": "Which animal has a pouch for its baby?",
+    "options": [
+      "Dog",
+      "Kangaroo",
+      "Cat",
+      "Horse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kangaroos have a special pouch where their baby joey rides and stays safe!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-141",
+    "subject": "science",
+    "question": "What carries blood through our body?",
+    "options": [
+      "Bones",
+      "Muscles",
+      "Blood vessels",
+      "Skin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Blood vessels are like tiny tubes that carry blood all around our body!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-142",
+    "subject": "science",
+    "question": "Can you see a rainbow without rain and sunshine?",
+    "options": [
+      "Yes, anytime",
+      "No, you need both rain and sunshine",
+      "Only at night",
+      "Only in winter"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rainbows need both rain and sunshine at the same time to appear in the sky!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-143",
+    "subject": "science",
+    "question": "What happens to animals in winter to survive the cold?",
+    "options": [
+      "They go on vacation",
+      "Some hibernate or migrate",
+      "They all fly south",
+      "They all build houses"
+    ],
+    "correctIndex": 1,
+    "explanation": "Some animals hibernate (sleep through winter) and some migrate (travel to warmer places)!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-144",
+    "subject": "science",
+    "question": "How do plants spread their seeds?",
+    "options": [
+      "By talking",
+      "By wind, animals, and water",
+      "By digging",
+      "By growing legs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seeds travel by blowing in the wind, sticking to animals, or floating in water!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-145",
+    "subject": "science",
+    "question": "What vitamin do we get from the Sun?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3,
+    "explanation": "Our skin makes vitamin D when sunlight shines on it. Vitamin D helps keep our bones strong!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-146",
+    "subject": "science",
+    "question": "What are the three states of water?",
+    "options": [
+      "Hot, warm, cold",
+      "Solid, liquid, gas",
+      "Rain, snow, hail",
+      "River, lake, ocean"
+    ],
+    "correctIndex": 1,
+    "explanation": "Water can be a solid (ice), a liquid (water), or a gas (steam or water vapor)!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-147",
+    "subject": "science",
+    "question": "How far away is the Sun from Earth?",
+    "options": [
+      "100 miles",
+      "About 93 million miles",
+      "1000 miles",
+      "About 1 million miles"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sun is about 93 million miles away from Earth. That is really, really far!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-148",
+    "subject": "science",
+    "question": "What are the seven continents?",
+    "options": [
+      "Countries",
+      "Large land masses on Earth",
+      "Oceans",
+      "Mountains"
+    ],
+    "correctIndex": 1,
+    "explanation": "Continents are the seven large land masses on Earth: Asia, Africa, North America, South America, Antarctica, Europe, and Australia!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-149",
+    "subject": "science",
+    "question": "Which insect glows in the dark?",
+    "options": [
+      "Ant",
+      "Firefly",
+      "Mosquito",
+      "Grasshopper"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fireflies (also called lightning bugs) can make their bodies glow in the dark!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-150",
+    "subject": "science",
+    "question": "What is the deepest part of the ocean called?",
+    "options": [
+      "The Mariana Trench",
+      "The Grand Canyon",
+      "The Deep Blue",
+      "The Ocean Floor"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Mariana Trench is the deepest place in the ocean. It is deeper than Mount Everest is tall!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-151",
+    "subject": "science",
+    "question": "What is a dinosaur expert called?",
+    "options": [
+      "A biologist",
+      "A paleontologist",
+      "A zoologist",
+      "A scientist"
+    ],
+    "correctIndex": 1,
+    "explanation": "A paleontologist is a scientist who studies fossils and dinosaurs!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-152",
+    "subject": "science",
+    "question": "Which material is waterproof?",
+    "options": [
+      "Paper",
+      "Cloth",
+      "Plastic",
+      "Cardboard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plastic is waterproof, meaning water cannot pass through it. That is why raincoats are often made of plastic!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-153",
+    "subject": "science",
+    "question": "What kind of energy does the Sun give us?",
+    "options": [
+      "Only heat",
+      "Light and heat",
+      "Only light",
+      "Sound"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Sun gives us both light energy and heat energy. We need both to live!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-154",
+    "subject": "science",
+    "question": "What is a baby butterfly called before it has wings?",
+    "options": [
+      "A worm",
+      "A caterpillar",
+      "A grub",
+      "A larva"
+    ],
+    "correctIndex": 1,
+    "explanation": "Before becoming a butterfly, the baby is a caterpillar that crawls and eats leaves!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-155",
+    "subject": "science",
+    "question": "Where does a beaver build its home?",
+    "options": [
+      "In a tree",
+      "In a dam on a river",
+      "In the desert",
+      "Under a rock"
+    ],
+    "correctIndex": 1,
+    "explanation": "Beavers build dams and lodges in rivers using sticks, mud, and logs!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-156",
+    "subject": "science",
+    "question": "Which animal makes a sound called 'quacking'?",
+    "options": [
+      "Cow",
+      "Duck",
+      "Horse",
+      "Pig"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ducks make a 'quack quack' sound! They are very chatty birds.",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-157",
+    "subject": "science",
+    "question": "What holds our body up and gives it shape?",
+    "options": [
+      "Skin",
+      "Muscles",
+      "Skeleton",
+      "Blood"
+    ],
+    "correctIndex": 2,
+    "explanation": "Our skeleton is made of bones that hold our body up and give it shape!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-158",
+    "subject": "science",
+    "question": "What is hail?",
+    "options": [
+      "Warm rain",
+      "Balls of ice that fall from the sky",
+      "Very big raindrops",
+      "Frozen snow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hail is balls of ice that form in thunderstorm clouds and fall to the ground!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-159",
+    "subject": "science",
+    "question": "Why do some trees have needles instead of flat leaves?",
+    "options": [
+      "To look pretty",
+      "To survive cold winters better",
+      "To scare animals",
+      "No reason"
+    ],
+    "correctIndex": 1,
+    "explanation": "Needles help trees survive cold winters because they do not lose water as fast as flat leaves!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-160",
+    "subject": "science",
+    "question": "What do bees collect from flowers?",
+    "options": [
+      "Water",
+      "Nectar",
+      "Dirt",
+      "Leaves"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bees collect nectar from flowers and use it to make honey back at the hive!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-161",
+    "subject": "science",
+    "question": "Which food group does bread belong to?",
+    "options": [
+      "Fruits",
+      "Protein",
+      "Grains",
+      "Dairy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bread is made from wheat, which is a grain. Grains give us energy!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-162",
+    "subject": "science",
+    "question": "Where does water go after it evaporates?",
+    "options": [
+      "Into space",
+      "Into the air to form clouds",
+      "Underground",
+      "Into the ocean"
+    ],
+    "correctIndex": 1,
+    "explanation": "Evaporated water goes up into the air and forms clouds. This is part of the water cycle!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-163",
+    "subject": "science",
+    "question": "What are stars made of?",
+    "options": [
+      "Rocks",
+      "Hot glowing gas",
+      "Ice",
+      "Diamonds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stars are giant balls of hot glowing gas, mostly hydrogen and helium!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-164",
+    "subject": "science",
+    "question": "Which is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Jupiter is the largest planet in our solar system. Over 1,000 Earths could fit inside it!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-165",
+    "subject": "science",
+    "question": "How many legs does a centipede have?",
+    "options": [
+      "Exactly 100",
+      "Six",
+      "Many legs, but not always 100",
+      "Eight"
+    ],
+    "correctIndex": 2,
+    "explanation": "Despite their name meaning 100 legs, centipedes can have between 30 and over 300 legs!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-166",
+    "subject": "science",
+    "question": "What is the biggest fish in the ocean?",
+    "options": [
+      "Great white shark",
+      "Whale shark",
+      "Blue whale",
+      "Swordfish"
+    ],
+    "correctIndex": 1,
+    "explanation": "The whale shark is the biggest fish in the ocean. It is very gentle and eats tiny plankton!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-167",
+    "subject": "science",
+    "question": "Did dinosaurs live at the same time as humans?",
+    "options": [
+      "Yes, they were friends",
+      "No, dinosaurs disappeared millions of years before humans",
+      "Yes, humans rode dinosaurs",
+      "Only some dinosaurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dinosaurs went extinct about 65 million years ago, long before humans existed!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-168",
+    "subject": "science",
+    "question": "Is cloth a good material for keeping us warm?",
+    "options": [
+      "No, cloth is cold",
+      "Yes, cloth traps heat near our body",
+      "Only in summer",
+      "Only if it is wet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cloth (like wool and cotton) keeps us warm by trapping warm air close to our body!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-169",
+    "subject": "science",
+    "question": "Can a magnet work through paper?",
+    "options": [
+      "No, never",
+      "Yes, magnets can pull through thin materials",
+      "Only thick paper",
+      "Only wet paper"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magnets can attract metal objects through paper, cloth, and other thin materials!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-170",
+    "subject": "science",
+    "question": "Does a key float or sink in water?",
+    "options": [
+      "Float",
+      "Sink",
+      "It depends on the water",
+      "It dissolves"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keys are made of metal, which is heavy, so they sink in water!",
+    "difficulty": 1,
+    "source": "bank"
+  },
+  {
+    "id": "sci-171",
+    "subject": "science",
+    "question": "What temperature does water boil at?",
+    "options": [
+      "50 degrees",
+      "100 degrees Celsius",
+      "200 degrees",
+      "0 degrees"
+    ],
+    "correctIndex": 1,
+    "explanation": "Water boils at 100 degrees Celsius (212 degrees Fahrenheit). That is when it turns into steam!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-172",
+    "subject": "science",
+    "question": "What is a baby goat called?",
+    "options": [
+      "Calf",
+      "Lamb",
+      "Kid",
+      "Cub"
+    ],
+    "correctIndex": 2,
+    "explanation": "A baby goat is called a kid. Just like you! Kids (baby goats) love to jump and play.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-173",
+    "subject": "science",
+    "question": "Where do polar bears live?",
+    "options": [
+      "In the jungle",
+      "In the Arctic near the North Pole",
+      "In the desert",
+      "In the ocean only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Polar bears live in the Arctic near the North Pole where it is very cold and icy!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-174",
+    "subject": "science",
+    "question": "Which animal can regrow its tail?",
+    "options": [
+      "Dog",
+      "Lizard",
+      "Cat",
+      "Horse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Some lizards can drop their tail when scared and grow a new one. How cool is that!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-175",
+    "subject": "science",
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Skin",
+      "Liver"
+    ],
+    "correctIndex": 2,
+    "explanation": "Skin is the largest organ in our body! It covers and protects everything inside.",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-176",
+    "subject": "science",
+    "question": "What type of cloud is flat and covers the sky like a blanket?",
+    "options": [
+      "Cumulus",
+      "Stratus",
+      "Cirrus",
+      "Nimbus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stratus clouds are flat and spread across the sky like a gray blanket!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-177",
+    "subject": "science",
+    "question": "What is the process called when a caterpillar becomes a butterfly?",
+    "options": [
+      "Evaporation",
+      "Metamorphosis",
+      "Hibernation",
+      "Migration"
+    ],
+    "correctIndex": 1,
+    "explanation": "Metamorphosis is when an animal completely changes its body shape, like a caterpillar becoming a butterfly!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-178",
+    "subject": "science",
+    "question": "What does a plant's stem do?",
+    "options": [
+      "Makes seeds",
+      "Carries water from roots to leaves",
+      "Catches sunlight",
+      "Stores food underground"
+    ],
+    "correctIndex": 1,
+    "explanation": "The stem is like a straw that carries water and nutrients from the roots up to the leaves and flowers!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-179",
+    "subject": "science",
+    "question": "Why should we eat breakfast?",
+    "options": [
+      "Because it tastes good",
+      "To give our body energy to start the day",
+      "Because our parents say so",
+      "To make us sleepy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Breakfast gives our body and brain energy after sleeping all night. It helps us learn and play!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-180",
+    "subject": "science",
+    "question": "What is the water cycle?",
+    "options": [
+      "Water going in circles",
+      "The journey of water from Earth to sky and back",
+      "Water spinning in a drain",
+      "A bike that runs on water"
+    ],
+    "correctIndex": 1,
+    "explanation": "The water cycle is how water moves from the ground to the sky (evaporation) and back (rain)!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-181",
+    "subject": "science",
+    "question": "How long does it take Earth to go around the Sun once?",
+    "options": [
+      "One day",
+      "One week",
+      "One month",
+      "One year"
+    ],
+    "correctIndex": 3,
+    "explanation": "It takes Earth one full year (about 365 days) to orbit all the way around the Sun!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-182",
+    "subject": "science",
+    "question": "What planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mars is called the Red Planet because its soil contains iron rust, which makes it look red!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-183",
+    "subject": "science",
+    "question": "What do ants use to talk to each other?",
+    "options": [
+      "Words",
+      "Chemicals called pheromones",
+      "Sign language",
+      "Singing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ants communicate using special chemicals called pheromones that other ants can smell!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-184",
+    "subject": "science",
+    "question": "What sea creature has a shell and walks sideways?",
+    "options": [
+      "Fish",
+      "Crab",
+      "Jellyfish",
+      "Whale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Crabs have hard shells and walk sideways on the beach and ocean floor!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-185",
+    "subject": "science",
+    "question": "Which dinosaur could fly?",
+    "options": [
+      "T-Rex",
+      "Triceratops",
+      "Pterodactyl",
+      "Stegosaurus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pterodactyls were flying reptiles that lived during the time of dinosaurs! They had large wings.",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-186",
+    "subject": "science",
+    "question": "What happens to metal when it gets wet and stays wet?",
+    "options": [
+      "It melts",
+      "It can rust",
+      "It grows",
+      "It floats"
+    ],
+    "correctIndex": 1,
+    "explanation": "When metal stays wet, it can develop rust. Rust is a reddish-brown coating that makes metal weak!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-187",
+    "subject": "science",
+    "question": "What shape does a magnet often come in?",
+    "options": [
+      "Triangle",
+      "Horseshoe",
+      "Star",
+      "Diamond"
+    ],
+    "correctIndex": 1,
+    "explanation": "Magnets often come in a horseshoe shape (like a U). They also come as bars and circles!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-188",
+    "subject": "science",
+    "question": "Does a balloon filled with air float in water?",
+    "options": [
+      "Sink",
+      "Float",
+      "Pop",
+      "Dissolve"
+    ],
+    "correctIndex": 1,
+    "explanation": "An air-filled balloon floats because air is much lighter than water!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-189",
+    "subject": "science",
+    "question": "What temperature does water freeze at?",
+    "options": [
+      "0 degrees Celsius",
+      "50 degrees Celsius",
+      "100 degrees Celsius",
+      "10 degrees Celsius"
+    ],
+    "correctIndex": 0,
+    "explanation": "Water freezes at 0 degrees Celsius (32 degrees Fahrenheit) and turns into ice!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-190",
+    "subject": "science",
+    "question": "What is a baby swan called?",
+    "options": [
+      "Chick",
+      "Cygnet",
+      "Duckling",
+      "Gosling"
+    ],
+    "correctIndex": 1,
+    "explanation": "A baby swan is called a cygnet. Cygnets are gray and fluffy before they become beautiful white swans!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-191",
+    "subject": "science",
+    "question": "Where do penguins live?",
+    "options": [
+      "In the jungle",
+      "Near the South Pole in Antarctica",
+      "In the desert",
+      "In forests"
+    ],
+    "correctIndex": 1,
+    "explanation": "Most penguins live near the South Pole in Antarctica where it is very cold!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-192",
+    "subject": "science",
+    "question": "Which animal produces wool?",
+    "options": [
+      "Cow",
+      "Sheep",
+      "Pig",
+      "Horse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sheep grow thick woolly coats. People shear (cut) the wool to make warm clothes!",
+    "difficulty": 2,
+    "source": "bank"
+  },
+  {
+    "id": "sci-193",
+    "subject": "science",
+    "question": "What happens to our pupils in the dark?",
+    "options": [
+      "They get smaller",
+      "They get bigger",
+      "They change color",
+      "Nothing happens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Our pupils get bigger in the dark to let in more light so we can see better!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-194",
+    "subject": "science",
+    "question": "What is fog?",
+    "options": [
+      "Smoke from fires",
+      "A cloud very close to the ground",
+      "Dust in the air",
+      "Steam from the ocean"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fog is actually a cloud that forms very close to the ground, made of tiny water droplets!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-195",
+    "subject": "science",
+    "question": "Why do leaves change color in autumn?",
+    "options": [
+      "Someone paints them",
+      "They stop making green chlorophyll",
+      "The wind changes them",
+      "The rain dyes them"
+    ],
+    "correctIndex": 1,
+    "explanation": "In autumn, leaves stop making green chlorophyll, so their other colors like red, orange, and yellow show through!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-196",
+    "subject": "science",
+    "question": "What is the process plants use to make food called?",
+    "options": [
+      "Cooking",
+      "Photosynthesis",
+      "Digestion",
+      "Breathing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Photosynthesis is how plants use sunlight, water, and air to make their own food!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-197",
+    "subject": "science",
+    "question": "What gas do we breathe out?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correctIndex": 1,
+    "explanation": "We breathe in oxygen and breathe out carbon dioxide. Plants then use our carbon dioxide!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-198",
+    "subject": "science",
+    "question": "What is gravity?",
+    "options": [
+      "A type of food",
+      "The force that pulls things toward the ground",
+      "A kind of weather",
+      "A type of rock"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gravity is the invisible force that pulls everything toward the ground. It keeps us from floating away!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-199",
+    "subject": "science",
+    "question": "What planet has beautiful rings around it?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Saturn",
+      "Venus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Saturn has beautiful rings made of ice and rock pieces that orbit around it!",
+    "difficulty": 3,
+    "source": "bank"
+  },
+  {
+    "id": "sci-200",
+    "subject": "science",
+    "question": "What gas do plants give off that we need to breathe?",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Helium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plants release oxygen into the air, which is the gas we need to breathe and stay alive!",
+    "difficulty": 3,
     "source": "bank"
   }
 ]

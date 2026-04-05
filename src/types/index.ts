@@ -66,12 +66,6 @@ export interface FunFact {
   facts: [string, string, string, string, string];
 }
 
-export interface GeneratedCache {
-  questions: Question[];
-  words: Word[];
-  lastGenerated: string;
-}
-
 export type Activity = "quiz" | "words" | "game" | "video" | "funfacts" | "review";
 
 export const ACTIVITY_ORDER: Activity[] = ["quiz", "words", "game", "video", "funfacts", "review"];
