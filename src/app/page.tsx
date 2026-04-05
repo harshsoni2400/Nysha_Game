@@ -5,9 +5,8 @@ import { useRouter } from "next/navigation";
 import { useSession } from "@/context/SessionContext";
 import StreakCounter from "@/components/StreakCounter";
 import Mascot from "@/components/Mascot";
-import { Activity, ACTIVITY_ORDER } from "@/types";
 
-const ACTIVITIES: { id: Activity; title: string; icon: string; time: string; color: string }[] = [
+const ACTIVITIES = [
   { id: "quiz", title: "Quiz Time", icon: "🧠", time: "2 min", color: "from-sky-200 to-sky-100 border-sky-300" },
   { id: "words", title: "New Words", icon: "📚", time: "2 min", color: "from-green-200 to-green-100 border-green-300" },
   { id: "game", title: "Memory Game", icon: "🃏", time: "3 min", color: "from-amber-200 to-amber-100 border-amber-300" },
@@ -18,7 +17,7 @@ const ACTIVITIES: { id: Activity; title: string; icon: string; time: string; col
 
 export default function Dashboard() {
   const router = useRouter();
-  const { profile, setProfile, session, isActivityCompleted, isActivityUnlocked, nextActivity } = useSession();
+  const { profile, setProfile } = useSession();
   const [nameInput, setNameInput] = useState("");
   const [showNameModal, setShowNameModal] = useState(false);
   const [mounted, setMounted] = useState(false);
@@ -42,13 +41,6 @@ export default function Dashboard() {
     });
     setShowNameModal(false);
   };
-
-  const handleActivityClick = (activity: Activity) => {
-    if (!isActivityUnlocked(activity) || isActivityCompleted(activity)) return;
-    router.push(`/${activity}`);
-  };
-
-  const allDone = ACTIVITY_ORDER.every((a) => session.completedActivities.includes(a));
 
   if (!mounted) return null;
 
@@ -94,72 +86,36 @@ export default function Dashboard() {
       <div className="flex justify-between items-start mb-6">
         <div>
           <Mascot
-            expression={allDone ? "celebrating" : "happy"}
-            message={
-              allDone
-                ? "All done today! Amazing!"
-                : `${greeting()}, ${profile?.name || "friend"}! Ready to learn?`
-            }
+            expression="happy"
+            message={`${greeting()}, ${profile?.name || "friend"}! Pick any activity!`}
           />
         </div>
         <StreakCounter streak={profile?.currentStreak || 0} />
       </div>
 
       {/* Title */}
-      <h1 className="text-3xl font-black text-purple-800 mb-2">Today&apos;s Activities</h1>
-      <p className="text-gray-600 mb-6">Complete them in order to earn your streak!</p>
+      <h1 className="text-3xl font-black text-purple-800 mb-2">Pick an Activity</h1>
+      <p className="text-gray-600 mb-6">Play anything you like, as many times as you want!</p>
 
       {/* Activity cards */}
       <div className="flex flex-col gap-4">
-        {ACTIVITIES.map((activity) => {
-          const completed = isActivityCompleted(activity.id);
-          const unlocked = isActivityUnlocked(activity.id);
-          const isNext = nextActivity() === activity.id;
-
-          return (
-            <button
-              key={activity.id}
-              onClick={() => handleActivityClick(activity.id)}
-              disabled={!unlocked || completed}
-              className={`relative bg-gradient-to-r ${activity.color} border-2 rounded-2xl p-5 text-left transition-all duration-300 ${
-                completed
-                  ? "opacity-60"
-                  : isNext
-                  ? "shadow-lg scale-[1.02] ring-2 ring-purple-400"
-                  : !unlocked
-                  ? "opacity-40 grayscale"
-                  : "hover:shadow-md hover:scale-[1.01]"
-              } ${isNext ? "animate-pulse" : ""}`}
-            >
-              <div className="flex items-center gap-4">
-                <span className="text-4xl">{activity.icon}</span>
-                <div className="flex-1">
-                  <h3 className="text-xl font-bold text-gray-800">{activity.title}</h3>
-                  <p className="text-sm text-gray-600">{activity.time}</p>
-                </div>
-                {completed && (
-                  <span className="text-3xl animate-bounce-in">✅</span>
-                )}
-                {!unlocked && !completed && (
-                  <span className="text-2xl">🔒</span>
-                )}
-              </div>
-            </button>
-          );
-        })}
-      </div>
-
-      {/* All done */}
-      {allDone && (
-        <div className="mt-6 text-center">
+        {ACTIVITIES.map((activity) => (
           <button
-            onClick={() => router.push("/summary")}
-            className="bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xl font-bold rounded-2xl py-4 px-8 hover:from-purple-600 hover:to-pink-600 transition-all active:scale-95 shadow-lg"
+            key={activity.id}
+            onClick={() => router.push(`/${activity.id}`)}
+            className={`bg-gradient-to-r ${activity.color} border-2 rounded-2xl p-5 text-left transition-all duration-300 hover:shadow-lg hover:scale-[1.02] active:scale-[0.98]`}
           >
-            See My Results! 🏆
+            <div className="flex items-center gap-4">
+              <span className="text-4xl">{activity.icon}</span>
+              <div className="flex-1">
+                <h3 className="text-xl font-bold text-gray-800">{activity.title}</h3>
+                <p className="text-sm text-gray-600">{activity.time}</p>
+              </div>
+              <span className="text-2xl">▶️</span>
+            </div>
           </button>
-        </div>
-      )}
+        ))}
+      </div>
     </div>
   );
 }

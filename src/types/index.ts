@@ -30,24 +30,6 @@ export interface Video {
   durationSeconds: number;
 }
 
-export interface DailySession {
-  date: string;
-  quizQuestionIds: string[];
-  quizAnswers: Record<string, number>;
-  quizScore: number;
-  wordIds: string[];
-  wordsCompleted: boolean;
-  gameCompleted: boolean;
-  gameMoves: number;
-  gameTimeSeconds: number;
-  videoId: string;
-  videoWatched: boolean;
-  reviewQuestionIds: string[];
-  reviewAnswers: Record<string, number>;
-  reviewScore: number;
-  completedActivities: string[];
-}
-
 export interface UserProfile {
   name: string;
   createdAt: string;
@@ -65,7 +47,3 @@ export interface FunFact {
   image: string;
   facts: [string, string, string, string, string];
 }
-
-export type Activity = "quiz" | "words" | "game" | "video" | "funfacts" | "review";
-
-export const ACTIVITY_ORDER: Activity[] = ["quiz", "words", "game", "video", "funfacts", "review"];

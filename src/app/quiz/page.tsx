@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { useSession } from "@/context/SessionContext";
 import QuizQuestion from "@/components/QuizQuestion";
 import Mascot from "@/components/Mascot";
 import StarBurst from "@/components/StarBurst";
@@ -18,7 +17,6 @@ import gkQuestions from "@/data/questions/gk.json";
 
 export default function QuizPage() {
   const router = useRouter();
-  const { completeActivity, updateQuizAnswer } = useSession();
   const { play } = useSound();
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -32,15 +30,13 @@ export default function QuizPage() {
       ...scienceQuestions,
       ...gkQuestions,
     ] as Question[];
-    const today = getTodayDate();
-    const selected = selectDailyQuestions(allQuestions, today, 10);
+    // Use timestamp-based seed so replaying gives different questions
+    const seed = getTodayDate() + "-" + Date.now();
+    const selected = selectDailyQuestions(allQuestions, seed, 10);
     setQuestions(selected);
   }, []);
 
   const handleAnswer = (selectedIndex: number, correct: boolean) => {
-    if (questions[currentIndex]) {
-      updateQuizAnswer(questions[currentIndex].id, selectedIndex, correct);
-    }
     if (correct) setScore((s) => s + 1);
 
     if (currentIndex < questions.length - 1) {
@@ -48,8 +44,6 @@ export default function QuizPage() {
     } else {
       setFinished(true);
       play("complete");
-      completeActivity("quiz");
-      setTimeout(() => router.push("/"), 3000);
     }
   };
 
@@ -72,7 +66,32 @@ export default function QuizPage() {
             {score}/{questions.length}
           </p>
           <p className="text-lg text-gray-600">{getEncouragement(score, questions.length)}</p>
-          <p className="text-sm text-gray-400 mt-4">Going back to dashboard...</p>
+          <div className="flex gap-3 mt-6">
+            <button
+              onClick={() => {
+                setFinished(false);
+                setCurrentIndex(0);
+                setScore(0);
+                const allQuestions = [
+                  ...mathQuestions,
+                  ...englishQuestions,
+                  ...scienceQuestions,
+                  ...gkQuestions,
+                ] as Question[];
+                const seed = getTodayDate() + "-" + Date.now();
+                setQuestions(selectDailyQuestions(allQuestions, seed, 10));
+              }}
+              className="flex-1 bg-gradient-to-r from-sky-400 to-sky-500 text-white font-bold rounded-2xl py-3 hover:from-sky-500 hover:to-sky-600 transition-all active:scale-95"
+            >
+              Play Again 🔄
+            </button>
+            <button
+              onClick={() => router.push("/")}
+              className="flex-1 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-bold rounded-2xl py-3 hover:from-purple-600 hover:to-pink-600 transition-all active:scale-95"
+            >
+              Home 🏠
+            </button>
+          </div>
         </div>
       </div>
     );
@@ -80,19 +99,13 @@ export default function QuizPage() {
 
   return (
     <div className="min-h-screen p-6 flex flex-col">
-      {/* Header */}
       <div className="flex items-center justify-between mb-6">
-        <button
-          onClick={() => router.push("/")}
-          className="text-purple-500 font-semibold hover:text-purple-700"
-        >
+        <button onClick={() => router.push("/")} className="text-purple-500 font-semibold hover:text-purple-700">
           ← Back
         </button>
         <h1 className="text-xl font-bold text-purple-700">🧠 Quiz Time</h1>
         <div className="text-sm text-gray-500">{score} correct</div>
       </div>
-
-      {/* Question */}
       <div className="flex-1 flex items-center">
         <QuizQuestion
           key={questions[currentIndex].id}

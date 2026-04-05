@@ -2,21 +2,24 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { useSession } from "@/context/SessionContext";
 import MemoryBoard from "@/components/MemoryBoard";
 import StarBurst from "@/components/StarBurst";
 
 export default function GamePage() {
   const router = useRouter();
-  const { completeGame } = useSession();
   const [finished, setFinished] = useState(false);
   const [stats, setStats] = useState({ moves: 0, time: 0 });
+  const [gameKey, setGameKey] = useState(0);
 
   const handleComplete = (moves: number, timeSeconds: number) => {
     setStats({ moves, time: timeSeconds });
     setFinished(true);
-    completeGame(moves, timeSeconds);
-    setTimeout(() => router.push("/"), 4000);
+  };
+
+  const playAgain = () => {
+    setFinished(false);
+    setStats({ moves: 0, time: 0 });
+    setGameKey((k) => k + 1);
   };
 
   if (finished) {
@@ -38,7 +41,20 @@ export default function GamePage() {
               <p className="text-sm text-gray-500">time</p>
             </div>
           </div>
-          <p className="text-sm text-gray-400 mt-4">Going back to dashboard...</p>
+          <div className="flex gap-3 mt-6">
+            <button
+              onClick={playAgain}
+              className="flex-1 bg-gradient-to-r from-amber-400 to-amber-500 text-white font-bold rounded-2xl py-3 hover:from-amber-500 hover:to-amber-600 transition-all active:scale-95"
+            >
+              Play Again 🔄
+            </button>
+            <button
+              onClick={() => router.push("/")}
+              className="flex-1 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-bold rounded-2xl py-3 hover:from-purple-600 hover:to-pink-600 transition-all active:scale-95"
+            >
+              Home 🏠
+            </button>
+          </div>
         </div>
       </div>
     );
@@ -47,18 +63,14 @@ export default function GamePage() {
   return (
     <div className="min-h-screen p-6 flex flex-col">
       <div className="flex items-center justify-between mb-6">
-        <button
-          onClick={() => router.push("/")}
-          className="text-purple-500 font-semibold hover:text-purple-700"
-        >
+        <button onClick={() => router.push("/")} className="text-purple-500 font-semibold hover:text-purple-700">
           ← Back
         </button>
         <h1 className="text-xl font-bold text-purple-700">🃏 Memory Game</h1>
         <div className="w-16" />
       </div>
-
       <div className="flex-1 flex items-center justify-center">
-        <MemoryBoard onComplete={handleComplete} />
+        <MemoryBoard key={gameKey} onComplete={handleComplete} />
       </div>
     </div>
   );

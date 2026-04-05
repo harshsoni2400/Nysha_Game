@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { useSession } from "@/context/SessionContext";
 import StarBurst from "@/components/StarBurst";
 import { useSound } from "@/hooks/useSound";
 import { selectDailyFunFact, getTodayDate } from "@/lib/contentSelector";
@@ -26,17 +25,24 @@ const CATEGORY_LABELS: Record<string, string> = {
 
 export default function FunFactsPage() {
   const router = useRouter();
-  const { completeFunFacts } = useSession();
   const { play } = useSound();
   const [fact, setFact] = useState<FunFact | null>(null);
   const [currentFactIndex, setCurrentFactIndex] = useState(0);
   const [revealedFacts, setRevealedFacts] = useState<boolean[]>([false, false, false, false, false]);
   const [finished, setFinished] = useState(false);
 
-  useEffect(() => {
-    const today = getTodayDate();
-    const selected = selectDailyFunFact(funfactsData as FunFact[], today);
+  const loadFact = () => {
+    const seed = getTodayDate() + "-" + Date.now();
+    const selected = selectDailyFunFact(funfactsData as FunFact[], seed);
     setFact(selected);
+    setCurrentFactIndex(0);
+    setRevealedFacts([false, false, false, false, false]);
+    setFinished(false);
+  };
+
+  useEffect(() => {
+    loadFact();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const revealNextFact = () => {
@@ -48,11 +54,8 @@ export default function FunFactsPage() {
     if (currentFactIndex < 4) {
       setCurrentFactIndex((i) => i + 1);
     } else {
-      // All 5 facts revealed
       play("cheer");
       setFinished(true);
-      completeFunFacts();
-      setTimeout(() => router.push("/"), 3500);
     }
   };
 
@@ -73,7 +76,20 @@ export default function FunFactsPage() {
           <h2 className="text-3xl font-bold text-purple-700">You learned about</h2>
           <p className="text-2xl font-black text-purple-600 mt-2">{fact.title}!</p>
           <p className="text-lg text-gray-600 mt-2">5 amazing facts discovered!</p>
-          <p className="text-sm text-gray-400 mt-4">Going back to dashboard...</p>
+          <div className="flex gap-3 mt-6">
+            <button
+              onClick={loadFact}
+              className="flex-1 bg-gradient-to-r from-teal-400 to-teal-500 text-white font-bold rounded-2xl py-3 hover:from-teal-500 hover:to-teal-600 transition-all active:scale-95"
+            >
+              New Topic 🔄
+            </button>
+            <button
+              onClick={() => router.push("/")}
+              className="flex-1 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-bold rounded-2xl py-3 hover:from-purple-600 hover:to-pink-600 transition-all active:scale-95"
+            >
+              Home 🏠
+            </button>
+          </div>
         </div>
       </div>
     );
@@ -84,32 +100,25 @@ export default function FunFactsPage() {
 
   return (
     <div className="min-h-screen p-6 flex flex-col">
-      {/* Header */}
       <div className="flex items-center justify-between mb-4">
-        <button
-          onClick={() => router.push("/")}
-          className="text-purple-500 font-semibold hover:text-purple-700"
-        >
+        <button onClick={() => router.push("/")} className="text-purple-500 font-semibold hover:text-purple-700">
           ← Back
         </button>
         <h1 className="text-xl font-bold text-purple-700">🌍 Fun Facts</h1>
         <div className="w-16" />
       </div>
 
-      {/* Category badge */}
       <div className="text-center mb-4">
         <span className={`inline-block bg-gradient-to-r ${categoryColor} border px-4 py-1 rounded-full text-sm font-semibold text-gray-700`}>
           {categoryLabel}
         </span>
       </div>
 
-      {/* Title card */}
       <div className="text-center mb-6">
         <div className="text-8xl mb-3 animate-bounce-slow">{fact.image}</div>
         <h2 className="text-3xl font-black text-purple-800">{fact.title}</h2>
       </div>
 
-      {/* Facts list */}
       <div className="flex flex-col gap-3 max-w-lg mx-auto w-full flex-1">
         {fact.facts.map((text, i) => (
           <div
@@ -124,9 +133,7 @@ export default function FunFactsPage() {
           >
             {revealedFacts[i] ? (
               <div className="flex items-start gap-3">
-                <span className="text-2xl mt-0.5">
-                  {["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"][i]}
-                </span>
+                <span className="text-2xl mt-0.5">{["1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣"][i]}</span>
                 <p className="text-base font-medium text-gray-800 leading-relaxed">{text}</p>
               </div>
             ) : i === currentFactIndex ? (
@@ -142,23 +149,19 @@ export default function FunFactsPage() {
         ))}
       </div>
 
-      {/* Reveal button */}
-      {!finished && (
-        <div className="mt-6 text-center">
-          <button
-            onClick={revealNextFact}
-            className="bg-gradient-to-r from-teal-400 to-emerald-500 text-white text-xl font-bold rounded-2xl py-4 px-8 hover:from-teal-500 hover:to-emerald-600 transition-all active:scale-95 shadow-lg animate-pulse"
-          >
-            {currentFactIndex === 0
-              ? "Reveal First Fact! 🎉"
-              : currentFactIndex === 4
-              ? "Reveal Last Fact! 🌟"
-              : `Reveal Fact #${currentFactIndex + 1}! ✨`}
-          </button>
-        </div>
-      )}
+      <div className="mt-6 text-center">
+        <button
+          onClick={revealNextFact}
+          className="bg-gradient-to-r from-teal-400 to-emerald-500 text-white text-xl font-bold rounded-2xl py-4 px-8 hover:from-teal-500 hover:to-emerald-600 transition-all active:scale-95 shadow-lg animate-pulse"
+        >
+          {currentFactIndex === 0
+            ? "Reveal First Fact! 🎉"
+            : currentFactIndex === 4
+            ? "Reveal Last Fact! 🌟"
+            : `Reveal Fact #${currentFactIndex + 1}! ✨`}
+        </button>
+      </div>
 
-      {/* Progress */}
       <div className="flex gap-2 justify-center mt-4">
         {[0, 1, 2, 3, 4].map((i) => (
           <div
