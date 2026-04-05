@@ -19,7 +19,7 @@ export default function SummaryPage() {
   if (!mounted) return null;
 
   const quizStars = getStarRating(session.quizScore, 10);
-  const reviewStars = getStarRating(session.reviewScore, 5);
+  const reviewStars = getStarRating(session.reviewScore, 10);
 
   return (
     <div className="min-h-screen p-6 flex flex-col items-center justify-center">
@@ -80,12 +80,22 @@ export default function SummaryPage() {
             <div className="text-xl">✅</div>
           </div>
 
+          {/* Fun Facts */}
+          <div className="flex items-center gap-3 bg-teal-50 rounded-2xl p-4">
+            <span className="text-3xl">🌍</span>
+            <div className="flex-1">
+              <p className="font-bold text-gray-800">Fun Facts</p>
+              <p className="text-sm text-gray-600">5 facts discovered!</p>
+            </div>
+            <div className="text-xl">✅</div>
+          </div>
+
           {/* Review */}
           <div className="flex items-center gap-3 bg-purple-50 rounded-2xl p-4">
             <span className="text-3xl">💡</span>
             <div className="flex-1">
               <p className="font-bold text-gray-800">Brain Challenge</p>
-              <p className="text-sm text-gray-600">{session.reviewScore}/5 correct</p>
+              <p className="text-sm text-gray-600">{session.reviewScore}/10 correct</p>
             </div>
             <div className="text-xl">{"⭐".repeat(reviewStars)}</div>
           </div>

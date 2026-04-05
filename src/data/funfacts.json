@@ -1,0 +1,842 @@
+[
+  {
+    "id": "fact-001",
+    "category": "animals",
+    "title": "Blue Whale",
+    "emoji": "🐋",
+    "image": "🐋",
+    "facts": [
+      "A blue whale's heart is as big as a small car!",
+      "Blue whales are the largest animals that have ever lived on Earth.",
+      "A baby blue whale drinks about 380 liters of milk every day!",
+      "Blue whales can be heard from over 1,000 miles away.",
+      "They can grow up to 100 feet long - that's as long as three school buses!"
+    ]
+  },
+  {
+    "id": "fact-002",
+    "category": "animals",
+    "title": "Octopus",
+    "emoji": "🐙",
+    "image": "🐙",
+    "facts": [
+      "An octopus has three hearts and blue blood!",
+      "Octopuses can change their color in less than one second to hide from enemies.",
+      "They have eight arms, and each arm has its own mini brain!",
+      "An octopus can squeeze through any hole bigger than its beak - even a tiny one!",
+      "They squirt ink like a smoke screen to escape from danger."
+    ]
+  },
+  {
+    "id": "fact-003",
+    "category": "animals",
+    "title": "Cheetah",
+    "emoji": "🐆",
+    "image": "🐆",
+    "facts": [
+      "Cheetahs are the fastest animals on land - they can run as fast as a car on the highway!",
+      "A cheetah can go from standing still to super fast in just 3 seconds.",
+      "They have special claws that grip the ground like running shoes.",
+      "Cheetahs can't roar like lions - instead they chirp and purr like pet cats!",
+      "The black lines under their eyes help block the sun, like a football player's face paint."
+    ]
+  },
+  {
+    "id": "fact-004",
+    "category": "animals",
+    "title": "Elephant",
+    "emoji": "🐘",
+    "image": "🐘",
+    "facts": [
+      "Elephants are the largest animals that live on land - they can weigh as much as a school bus!",
+      "An elephant's trunk has over 40,000 muscles and can pick up something as tiny as a peanut.",
+      "Baby elephants suck their trunks just like human babies suck their thumbs!",
+      "Elephants can hear each other from miles away through vibrations in the ground felt by their feet.",
+      "They never forget! Elephants have amazing memories and can remember friends for decades."
+    ]
+  },
+  {
+    "id": "fact-005",
+    "category": "animals",
+    "title": "Penguin",
+    "emoji": "🐧",
+    "image": "🐧",
+    "facts": [
+      "Penguins can't fly in the air, but they 'fly' underwater at super speeds!",
+      "Emperor penguin dads keep the egg warm on their feet for two whole months without eating.",
+      "Penguins propose to each other with a special pebble - it's like giving a ring!",
+      "They can drink salt water because they have a special gland that filters out the salt.",
+      "Some penguins can hold their breath for over 20 minutes while diving."
+    ]
+  },
+  {
+    "id": "fact-006",
+    "category": "animals",
+    "title": "Butterfly",
+    "emoji": "🦋",
+    "image": "🦋",
+    "facts": [
+      "Butterflies taste with their feet! They land on food and know if it's yummy right away.",
+      "A butterfly starts life as a caterpillar and completely transforms inside a chrysalis.",
+      "Some butterflies fly over 3,000 miles to find warmer weather - that's like crossing the whole United States!",
+      "Their wings are covered in thousands of tiny scales that create beautiful colors.",
+      "Butterflies can see colors that humans can't even imagine, like ultraviolet light!"
+    ]
+  },
+  {
+    "id": "fact-007",
+    "category": "animals",
+    "title": "Dolphin",
+    "emoji": "🐬",
+    "image": "🐬",
+    "facts": [
+      "Dolphins sleep with one eye open! Half their brain stays awake to watch for danger.",
+      "Each dolphin has its own special whistle - like having a name they call each other!",
+      "Dolphins can swim up to 20 miles per hour - faster than most people can ride a bike.",
+      "They use clicking sounds to 'see' underwater, like a superpower called echolocation.",
+      "Baby dolphins are born tail-first so they don't drown, and mom pushes them up for their first breath!"
+    ]
+  },
+  {
+    "id": "fact-008",
+    "category": "animals",
+    "title": "Giraffe",
+    "emoji": "🦒",
+    "image": "🦒",
+    "facts": [
+      "Giraffes are the tallest animals on Earth - they're as tall as a two-story building!",
+      "Every giraffe has a unique pattern of spots, just like your fingerprints are unique to you.",
+      "A giraffe's tongue is about 20 inches long and is purple to protect it from sunburn!",
+      "Baby giraffes can stand up and walk within an hour of being born.",
+      "Giraffes only need about 30 minutes of sleep per day - imagine staying awake that long!"
+    ]
+  },
+  {
+    "id": "fact-009",
+    "category": "animals",
+    "title": "Owl",
+    "emoji": "🦉",
+    "image": "🦉",
+    "facts": [
+      "Owls can turn their heads almost all the way around - about 270 degrees!",
+      "Their feathers are so soft that they can fly without making any sound at all.",
+      "Owls can't move their eyeballs - that's why they turn their whole head to look around.",
+      "A group of owls is called a parliament!",
+      "Some owls have ears that are at different heights on their head to help them pinpoint sounds perfectly."
+    ]
+  },
+  {
+    "id": "fact-010",
+    "category": "animals",
+    "title": "Honeybee",
+    "emoji": "🐝",
+    "image": "🐝",
+    "facts": [
+      "Honeybees do a special wiggle dance to tell their friends where to find flowers!",
+      "A single bee makes only about one-twelfth of a teaspoon of honey in its whole life.",
+      "Bees visit about 2 million flowers to make just one jar of honey!",
+      "Honeybees have five eyes - two big ones and three tiny ones on top of their head.",
+      "Honey never goes bad! Scientists found 3,000-year-old honey in Egypt and it was still good to eat."
+    ]
+  },
+  {
+    "id": "fact-011",
+    "category": "animals",
+    "title": "Chameleon",
+    "emoji": "🦎",
+    "image": "🦎",
+    "facts": [
+      "Chameleons can move each eye in a different direction at the same time!",
+      "They change color to show their mood - bright colors mean happy, dark colors mean grumpy.",
+      "A chameleon's tongue is often longer than its entire body and shoots out super fast!",
+      "Their tongue zooms out so fast it goes from 0 to 60 in one hundredth of a second.",
+      "Baby chameleons can change color from the moment they are born."
+    ]
+  },
+  {
+    "id": "fact-012",
+    "category": "animals",
+    "title": "Kangaroo",
+    "emoji": "🦘",
+    "image": "🦘",
+    "facts": [
+      "A baby kangaroo is called a joey and is only the size of a jellybean when it's born!",
+      "Kangaroos can jump 30 feet in one leap - that's longer than a school bus!",
+      "They can't walk backwards because of the shape of their big tail and legs.",
+      "Kangaroos use their strong tails like a third leg to balance when standing.",
+      "A group of kangaroos is called a mob!"
+    ]
+  },
+  {
+    "id": "fact-013",
+    "category": "animals",
+    "title": "Sea Turtle",
+    "emoji": "🐢",
+    "image": "🐢",
+    "facts": [
+      "Sea turtles have been around since the time of the dinosaurs - over 100 million years!",
+      "Mother sea turtles return to the exact same beach where they were born to lay their eggs.",
+      "Some sea turtles can hold their breath for up to 5 hours while sleeping underwater!",
+      "Baby sea turtles follow the moonlight to find their way to the ocean after hatching.",
+      "The leatherback sea turtle can dive deeper than 3,000 feet - deeper than most submarines go!"
+    ]
+  },
+  {
+    "id": "fact-014",
+    "category": "animals",
+    "title": "Red Panda",
+    "emoji": "🐾",
+    "image": "🐾",
+    "facts": [
+      "Red pandas are not actually related to giant pandas - they're more like raccoons!",
+      "They wrap their fluffy tails around themselves like a blanket to stay warm.",
+      "Red pandas spend most of their life up in trees and even sleep in branches.",
+      "They have a fake thumb on their paws that helps them grip bamboo stems.",
+      "Red pandas are so shy and quiet that scientists sometimes call them the 'Firefox'!"
+    ]
+  },
+  {
+    "id": "fact-015",
+    "category": "animals",
+    "title": "Hummingbird",
+    "emoji": "🐦",
+    "image": "🐦",
+    "facts": [
+      "Hummingbirds can fly backwards - they're the only birds in the world that can do this!",
+      "Their wings beat up to 80 times per second - so fast you can only see a blur.",
+      "The bee hummingbird is the smallest bird in the world, lighter than a penny!",
+      "A hummingbird's heart beats over 1,200 times per minute - yours beats about 100.",
+      "They drink nectar from flowers using a tongue that flicks in and out 13 times per second."
+    ]
+  },
+  {
+    "id": "fact-016",
+    "category": "places",
+    "title": "Eiffel Tower",
+    "emoji": "🗼",
+    "image": "🗼",
+    "facts": [
+      "The Eiffel Tower in Paris grows about 6 inches taller in summer because the metal expands in heat!",
+      "It was built in just 2 years for a World's Fair and was supposed to be torn down after 20 years.",
+      "There are 1,665 steps to climb to the very top!",
+      "The tower is repainted every 7 years and it takes 60 tons of paint - that's the weight of 10 elephants!",
+      "About 7 million people visit the Eiffel Tower every year - that's like the whole population of a small country."
+    ]
+  },
+  {
+    "id": "fact-017",
+    "category": "places",
+    "title": "Great Wall of China",
+    "emoji": "🏯",
+    "image": "🏯",
+    "facts": [
+      "The Great Wall of China is over 13,000 miles long - you could wrap it around the Earth's middle!",
+      "It took over 2,000 years to build, with millions of workers helping over many centuries.",
+      "Some parts of the wall are wide enough for 5 horses to ride side by side!",
+      "The wall was built to protect China from invaders and has watchtowers all along it.",
+      "Sticky rice was mixed into the cement to help hold the bricks together!"
+    ]
+  },
+  {
+    "id": "fact-018",
+    "category": "places",
+    "title": "Amazon Rainforest",
+    "emoji": "🌳",
+    "image": "🌳",
+    "facts": [
+      "The Amazon Rainforest is so big it would cover most of the United States!",
+      "It makes about 20% of the world's oxygen - that's why it's called the 'Lungs of the Earth'.",
+      "One in ten of all the animal species in the world lives in the Amazon.",
+      "The trees grow so thick that when it rains, it takes 10 minutes for water to reach the ground!",
+      "New insects and animals are still being discovered there every single day."
+    ]
+  },
+  {
+    "id": "fact-019",
+    "category": "places",
+    "title": "Mount Everest",
+    "emoji": "🏔️",
+    "image": "🏔️",
+    "facts": [
+      "Mount Everest is the tallest mountain on Earth - so high that airplanes fly at the same height!",
+      "It's still growing about half an inch taller every year because the ground underneath keeps pushing up.",
+      "The top of Everest is so high that there's only one-third as much air to breathe up there.",
+      "It takes most climbers about two months to reach the top because they have to get used to thin air.",
+      "There's so much snow and ice on top that it never melts, even in summer!"
+    ]
+  },
+  {
+    "id": "fact-020",
+    "category": "places",
+    "title": "Grand Canyon",
+    "emoji": "🏜️",
+    "image": "🏜️",
+    "facts": [
+      "The Grand Canyon is over a mile deep - you could stack 4 Eiffel Towers on top of each other inside it!",
+      "The Colorado River took about 5 to 6 million years to carve the canyon out of rock.",
+      "Some of the rocks at the bottom are almost 2 billion years old - half the age of the Earth!",
+      "It's so big you can see it from outer space.",
+      "The temperature at the top can be freezing cold while the bottom is super hot at the same time!"
+    ]
+  },
+  {
+    "id": "fact-021",
+    "category": "places",
+    "title": "Great Barrier Reef",
+    "emoji": "🐠",
+    "image": "🐠",
+    "facts": [
+      "The Great Barrier Reef is the largest living thing on Earth - you can even see it from space!",
+      "It's home to over 1,500 species of fish and 400 types of coral.",
+      "The reef is made by tiny animals called coral polyps that are smaller than your fingernail.",
+      "It stretches over 1,400 miles along Australia's coast - longer than the distance from New York to Miami!",
+      "Sea turtles, dolphins, and even whales visit the reef like a giant underwater neighborhood."
+    ]
+  },
+  {
+    "id": "fact-022",
+    "category": "places",
+    "title": "Sahara Desert",
+    "emoji": "🏜️",
+    "image": "🏜️",
+    "facts": [
+      "The Sahara Desert is almost as big as the entire United States!",
+      "Even though it's super hot during the day, it can get freezing cold at night.",
+      "Only about 25% of the Sahara is sandy - the rest is rocky and gravelly ground.",
+      "Millions of years ago, the Sahara was actually a green forest with rivers and lakes!",
+      "Sand dunes in the Sahara can be as tall as a 60-story skyscraper."
+    ]
+  },
+  {
+    "id": "fact-023",
+    "category": "places",
+    "title": "Niagara Falls",
+    "emoji": "💧",
+    "image": "💧",
+    "facts": [
+      "Over 3,000 tons of water flow over Niagara Falls every single second!",
+      "The falls are shared by two countries - the United States and Canada.",
+      "Niagara Falls is slowly moving backwards as the water wears away the rock - about one foot per year.",
+      "The mist from the falls can be seen from miles away and creates beautiful rainbows on sunny days.",
+      "People have gone over the falls in barrels - but it's very dangerous and not allowed anymore!"
+    ]
+  },
+  {
+    "id": "fact-024",
+    "category": "places",
+    "title": "Antarctica",
+    "emoji": "🧊",
+    "image": "🧊",
+    "facts": [
+      "Antarctica is the coldest place on Earth - temperatures can drop to minus 128 degrees!",
+      "About 70% of all the fresh water on Earth is frozen in Antarctica's ice sheets.",
+      "No country owns Antarctica - it belongs to the whole world for science and peace.",
+      "Even though it's covered in ice, Antarctica is actually a desert because it barely gets any rain or snow.",
+      "Penguins, seals, and whales live there, but no polar bears - polar bears only live at the North Pole!"
+    ]
+  },
+  {
+    "id": "fact-025",
+    "category": "places",
+    "title": "Machu Picchu",
+    "emoji": "🏛️",
+    "image": "🏛️",
+    "facts": [
+      "Machu Picchu is an ancient city built on top of a mountain in Peru, high up in the clouds!",
+      "It was built about 600 years ago by the Inca people without using any wheels or iron tools.",
+      "The stones fit together so perfectly that you can't fit a piece of paper between them!",
+      "It was hidden in the jungle for hundreds of years until an explorer found it in 1911.",
+      "Llamas still walk around Machu Picchu and help keep the grass trimmed like natural lawnmowers."
+    ]
+  },
+  {
+    "id": "fact-026",
+    "category": "places",
+    "title": "Taj Mahal",
+    "emoji": "🕌",
+    "image": "🕌",
+    "facts": [
+      "The Taj Mahal was built by a king as a gift of love for his queen who passed away.",
+      "It took over 20,000 workers and 22 years to build!",
+      "The white marble changes color throughout the day - pinkish in the morning, white at noon, and golden at sunset.",
+      "Over 1,000 elephants helped carry the heavy marble stones used to build it.",
+      "Precious gems like diamonds, rubies, and sapphires are set into the walls in beautiful patterns."
+    ]
+  },
+  {
+    "id": "fact-027",
+    "category": "places",
+    "title": "Colosseum",
+    "emoji": "🏟️",
+    "image": "🏟️",
+    "facts": [
+      "The Colosseum in Rome could hold 50,000 people - like a huge sports stadium today!",
+      "It was built almost 2,000 years ago by the Ancient Romans.",
+      "It had a giant canvas roof that could be pulled over the top to give shade on hot days.",
+      "The floor could be flooded with water to have pretend sea battles!",
+      "It took only 8 years to build, which was super fast for such a gigantic building."
+    ]
+  },
+  {
+    "id": "fact-028",
+    "category": "places",
+    "title": "Pyramids of Egypt",
+    "emoji": "🔺",
+    "image": "🔺",
+    "facts": [
+      "The Great Pyramid was the tallest building in the world for over 3,800 years!",
+      "It's made of about 2.3 million stone blocks, each weighing as much as a car.",
+      "The pyramids are over 4,500 years old - they were ancient even to the Ancient Romans!",
+      "The four sides of the Great Pyramid line up almost perfectly with north, south, east, and west.",
+      "The inside temperature of the pyramid stays at exactly 68 degrees all the time, like natural air conditioning."
+    ]
+  },
+  {
+    "id": "fact-029",
+    "category": "places",
+    "title": "Yellowstone",
+    "emoji": "🌋",
+    "image": "🌋",
+    "facts": [
+      "Yellowstone sits on top of a supervolcano with enough hot melted rock to fill the Grand Canyon 11 times!",
+      "Old Faithful geyser shoots boiling water up to 180 feet in the air about every 90 minutes.",
+      "The park has more geysers than any other place on Earth - over 500!",
+      "Rainbow-colored hot springs get their amazing colors from tiny living things called bacteria.",
+      "Yellowstone was the very first national park in the whole world, created in 1872."
+    ]
+  },
+  {
+    "id": "fact-030",
+    "category": "places",
+    "title": "Northern Lights",
+    "emoji": "🌌",
+    "image": "🌌",
+    "facts": [
+      "The Northern Lights are caused by tiny particles from the Sun crashing into Earth's atmosphere!",
+      "They can be green, pink, purple, red, yellow, and blue - like a light show in the sky.",
+      "The lights happen about 60 miles above the ground - way higher than any airplane flies.",
+      "People in ancient times thought the lights were spirits dancing in the sky.",
+      "The Southern Hemisphere has them too - they're called the Southern Lights or Aurora Australis!"
+    ]
+  },
+  {
+    "id": "fact-031",
+    "category": "flags",
+    "title": "USA",
+    "emoji": "🇺🇸",
+    "image": "🇺🇸",
+    "facts": [
+      "The USA flag has 50 stars - one for each state in the country!",
+      "The 13 red and white stripes represent the 13 original colonies that started America.",
+      "The flag has been changed 27 times as new states were added over the years.",
+      "When astronauts landed on the Moon, they planted an American flag there!",
+      "The current flag was designed by a 17-year-old student named Robert Heft for a school project."
+    ]
+  },
+  {
+    "id": "fact-032",
+    "category": "flags",
+    "title": "Japan",
+    "emoji": "🇯🇵",
+    "image": "🇯🇵",
+    "facts": [
+      "Japan's flag has a big red circle on a white background that represents the Sun.",
+      "Japan is called the 'Land of the Rising Sun' because the Sun appears to rise from there first.",
+      "The flag is one of the simplest and most recognizable flags in the whole world.",
+      "The red circle is called 'Hinomaru' which means 'circle of the Sun' in Japanese.",
+      "The white background stands for honesty and purity, and the red stands for warmth and brightness."
+    ]
+  },
+  {
+    "id": "fact-033",
+    "category": "flags",
+    "title": "India",
+    "emoji": "🇮🇳",
+    "image": "🇮🇳",
+    "facts": [
+      "India's flag has a spinning wheel called the Ashoka Chakra in the center with 24 spokes.",
+      "The saffron (orange) on top stands for courage, the white for peace, and the green for growth.",
+      "The 24 spokes on the wheel represent 24 hours in a day - the country is always moving forward!",
+      "The Indian flag must be made only from a special hand-spun cloth called khadi.",
+      "The wheel in the middle was inspired by an ancient emperor named Ashoka who loved peace."
+    ]
+  },
+  {
+    "id": "fact-034",
+    "category": "flags",
+    "title": "Brazil",
+    "emoji": "🇧🇷",
+    "image": "🇧🇷",
+    "facts": [
+      "Brazil's flag has a starry sky on it with 27 stars - one for each state!",
+      "The green background represents Brazil's amazing forests and nature.",
+      "The yellow diamond shape stands for Brazil's gold and wealth.",
+      "The stars on the flag show the exact sky that was visible over Rio de Janeiro on November 15, 1889.",
+      "The banner across the middle says 'Order and Progress' in Portuguese."
+    ]
+  },
+  {
+    "id": "fact-035",
+    "category": "flags",
+    "title": "Australia",
+    "emoji": "🇦🇺",
+    "image": "🇦🇺",
+    "facts": [
+      "Australia's flag has the Southern Cross constellation - stars you can only see from the Southern Hemisphere!",
+      "There's a big seven-pointed star called the Commonwealth Star under the British flag corner.",
+      "The six points on the Commonwealth Star represent the six states, plus one point for the territories.",
+      "The blue background represents the ocean that surrounds Australia on all sides.",
+      "Australia held a competition to design their flag and got over 30,000 entries!"
+    ]
+  },
+  {
+    "id": "fact-036",
+    "category": "flags",
+    "title": "Canada",
+    "emoji": "🇨🇦",
+    "image": "🇨🇦",
+    "facts": [
+      "Canada's flag has a red maple leaf in the center - maple trees are everywhere in Canada!",
+      "The flag is nicknamed the 'Maple Leaf' and was first flown on February 15, 1965.",
+      "The maple leaf has exactly 11 points on it.",
+      "Canadians make most of the world's maple syrup - over 70%!",
+      "The two red stripes on the sides represent the Atlantic and Pacific oceans on Canada's east and west."
+    ]
+  },
+  {
+    "id": "fact-037",
+    "category": "flags",
+    "title": "France",
+    "emoji": "🇫🇷",
+    "image": "🇫🇷",
+    "facts": [
+      "France's flag has three vertical stripes: blue, white, and red - called the Tricolor!",
+      "The three colors stand for liberty, equality, and brotherhood.",
+      "The French flag inspired many other countries to use three-stripe designs for their flags.",
+      "During the French Revolution, people wore ribbons with these three colors to show they wanted freedom.",
+      "The Tricolor has been France's flag since 1794 - that's over 200 years!"
+    ]
+  },
+  {
+    "id": "fact-038",
+    "category": "flags",
+    "title": "South Africa",
+    "emoji": "🇿🇦",
+    "image": "🇿🇦",
+    "facts": [
+      "South Africa's flag has six colors - more than almost any other flag in the world!",
+      "The Y-shape in the flag represents different groups of people coming together as one nation.",
+      "The flag was created in 1994 when South Africa became a free country for all its people.",
+      "It was designed in just one week before it needed to be used!",
+      "South Africa is called the 'Rainbow Nation' because it has so many different cultures and people."
+    ]
+  },
+  {
+    "id": "fact-039",
+    "category": "flags",
+    "title": "Mexico",
+    "emoji": "🇲🇽",
+    "image": "🇲🇽",
+    "facts": [
+      "Mexico's flag has an eagle sitting on a cactus eating a snake right in the middle!",
+      "The eagle on the cactus comes from an ancient Aztec legend about where to build their city.",
+      "Green stands for hope, white for unity, and red for the blood of heroes.",
+      "Mexico's flag looks similar to Italy's but has the eagle symbol that makes it unique.",
+      "September 24th is Flag Day in Mexico, and people have big celebrations!"
+    ]
+  },
+  {
+    "id": "fact-040",
+    "category": "flags",
+    "title": "Nepal",
+    "emoji": "🇳🇵",
+    "image": "🇳🇵",
+    "facts": [
+      "Nepal is the only country in the world whose flag is NOT a rectangle - it's two stacked triangles!",
+      "The flag looks like two little pennants on top of each other.",
+      "The crimson red color represents bravery, and the blue border means peace.",
+      "One triangle has a moon and the other has a sun, meaning Nepal will last as long as they do!",
+      "The unusual shape represents the Himalaya Mountains and the two main religions in Nepal."
+    ]
+  },
+  {
+    "id": "fact-041",
+    "category": "flags",
+    "title": "United Kingdom",
+    "emoji": "🇬🇧",
+    "image": "🇬🇧",
+    "facts": [
+      "The UK flag is called the Union Jack and combines the flags of three countries into one!",
+      "It mixes the crosses of England (red cross), Scotland (white X on blue), and Ireland (red X).",
+      "The flag is NOT symmetrical - if you look closely, the red diagonal stripes are slightly off-center!",
+      "The name 'Jack' might come from the small flag flown on the front of ships.",
+      "The Union Jack has been used since 1801 - that's over 200 years!"
+    ]
+  },
+  {
+    "id": "fact-042",
+    "category": "flags",
+    "title": "Italy",
+    "emoji": "🇮🇹",
+    "image": "🇮🇹",
+    "facts": [
+      "Italy's flag has three vertical stripes: green, white, and red - like the colors of pizza toppings!",
+      "The green represents the beautiful hills, white represents the snowy mountains, and red represents volcanoes.",
+      "Italy's flag was inspired by the French flag when Napoleon visited Italy.",
+      "The flag is sometimes called 'Il Tricolore' which means 'The Three Colors' in Italian.",
+      "Italy is shaped like a boot, and the flag flies proudly from the top to the toe!"
+    ]
+  },
+  {
+    "id": "fact-043",
+    "category": "flags",
+    "title": "China",
+    "emoji": "🇨🇳",
+    "image": "🇨🇳",
+    "facts": [
+      "China's flag has one big star and four smaller stars on a bright red background.",
+      "The big star represents the government, and the four small stars represent the people of China.",
+      "Red is a very lucky and important color in Chinese culture!",
+      "The yellow color of the stars represents the golden future and also the Yellow River.",
+      "China's flag was first raised on October 1, 1949, in Tiananmen Square in Beijing."
+    ]
+  },
+  {
+    "id": "fact-044",
+    "category": "flags",
+    "title": "Kenya",
+    "emoji": "🇰🇪",
+    "image": "🇰🇪",
+    "facts": [
+      "Kenya's flag has a cool Maasai warrior shield and two spears right in the center!",
+      "The black stripe represents the people, red for the struggle for freedom, and green for the land.",
+      "The white stripes stand for peace and honesty.",
+      "The shield and spears mean Kenyans will defend their freedom.",
+      "Kenya is famous for its amazing wildlife - lions, elephants, and zebras roam there!"
+    ]
+  },
+  {
+    "id": "fact-045",
+    "category": "flags",
+    "title": "Argentina",
+    "emoji": "🇦🇷",
+    "image": "🇦🇷",
+    "facts": [
+      "Argentina's flag has a golden Sun of May in the center with a face on it!",
+      "The sun represents the Inca sun god and a new nation being born.",
+      "The light blue and white stripes are said to represent the sky and clouds.",
+      "The sun has 32 rays - 16 straight ones and 16 wavy ones that go back and forth!",
+      "Legend says the flag's creator saw the sun break through the clouds on an important day."
+    ]
+  },
+  {
+    "id": "fact-046",
+    "category": "space",
+    "title": "Sun",
+    "emoji": "☀️",
+    "image": "☀️",
+    "facts": [
+      "The Sun is so big that about 1.3 million Earths could fit inside it!",
+      "Light from the Sun takes about 8 minutes to reach Earth - so when you see sunshine, it's already 8 minutes old.",
+      "The Sun is a giant ball of super hot gas - the surface is about 10,000 degrees!",
+      "The Sun is about 4.6 billion years old, which is about halfway through its life.",
+      "Without the Sun, Earth would be a frozen dark ball floating in space."
+    ]
+  },
+  {
+    "id": "fact-047",
+    "category": "space",
+    "title": "Moon",
+    "emoji": "🌙",
+    "image": "🌙",
+    "facts": [
+      "The Moon is slowly drifting away from Earth - about 1.5 inches farther every year!",
+      "Footprints left by astronauts on the Moon will stay there for millions of years because there's no wind.",
+      "The Moon doesn't make its own light - it reflects light from the Sun like a giant mirror.",
+      "Only 12 people have ever walked on the Moon, and they were all Americans.",
+      "The Moon has no sound at all because there's no air to carry sound waves."
+    ]
+  },
+  {
+    "id": "fact-048",
+    "category": "space",
+    "title": "Mars",
+    "emoji": "🔴",
+    "image": "🔴",
+    "facts": [
+      "Mars is called the Red Planet because it's covered in rusty iron dust!",
+      "A day on Mars is almost the same as Earth - just 37 minutes longer.",
+      "Mars has the biggest volcano in the solar system - Olympus Mons is three times taller than Mount Everest!",
+      "Mars has two tiny moons named Phobos and Deimos, which mean 'Fear' and 'Panic' in Greek.",
+      "Scientists have found signs that water used to flow on Mars millions of years ago."
+    ]
+  },
+  {
+    "id": "fact-049",
+    "category": "space",
+    "title": "Jupiter",
+    "emoji": "🪐",
+    "image": "🪐",
+    "facts": [
+      "Jupiter is the biggest planet in our solar system - over 1,300 Earths could fit inside!",
+      "Jupiter's Great Red Spot is a giant storm that has been raging for over 350 years!",
+      "That storm is so big that two or three Earths could fit inside it.",
+      "Jupiter has at least 95 moons - it's like a mini solar system!",
+      "A year on Jupiter lasts about 12 Earth years, but a day is only 10 hours long."
+    ]
+  },
+  {
+    "id": "fact-050",
+    "category": "space",
+    "title": "Saturn's Rings",
+    "emoji": "💫",
+    "image": "💫",
+    "facts": [
+      "Saturn's rings are made of billions of pieces of ice and rock, some as tiny as grains of sand and some as big as houses!",
+      "The rings stretch out really far but are super thin - only about 30 feet thick in some places!",
+      "Saturn could float in a giant bathtub because it's less dense than water!",
+      "The rings might disappear in about 100 million years as they slowly fall into the planet.",
+      "Saturn has over 140 moons - one of them, Titan, is bigger than the planet Mercury!"
+    ]
+  },
+  {
+    "id": "fact-051",
+    "category": "space",
+    "title": "Stars",
+    "emoji": "⭐",
+    "image": "⭐",
+    "facts": [
+      "There are more stars in the universe than grains of sand on all of Earth's beaches!",
+      "Stars twinkle because their light wiggles as it passes through Earth's air.",
+      "Our Sun is actually a star - it just looks bigger because it's the closest one to us!",
+      "Some stars are so far away that their light takes millions of years to reach your eyes.",
+      "When you look at the night sky, some of the stars you see might not exist anymore!"
+    ]
+  },
+  {
+    "id": "fact-052",
+    "category": "space",
+    "title": "Milky Way",
+    "emoji": "🌌",
+    "image": "🌌",
+    "facts": [
+      "Our galaxy, the Milky Way, has between 100 and 400 billion stars in it!",
+      "It got its name because it looks like a splash of spilled milk across the night sky.",
+      "If you could travel at the speed of light, it would take 100,000 years to cross the Milky Way!",
+      "Our solar system is spinning around the center of the Milky Way at 515,000 miles per hour.",
+      "The Milky Way is shaped like a giant pinwheel spinning through space."
+    ]
+  },
+  {
+    "id": "fact-053",
+    "category": "space",
+    "title": "Astronauts",
+    "emoji": "👨‍🚀",
+    "image": "👨‍🚀",
+    "facts": [
+      "Astronauts grow about 2 inches taller in space because there's no gravity squishing their spine!",
+      "They have to exercise 2 hours every day in space or their muscles and bones would get weak.",
+      "In space, astronauts see 16 sunrises and 16 sunsets every single day!",
+      "Astronaut food comes in special pouches - they can even eat ice cream that's freeze-dried!",
+      "Tears don't fall in space - they just stick to your face in a blob because there's no gravity!"
+    ]
+  },
+  {
+    "id": "fact-054",
+    "category": "space",
+    "title": "International Space Station",
+    "emoji": "🛸",
+    "image": "🛸",
+    "facts": [
+      "The International Space Station is as big as a football field and you can see it from Earth with your eyes!",
+      "It zooms around Earth at 17,500 miles per hour - fast enough to circle the whole planet in 90 minutes!",
+      "People from 19 different countries helped build the space station together.",
+      "Astronauts have been living on the ISS nonstop since the year 2000!",
+      "It's the most expensive thing ever built, costing over 100 billion dollars."
+    ]
+  },
+  {
+    "id": "fact-055",
+    "category": "space",
+    "title": "Mercury",
+    "emoji": "⚫",
+    "image": "⚫",
+    "facts": [
+      "Mercury is the closest planet to the Sun but is NOT the hottest - Venus is!",
+      "A year on Mercury is only 88 Earth days, but one day on Mercury lasts 59 Earth days!",
+      "Mercury is the smallest planet in our solar system - only a little bigger than our Moon.",
+      "It has no atmosphere, so it goes from super hot (800°F) to super cold (-290°F)!",
+      "Mercury is covered in craters from space rocks crashing into it, just like our Moon."
+    ]
+  },
+  {
+    "id": "fact-056",
+    "category": "space",
+    "title": "Venus",
+    "emoji": "🌟",
+    "image": "🌟",
+    "facts": [
+      "Venus is the hottest planet in our solar system - hot enough to melt lead!",
+      "It spins backwards compared to most other planets, so the Sun rises in the west there.",
+      "Venus is sometimes called Earth's twin because they're almost the same size.",
+      "A day on Venus is longer than a year on Venus - that's mind-blowing!",
+      "Venus is the brightest planet in our sky - you can see it shining at sunrise or sunset."
+    ]
+  },
+  {
+    "id": "fact-057",
+    "category": "space",
+    "title": "Neptune",
+    "emoji": "🔵",
+    "image": "🔵",
+    "facts": [
+      "Neptune is the windiest planet - winds blow at over 1,200 miles per hour!",
+      "It takes Neptune 165 Earth years to go around the Sun once - that's a really long year!",
+      "Neptune is so far away that it took the Voyager 2 spacecraft 12 years to reach it.",
+      "It's a beautiful deep blue color because of a gas called methane in its atmosphere.",
+      "Neptune has 16 known moons, and the biggest one, Triton, orbits backwards!"
+    ]
+  },
+  {
+    "id": "fact-058",
+    "category": "space",
+    "title": "Comets",
+    "emoji": "☄️",
+    "image": "☄️",
+    "facts": [
+      "Comets are like giant dirty snowballs made of ice, dust, and rock flying through space!",
+      "When a comet gets close to the Sun, the ice melts and creates a glowing tail millions of miles long.",
+      "Some comets take thousands of years to orbit the Sun just once!",
+      "The tail of a comet always points away from the Sun, pushed by solar wind.",
+      "Halley's Comet visits Earth about every 75 years - it will come back in 2061!"
+    ]
+  },
+  {
+    "id": "fact-059",
+    "category": "space",
+    "title": "Black Holes",
+    "emoji": "🕳️",
+    "image": "🕳️",
+    "facts": [
+      "Black holes have gravity so strong that nothing can escape - not even light!",
+      "If you fell into a black hole, you would stretch out like spaghetti - scientists actually call it 'spaghettification'!",
+      "The black hole at the center of our Milky Way is 4 million times heavier than our Sun!",
+      "Time moves slower near a black hole - if you visited one and came back, everyone else would be much older!",
+      "Black holes are invisible, but scientists can see them by watching how they bend light around them."
+    ]
+  },
+  {
+    "id": "fact-060",
+    "category": "space",
+    "title": "Earth",
+    "emoji": "🌍",
+    "image": "🌍",
+    "facts": [
+      "Earth is the only planet we know of that has life - from tiny bacteria to giant whales!",
+      "About 71% of Earth's surface is covered in water, which is why it looks blue from space.",
+      "Earth is spinning at over 1,000 miles per hour right now, but you can't feel it!",
+      "Our planet is about 4.5 billion years old - if Earth's history were a day, humans would appear in the last second before midnight.",
+      "Earth has a giant magnet inside it that protects us from harmful rays from the Sun, like an invisible shield!"
+    ]
+  }
+]

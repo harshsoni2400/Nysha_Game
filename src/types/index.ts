@@ -57,12 +57,21 @@ export interface UserProfile {
   totalSessions: number;
 }
 
+export interface FunFact {
+  id: string;
+  category: "animals" | "places" | "flags" | "space";
+  title: string;
+  emoji: string;
+  image: string;
+  facts: [string, string, string, string, string];
+}
+
 export interface GeneratedCache {
   questions: Question[];
   words: Word[];
   lastGenerated: string;
 }
 
-export type Activity = "quiz" | "words" | "game" | "video" | "review";
+export type Activity = "quiz" | "words" | "game" | "video" | "funfacts" | "review";
 
-export const ACTIVITY_ORDER: Activity[] = ["quiz", "words", "game", "video", "review"];
+export const ACTIVITY_ORDER: Activity[] = ["quiz", "words", "game", "video", "funfacts", "review"];

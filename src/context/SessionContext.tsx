@@ -14,6 +14,7 @@ interface SessionContextType {
   completeWords: () => void;
   completeGame: (moves: number, timeSeconds: number) => void;
   completeVideo: () => void;
+  completeFunFacts: () => void;
   isActivityUnlocked: (activity: Activity) => boolean;
   isActivityCompleted: (activity: Activity) => boolean;
   nextActivity: () => Activity | null;
@@ -143,6 +144,17 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
     });
   }, []);
 
+  const completeFunFacts = useCallback(() => {
+    setSession((prev) => {
+      const updated = { ...prev };
+      if (!updated.completedActivities.includes("funfacts")) {
+        updated.completedActivities = [...updated.completedActivities, "funfacts"];
+      }
+      localStorage.setItem(`brainspark_session_${updated.date}`, JSON.stringify(updated));
+      return updated;
+    });
+  }, []);
+
   const isActivityCompleted = useCallback(
     (activity: Activity) => session.completedActivities.includes(activity),
     [session.completedActivities]
@@ -201,6 +213,7 @@ export function SessionProvider({ children }: { children: React.ReactNode }) {
         completeWords,
         completeGame,
         completeVideo,
+        completeFunFacts,
         isActivityUnlocked,
         isActivityCompleted,
         nextActivity,

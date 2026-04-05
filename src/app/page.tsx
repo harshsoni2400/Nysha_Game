@@ -12,7 +12,8 @@ const ACTIVITIES: { id: Activity; title: string; icon: string; time: string; col
   { id: "words", title: "New Words", icon: "📚", time: "2 min", color: "from-green-200 to-green-100 border-green-300" },
   { id: "game", title: "Memory Game", icon: "🃏", time: "3 min", color: "from-amber-200 to-amber-100 border-amber-300" },
   { id: "video", title: "Video Time", icon: "🎬", time: "2 min", color: "from-pink-200 to-pink-100 border-pink-300" },
-  { id: "review", title: "Brain Challenge", icon: "💡", time: "1 min", color: "from-purple-200 to-purple-100 border-purple-300" },
+  { id: "funfacts", title: "Fun Facts", icon: "🌍", time: "2 min", color: "from-teal-200 to-teal-100 border-teal-300" },
+  { id: "review", title: "Brain Challenge", icon: "💡", time: "2 min", color: "from-purple-200 to-purple-100 border-purple-300" },
 ];
 
 export default function Dashboard() {

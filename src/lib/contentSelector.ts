@@ -1,4 +1,4 @@
-import { Question, Word, Video } from "@/types";
+import { Question, Word, Video, FunFact } from "@/types";
 
 function hashDate(date: string): number {
   let hash = 0;
@@ -86,26 +86,16 @@ export function selectDailyWords(
 }
 
 export function selectDailyVideo(allVideos: Video[], date: string): Video {
-  if (typeof window === "undefined") return allVideos[0];
-  const indexKey = "brainspark_video_index";
-  let index = 0;
-  try {
-    const stored = localStorage.getItem(indexKey);
-    const lastDate = localStorage.getItem("brainspark_video_last_date");
-    if (stored !== null && lastDate === date) {
-      index = parseInt(stored, 10);
-    } else if (stored !== null) {
-      index = (parseInt(stored, 10) + 1) % allVideos.length;
-      localStorage.setItem(indexKey, index.toString());
-      localStorage.setItem("brainspark_video_last_date", date);
-    } else {
-      localStorage.setItem(indexKey, "0");
-      localStorage.setItem("brainspark_video_last_date", date);
-    }
-  } catch {
-    // ignore
-  }
-  return allVideos[index % allVideos.length];
+  // Use date-seeded index so same date always picks same video
+  const seed = hashDate(date);
+  const index = seed % allVideos.length;
+  return allVideos[index];
+}
+
+export function selectDailyFunFact(allFacts: FunFact[], date: string): FunFact {
+  const seed = hashDate(date + "funfact");
+  const index = seed % allFacts.length;
+  return allFacts[index];
 }
 
 export function selectReviewQuestions(
@@ -118,12 +108,12 @@ export function selectReviewQuestions(
   const seed = hashDate(date + "review");
   const result: Question[] = [];
 
-  // 2-3 IQ questions
+  // 6 IQ questions
   const shuffledIq = seededShuffle(iqQuestions, seed);
-  result.push(...shuffledIq.slice(0, 3));
+  result.push(...shuffledIq.slice(0, 6));
 
-  // 2 reinforcement questions from today's words
-  const wordQuestions: Question[] = todayWords.slice(0, 2).map((w, i) => ({
+  // 4 reinforcement questions from today's words
+  const wordQuestions: Question[] = todayWords.slice(0, 4).map((w, i) => ({
     id: `review-word-${i}`,
     subject: "english" as const,
     question: `What does "${w.word}" mean?`,
@@ -143,7 +133,7 @@ export function selectReviewQuestions(
   }
 
   result.push(...wordQuestions);
-  return result.slice(0, 5);
+  return result.slice(0, 10);
 }
 
 function generateWordOptions(

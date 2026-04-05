@@ -70,7 +70,7 @@ export default function ReviewPage() {
         <div className="bg-white/90 rounded-3xl p-8 shadow-xl text-center max-w-sm animate-bounce-in">
           <div className="text-6xl mb-4">💡</div>
           <h2 className="text-3xl font-bold text-purple-700">Brain Challenge Done!</h2>
-          <p className="text-6xl font-black text-purple-600 my-4">
+          <p className="text-5xl font-black text-purple-600 my-4">
             {score}/{questions.length}
           </p>
           <p className="text-lg text-gray-600">{getEncouragement(score, questions.length)}</p>
