@@ -20,16 +20,6 @@ export interface Word {
   source: "bank" | "generated";
 }
 
-export interface Video {
-  id: string;
-  youtubeId: string;
-  title: string;
-  description: string;
-  channel: string;
-  subject: "math" | "english" | "science" | "gk";
-  durationSeconds: number;
-}
-
 export interface UserProfile {
   name: string;
   createdAt: string;
@@ -37,6 +27,19 @@ export interface UserProfile {
   longestStreak: number;
   lastSessionDate: string;
   totalSessions: number;
+}
+
+export interface Country {
+  id: string;
+  name: string;
+  capital: string;
+  continent: string;
+  language: string;
+  flag: string;
+  currency: string;
+  funFact: string;
+  famousFor: string;
+  greeting: string;
 }
 
 export interface FunFact {

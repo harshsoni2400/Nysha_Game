@@ -7,12 +7,12 @@ import StreakCounter from "@/components/StreakCounter";
 import Mascot from "@/components/Mascot";
 
 const ACTIVITIES = [
-  { id: "quiz", title: "Quiz Time", icon: "🧠", time: "2 min", color: "from-sky-200 to-sky-100 border-sky-300" },
-  { id: "words", title: "New Words", icon: "📚", time: "2 min", color: "from-green-200 to-green-100 border-green-300" },
-  { id: "game", title: "Memory Game", icon: "🃏", time: "3 min", color: "from-amber-200 to-amber-100 border-amber-300" },
-  { id: "video", title: "Video Time", icon: "🎬", time: "2 min", color: "from-pink-200 to-pink-100 border-pink-300" },
-  { id: "funfacts", title: "Fun Facts", icon: "🌍", time: "2 min", color: "from-teal-200 to-teal-100 border-teal-300" },
-  { id: "review", title: "Brain Challenge", icon: "💡", time: "2 min", color: "from-purple-200 to-purple-100 border-purple-300" },
+  { id: "quiz", title: "Quiz Time", icon: "🧠", color: "from-sky-300 to-sky-100", border: "border-sky-400" },
+  { id: "words", title: "New Words", icon: "📚", color: "from-green-300 to-green-100", border: "border-green-400" },
+  { id: "game", title: "Memory Game", icon: "🃏", color: "from-amber-300 to-amber-100", border: "border-amber-400" },
+  { id: "explorer", title: "World Explorer", icon: "🌎", color: "from-orange-300 to-orange-100", border: "border-orange-400" },
+  { id: "funfacts", title: "Fun Facts", icon: "🌍", color: "from-teal-300 to-teal-100", border: "border-teal-400" },
+  { id: "review", title: "Brain Challenge", icon: "💡", color: "from-purple-300 to-purple-100", border: "border-purple-400" },
 ];
 
 export default function Dashboard() {
@@ -52,7 +52,7 @@ export default function Dashboard() {
   };
 
   return (
-    <div className="min-h-screen p-6 max-w-lg mx-auto">
+    <div className="min-h-screen p-6 max-w-2xl mx-auto">
       {/* Name modal */}
       {showNameModal && (
         <div className="fixed inset-0 bg-black/30 backdrop-blur-sm z-50 flex items-center justify-center p-4">
@@ -84,35 +84,27 @@ export default function Dashboard() {
 
       {/* Header */}
       <div className="flex justify-between items-start mb-6">
-        <div>
-          <Mascot
-            expression="happy"
-            message={`${greeting()}, ${profile?.name || "friend"}! Pick any activity!`}
-          />
-        </div>
+        <Mascot
+          expression="happy"
+          message={`${greeting()}, ${profile?.name || "friend"}!`}
+        />
         <StreakCounter streak={profile?.currentStreak || 0} />
       </div>
 
       {/* Title */}
-      <h1 className="text-3xl font-black text-purple-800 mb-2">Pick an Activity</h1>
-      <p className="text-gray-600 mb-6">Play anything you like, as many times as you want!</p>
+      <h1 className="text-3xl font-black text-purple-800 mb-1">Pick an Activity</h1>
+      <p className="text-gray-600 mb-6">Play anything you like!</p>
 
-      {/* Activity cards */}
-      <div className="flex flex-col gap-4">
+      {/* Square grid */}
+      <div className="grid grid-cols-2 gap-4">
         {ACTIVITIES.map((activity) => (
           <button
             key={activity.id}
             onClick={() => router.push(`/${activity.id}`)}
-            className={`bg-gradient-to-r ${activity.color} border-2 rounded-2xl p-5 text-left transition-all duration-300 hover:shadow-lg hover:scale-[1.02] active:scale-[0.98]`}
+            className={`bg-gradient-to-br ${activity.color} ${activity.border} border-2 rounded-3xl p-4 aspect-square flex flex-col items-center justify-center gap-3 transition-all duration-200 hover:shadow-xl hover:scale-[1.04] active:scale-[0.96] shadow-md`}
           >
-            <div className="flex items-center gap-4">
-              <span className="text-4xl">{activity.icon}</span>
-              <div className="flex-1">
-                <h3 className="text-xl font-bold text-gray-800">{activity.title}</h3>
-                <p className="text-sm text-gray-600">{activity.time}</p>
-              </div>
-              <span className="text-2xl">▶️</span>
-            </div>
+            <span className="text-6xl">{activity.icon}</span>
+            <span className="text-lg font-bold text-gray-800 leading-tight text-center">{activity.title}</span>
           </button>
         ))}
       </div>

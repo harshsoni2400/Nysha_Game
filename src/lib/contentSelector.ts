@@ -1,4 +1,4 @@
-import { Question, Word, Video, FunFact } from "@/types";
+import { Question, Word, FunFact } from "@/types";
 
 function hashDate(date: string): number {
   let hash = 0;
@@ -83,13 +83,6 @@ export function selectDailyWords(
     result.map((w) => w.id)
   );
   return result;
-}
-
-export function selectDailyVideo(allVideos: Video[], date: string): Video {
-  // Use date-seeded index so same date always picks same video
-  const seed = hashDate(date);
-  const index = seed % allVideos.length;
-  return allVideos[index];
 }
 
 export function selectDailyFunFact(allFacts: FunFact[], date: string): FunFact {
