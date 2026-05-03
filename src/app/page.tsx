@@ -10,6 +10,8 @@ const ACTIVITIES = [
   { id: "quiz", title: "Quiz Time", icon: "🧠", color: "from-sky-300 to-sky-100", border: "border-sky-400" },
   { id: "words", title: "New Words", icon: "📚", color: "from-green-300 to-green-100", border: "border-green-400" },
   { id: "game", title: "Memory Game", icon: "🃏", color: "from-amber-300 to-amber-100", border: "border-amber-400" },
+  { id: "unblock", title: "Unblock Me", icon: "🧩", color: "from-red-300 to-red-100", border: "border-red-400" },
+  { id: "maze", title: "Maze Puzzle", icon: "🗺️", color: "from-violet-300 to-violet-100", border: "border-violet-400" },
   { id: "explorer", title: "World Explorer", icon: "🌎", color: "from-orange-300 to-orange-100", border: "border-orange-400" },
   { id: "funfacts", title: "Fun Facts", icon: "🌍", color: "from-teal-300 to-teal-100", border: "border-teal-400" },
   { id: "review", title: "Brain Challenge", icon: "💡", color: "from-purple-300 to-purple-100", border: "border-purple-400" },
