@@ -12,6 +12,7 @@ const ACTIVITIES = [
   { id: "game", title: "Memory Game", icon: "🃏", color: "from-amber-300 to-amber-100", border: "border-amber-400" },
   { id: "unblock", title: "Unblock Me", icon: "🧩", color: "from-red-300 to-red-100", border: "border-red-400" },
   { id: "maze", title: "Maze Puzzle", icon: "🗺️", color: "from-violet-300 to-violet-100", border: "border-violet-400" },
+  { id: "code-quest", title: "Code Quest", icon: "🤖", color: "from-indigo-300 to-indigo-100", border: "border-indigo-400" },
   { id: "explorer", title: "World Explorer", icon: "🌎", color: "from-orange-300 to-orange-100", border: "border-orange-400" },
   { id: "funfacts", title: "Fun Facts", icon: "🌍", color: "from-teal-300 to-teal-100", border: "border-teal-400" },
   { id: "review", title: "Brain Challenge", icon: "💡", color: "from-purple-300 to-purple-100", border: "border-purple-400" },
